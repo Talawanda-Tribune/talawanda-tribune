@@ -1,9 +1,18 @@
-{{ with .GetTerms "author" }}
-  <p class="article-authors">
-    By
-    {{ range $index, $author := . }}
+{{ $authors := .Params.author }}
+{{ with $authors }}
+  {{ if not (reflect.IsSlice $authors) }}
+    {{ $authors = slice $authors }}
+  {{ end }}
+    {{ range $index, $author := $authors }}
       {{- if $index }}, {{ end }}
-      <a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
+      {{- $authorPage := site.GetPage (printf "/staff/inactive/%s" (urlize $author)) -}}
+      {{- if not $authorPage -}}
+        {{- $authorPage = site.GetPage (printf "/staff/%s" (urlize $author)) -}}
+      {{- end -}}
+      {{- with $authorPage -}}
+        <a href="{{ .RelPermalink }}">{{ $author }}</a>
+      {{- else -}}
+        {{ $author }}
+      {{- end -}}
     {{- end }}
-  </p>
 {{ end }}

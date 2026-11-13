@@ -98,6 +98,10 @@ header {
     max-width: 12000px;
     margin:auto;
 }
+.article-wrap {
+    max-width: 800px;
+    margin:auto;
+}
 .articlesList-standard,
 .articlesList-remaining {
     display:grid;
@@ -152,4 +156,9 @@ header {
 .header-wrap {
     background-color: #d3413f;
 
+}
+.article-byline > *{
+    display: inline;
+    color: #434343;
+    text-decoration: none;
 }

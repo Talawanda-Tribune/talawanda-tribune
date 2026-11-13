@@ -6,11 +6,24 @@ main:
     identifier: articles
   - name: Staff
     url: /staff/
-    weight: 2
+    weight: 3
   - name: Categories
     url: /categories/
-    weight: 3
+    weight: 4
   - name: "2020"
     url: /articles/2020/
     weight: 1
     parent: articles
+  - name: "School"
+    url: /categories/school/
+    weight: 2
+  - name: "Lifestyle"
+    url: /categories/lifestyle/
+    weight: 5
+  - name: Tribune Tries It
+    url: /categories/tribune-tries-it
+    parent: Lifestyle
+    weight: 1
+  - name: Tribune Read It
+    url: /categories/tribune-read-it
+    weight: 2

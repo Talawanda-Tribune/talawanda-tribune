@@ -1,8 +1,15 @@
 {{ define "main" }}
+<div class="article-wrap">
 <h1>{{ .Title }}</h1>
-<h3>{{ .Date.Format "Mon Jan 2 2006" }}</h3>
-    <h3>{{ partial "authorList.html" . }}</h3>
-<div>
-    {{ .Content }}
+<p class="article-byline">
+    {{ partial "authorList.html" . }}
+    &bull;
+    {{ .Date.Format "Jan 2 2006" }}
+</p>
+    <br>
+
+    <div class="article-content">
+            {{ .Content }}
+    </div>
 </div>
 {{ end }}
