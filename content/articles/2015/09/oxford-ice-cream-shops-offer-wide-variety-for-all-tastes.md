@@ -1,6 +1,6 @@
 ---
 title: "Oxford Ice Cream Shops Offer Wide Variety for all Tastes"
-author: ["Katie Johnston"]
+authors: ["Katie Johnston"]
 nickname: ""
 categories: []
 tags: []

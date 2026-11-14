@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus Update"
-author: ["Rita Barclay-Hart and Eliot Berberich"]
+authors: ["Rita Barclay-Hart", "Eliot Berberich"]
 nickname: ""
 categories: ["Local", "National & Global", "News", "School"]
 tags: ["coronavirus"]

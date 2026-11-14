@@ -1,6 +1,6 @@
 ---
 title: "Out With the Old Wal-Mart, In With the New…"
-author: ["Sylvia de Boer"]
+authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []
 tags: []

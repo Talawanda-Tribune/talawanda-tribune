@@ -1,6 +1,6 @@
 ---
 title: "Snailfish_ Cuties of the Deep"
-author: ["Luca Berberich"]
+authors: ["Luca Berberich"]
 nickname: ""
 categories: []
 tags: []

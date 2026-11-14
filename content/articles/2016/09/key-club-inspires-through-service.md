@@ -1,6 +1,6 @@
 ---
 title: "Key Club Inspires Through Service"
-author: ["L. Vaughn, Staff Reporter"]
+authors: ["L. Vaughn, Staff Reporter"]
 nickname: ""
 categories: []
 tags: []

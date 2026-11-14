@@ -1,6 +1,6 @@
 ---
 title: "An Open Letter to Talawanda High School Students"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

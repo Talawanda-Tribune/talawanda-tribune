@@ -1,6 +1,6 @@
 ---
 title: "Ten Ideas for How to Make the Most of Your Snow Day"
-author: ["JORDAN GRESHAM"]
+authors: ["JORDAN GRESHAM"]
 nickname: ""
 categories: []
 tags: []

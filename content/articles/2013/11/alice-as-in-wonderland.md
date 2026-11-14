@@ -1,6 +1,6 @@
 ---
 title: "Alice, As In Wonderland"
-author: ["Sylvia de Boer"]
+authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []
 tags: []

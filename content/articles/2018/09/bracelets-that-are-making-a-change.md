@@ -1,6 +1,6 @@
 ---
 title: "Bracelets That Are Making a Change"
-author: ["Ellen Heyob and Hallie Endres"]
+authors: ["Ellen Heyob", "Hallie Endres"]
 nickname: ""
 categories: ["Fashion", "Lifestyle"]
 tags: []

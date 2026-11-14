@@ -1,18 +1,5 @@
-{{ $authors := .Params.author }}
-{{ with $authors }}
-  {{ if not (reflect.IsSlice $authors) }}
-    {{ $authors = slice $authors }}
-  {{ end }}
-    {{ range $index, $author := $authors }}
-      {{- if $index }}, {{ end }}
-      {{- $authorPage := site.GetPage (printf "/staff/inactive/%s" (urlize $author)) -}}
-      {{- if not $authorPage -}}
-        {{- $authorPage = site.GetPage (printf "/staff/%s" (urlize $author)) -}}
-      {{- end -}}
-      {{- with $authorPage -}}
-        <a href="{{ .RelPermalink }}">{{ $author }}</a>
-      {{- else -}}
-        {{ $author }}
-      {{- end -}}
-    {{- end }}
-{{ end }}
+{{ $authors := .GetTerms "authors" }}
+{{ range $index, $author := $authors }}
+  {{- if $index }}{{ if eq $index (sub (len $authors) 1) }} and {{ else }}, {{ end }}{{ end }}
+  <a href="{{ $author.RelPermalink }}">{{ $author.LinkTitle }}</a>
+{{- end }}

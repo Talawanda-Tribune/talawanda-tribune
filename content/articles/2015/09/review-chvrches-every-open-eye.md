@@ -1,6 +1,6 @@
 ---
 title: "Review_ Chvrches’ “Every Open Eye”"
-author: ["m. aerni"]
+authors: ["m. aerni"]
 nickname: ""
 categories: []
 tags: []

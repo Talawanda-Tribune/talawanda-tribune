@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Ross Relays Results for FAVC"
-author: ["Ashley Curtner"]
+authors: ["Ashley Curtner"]
 nickname: ""
 categories: []
 tags: []

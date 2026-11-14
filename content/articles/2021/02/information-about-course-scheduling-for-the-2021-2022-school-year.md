@@ -1,6 +1,6 @@
 ---
 title: "Information About Course Scheduling for the 2021-2022 School Year"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["2021-2022 Course Offerings", "classes", "Scheduling"]

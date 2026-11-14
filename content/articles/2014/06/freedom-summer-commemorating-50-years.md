@@ -1,6 +1,6 @@
 ---
 title: "Freedom Summer- Commemorating 50 Years"
-author: ["Lauren Flum and Chelsea Ashdown"]
+authors: ["Lauren Flum", "Chelsea Ashdown"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Darian Bolin’s Top 15 Albums of 2015"
-author: ["Darian Bolin"]
+authors: ["Darian Bolin"]
 nickname: ""
 categories: []
 tags: []

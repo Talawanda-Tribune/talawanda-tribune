@@ -1,6 +1,6 @@
 ---
 title: "A New Club Rolls Into the Scene"
-author: ["C. Goodman"]
+authors: ["C. Goodman"]
 nickname: ""
 categories: []
 tags: []

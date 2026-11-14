@@ -1,6 +1,6 @@
 ---
 title: "Destiny...To Succeed"
-author: ["By: TRENTON YOUNG"]
+authors: ["TRENTON YOUNG"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Eviction Notice"
-author: ["Kenneth Revelee"]
+authors: ["Kenneth Revelee"]
 nickname: ""
 categories: []
 tags: []

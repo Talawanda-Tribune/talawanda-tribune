@@ -1,6 +1,6 @@
 ---
 title: "Flexible Scheduling May Offer New Options at Talawanda"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

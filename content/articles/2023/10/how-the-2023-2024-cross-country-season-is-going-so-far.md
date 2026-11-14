@@ -1,6 +1,6 @@
 ---
 title: "How the 2023-2024 Cross Country Season Is Going So Far"
-author: ["Sadie Abbitt"]
+authors: ["Sadie Abbitt"]
 nickname: ""
 categories: []
 tags: []

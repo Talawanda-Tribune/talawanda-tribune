@@ -1,6 +1,6 @@
 ---
 title: "Almost, Maine"
-author: ["CAMRY W-N"]
+authors: ["CAMRY W-N"]
 nickname: ""
 categories: ["Arts and Entertainment", "News", "School", "Theater"]
 tags: []

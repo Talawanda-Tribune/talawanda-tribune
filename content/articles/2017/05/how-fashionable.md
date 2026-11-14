@@ -1,6 +1,6 @@
 ---
 title: "How Fashionable"
-author: ["By: MK Huddleston and Madi Hickman"]
+authors: ["MK Huddleston", "Madi Hickman"]
 nickname: ""
 categories: []
 tags: []

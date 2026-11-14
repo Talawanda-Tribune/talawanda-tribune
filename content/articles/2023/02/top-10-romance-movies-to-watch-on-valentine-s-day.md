@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Romance Movies to Watch on Valentine’s Day"
-author: ["Kim Reteguin"]
+authors: ["Kim Reteguin"]
 nickname: ""
 categories: []
 tags: []

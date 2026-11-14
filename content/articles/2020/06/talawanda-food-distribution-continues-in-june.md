@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Food Distribution Continues in June"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

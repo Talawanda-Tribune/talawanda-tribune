@@ -1,6 +1,6 @@
 ---
 title: "Movember"
-author: ["ELLEN HEYOB"]
+authors: ["ELLEN HEYOB"]
 nickname: ""
 categories: ["News", "School"]
 tags: []

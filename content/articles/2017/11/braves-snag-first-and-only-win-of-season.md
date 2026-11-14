@@ -1,6 +1,6 @@
 ---
 title: "Braves Snag First and Only Win of Season"
-author: ["AUSTIN HOWARD"]
+authors: ["AUSTIN HOWARD"]
 nickname: ""
 categories: []
 tags: []

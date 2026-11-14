@@ -1,6 +1,6 @@
 ---
 title: "Sufjan Stevens at the Murat Theatre in Indianapolis"
-author: ["m. aerni"]
+authors: ["m. aerni"]
 nickname: ""
 categories: []
 tags: []

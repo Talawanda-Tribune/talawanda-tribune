@@ -1,6 +1,6 @@
 ---
 title: "THS Mock Trial_ State Bound"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

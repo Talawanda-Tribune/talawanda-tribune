@@ -1,6 +1,6 @@
 ---
 title: "Pride Day 2019"
-author: ["Carly Goodman"]
+authors: ["Carly Goodman"]
 nickname: ""
 categories: []
 tags: []

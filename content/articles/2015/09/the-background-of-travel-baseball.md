@@ -1,6 +1,6 @@
 ---
 title: "The Background of Travel Baseball"
-author: ["harper"]
+authors: ["harper"]
 nickname: ""
 categories: []
 tags: []

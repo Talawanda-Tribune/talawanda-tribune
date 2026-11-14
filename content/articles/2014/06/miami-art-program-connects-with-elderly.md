@@ -1,6 +1,6 @@
 ---
 title: "Miami Art Program Connects With Elderly"
-author: ["sylvia"]
+authors: ["sylvia"]
 nickname: ""
 categories: []
 tags: []

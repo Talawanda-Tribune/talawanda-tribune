@@ -1,6 +1,6 @@
 ---
 title: "Students Sound Off on the Election"
-author: ["Piper Muhlhauser"]
+authors: ["Piper Muhlhauser"]
 nickname: ""
 categories: []
 tags: []

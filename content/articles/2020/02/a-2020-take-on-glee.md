@@ -1,6 +1,6 @@
 ---
 title: "A 2020 Take on “Glee”"
-author: ["Hiley Kresse"]
+authors: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment", "Film & Television"]
 tags: ["Glee"]

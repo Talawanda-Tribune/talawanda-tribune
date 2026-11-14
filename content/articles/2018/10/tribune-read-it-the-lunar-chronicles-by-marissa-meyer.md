@@ -1,6 +1,6 @@
 ---
 title: "Tribune Read It_ The Lunar Chronicles by Marissa Meyer"
-author: ["Story and Photos by ALYSSA SMITH"]
+authors: ["Story", "Photos by ALYSSA SMITH"]
 nickname: ""
 categories: ["Tribune Read It"]
 tags: []

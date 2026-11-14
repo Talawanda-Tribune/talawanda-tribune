@@ -1,6 +1,6 @@
 ---
 title: "Debate Brings Fire Power, and More Trump"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

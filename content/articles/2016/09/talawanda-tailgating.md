@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Tailgating"
-author: ["Hacker & Hickman"]
+authors: ["Hacker", "Hickman"]
 nickname: ""
 categories: []
 tags: []

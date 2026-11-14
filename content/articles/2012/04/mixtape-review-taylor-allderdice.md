@@ -1,6 +1,6 @@
 ---
 title: "Mixtape review_ Taylor Allderdice"
-author: ["ryanlickliter"]
+authors: ["ryanlickliter"]
 nickname: ""
 categories: []
 tags: []

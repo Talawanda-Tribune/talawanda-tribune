@@ -1,6 +1,6 @@
 ---
 title: "Stink Bomb Epidemic"
-author: ["Olivia Fitzgerald"]
+authors: ["Olivia Fitzgerald"]
 nickname: ""
 categories: []
 tags: []

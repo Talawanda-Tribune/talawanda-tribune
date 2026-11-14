@@ -1,6 +1,6 @@
 ---
 title: "“The Great American Trailer Park Musical” Comes to Oxford"
-author: ["Lauren Flum"]
+authors: ["Lauren Flum"]
 nickname: ""
 categories: []
 tags: []

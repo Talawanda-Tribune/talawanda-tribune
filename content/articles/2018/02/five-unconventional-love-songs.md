@@ -1,6 +1,6 @@
 ---
 title: "Five Unconventional Love Songs"
-author: ["Max Hannum"]
+authors: ["Max Hannum"]
 nickname: ""
 categories: []
 tags: []

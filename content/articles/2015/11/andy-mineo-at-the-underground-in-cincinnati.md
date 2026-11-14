@@ -1,6 +1,6 @@
 ---
 title: "Andy Mineo at The Underground in Cincinnati"
-author: ["De'Asia Owens"]
+authors: ["De'Asia Owens"]
 nickname: ""
 categories: []
 tags: []

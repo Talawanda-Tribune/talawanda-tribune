@@ -1,6 +1,6 @@
 ---
 title: "Let’s BeReal"
-author: ["Liv McGownd"]
+authors: ["Liv McGownd"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Spring Social Photo Gallery"
-author: ["Photos by Olivia Lauer"]
+authors: ["Olivia Lauer"]
 nickname: ""
 categories: []
 tags: []

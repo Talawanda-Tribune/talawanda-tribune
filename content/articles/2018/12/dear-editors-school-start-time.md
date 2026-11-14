@@ -1,6 +1,6 @@
 ---
 title: "Dear Editors_ School Start Time"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

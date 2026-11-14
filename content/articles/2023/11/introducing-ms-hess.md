@@ -1,6 +1,6 @@
 ---
 title: "Introducing Ms. Hess"
-author: ["Eliza Sullivan"]
+authors: ["Eliza Sullivan"]
 nickname: ""
 categories: []
 tags: []

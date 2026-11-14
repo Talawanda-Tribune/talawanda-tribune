@@ -1,3 +1,0 @@
----
-name: "Hiley Kresse"
----

@@ -1,6 +1,6 @@
 ---
 title: "New Club at Talawanda Focuses on Technology"
-author: ["collins"]
+authors: ["collins"]
 nickname: ""
 categories: []
 tags: []

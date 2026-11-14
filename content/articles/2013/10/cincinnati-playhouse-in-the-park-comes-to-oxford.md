@@ -1,6 +1,6 @@
 ---
 title: "Cincinnati Playhouse in the Park Comes to Oxford"
-author: ["Amber Young"]
+authors: ["Amber Young"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Nerf Warz 2013"
-author: ["Ian Weller"]
+authors: ["Ian Weller"]
 nickname: ""
 categories: []
 tags: []

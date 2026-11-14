@@ -1,6 +1,6 @@
 ---
 title: "THS Cross Country Takes the Dub at SWOC"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: []
 tags: []

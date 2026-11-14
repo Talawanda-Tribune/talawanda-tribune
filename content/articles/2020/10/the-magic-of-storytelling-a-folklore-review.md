@@ -1,6 +1,6 @@
 ---
 title: "The Magic of Storytelling – A Folklore Review"
-author: ["Hiley Kresse"]
+authors: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment"]
 tags: ["Taylor Swift"]

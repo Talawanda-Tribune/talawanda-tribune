@@ -1,6 +1,6 @@
 ---
 title: "2020_  Impish or Admirable__"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

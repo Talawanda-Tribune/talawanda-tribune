@@ -1,6 +1,6 @@
 ---
 title: "Review_ Star Wars – The Book of Boba Fett"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

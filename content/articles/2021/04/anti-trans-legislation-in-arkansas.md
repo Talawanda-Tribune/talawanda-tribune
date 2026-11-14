@@ -1,6 +1,6 @@
 ---
 title: "Anti-Trans Legislation in Arkansas"
-author: ["Eliza Sullivan"]
+authors: ["Eliza Sullivan"]
 nickname: ""
 categories: []
 tags: []

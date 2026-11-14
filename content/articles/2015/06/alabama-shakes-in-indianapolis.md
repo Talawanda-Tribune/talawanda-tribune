@@ -1,6 +1,6 @@
 ---
 title: "Alabama Shakes in Indianapolis"
-author: ["m. aerni"]
+authors: ["m. aerni"]
 nickname: ""
 categories: []
 tags: []

@@ -1,3 +1,0 @@
----
-name: "Rita Zhou-Wang"
----

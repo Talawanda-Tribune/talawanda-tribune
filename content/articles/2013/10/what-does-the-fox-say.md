@@ -1,6 +1,6 @@
 ---
 title: "What Does the Fox Say"
-author: ["admin"]
+authors: ["admin"]
 nickname: ""
 categories: []
 tags: []

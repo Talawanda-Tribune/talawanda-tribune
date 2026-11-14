@@ -1,6 +1,6 @@
 ---
 title: "Pep Rallies_ Do They Raise Spirits"
-author: ["ALYSSA SMITH"]
+authors: ["ALYSSA SMITH"]
 nickname: ""
 categories: ["Opinion", "Sports"]
 tags: []

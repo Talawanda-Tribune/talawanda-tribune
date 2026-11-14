@@ -1,6 +1,6 @@
 ---
 title: "The “Sweet Seven” Eating Outdoors"
-author: ["jansson"]
+authors: ["jansson"]
 nickname: ""
 categories: []
 tags: []

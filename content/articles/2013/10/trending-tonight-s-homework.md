@@ -1,6 +1,6 @@
 ---
 title: "Trending_ Tonight’s Homework"
-author: ["Sylvia de Boer"]
+authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Diversity Club FAQ"
-author: ["Victoria Dobson"]
+authors: ["Victoria Dobson"]
 nickname: ""
 categories: []
 tags: []

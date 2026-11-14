@@ -1,6 +1,6 @@
 ---
 title: "Late to the Party_ Grand Theft Auto V"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

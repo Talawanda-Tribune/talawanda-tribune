@@ -1,3 +1,0 @@
----
-name: "Jingle Bell Rockers"
----

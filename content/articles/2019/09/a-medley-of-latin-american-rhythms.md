@@ -1,6 +1,6 @@
 ---
 title: "A Medley of Latin American Rhythms"
-author: ["Photos by K. Fears"]
+authors: ["K. Fears"]
 nickname: ""
 categories: []
 tags: []

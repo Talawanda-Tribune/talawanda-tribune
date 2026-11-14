@@ -1,6 +1,6 @@
 ---
 title: "Talent Show Review"
-author: ["Morgan Sly"]
+authors: ["Morgan Sly"]
 nickname: ""
 categories: []
 tags: []

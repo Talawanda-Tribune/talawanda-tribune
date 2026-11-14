@@ -1,6 +1,6 @@
 ---
 title: "Ms. Schran_  Ask Me Almost Anything"
-author: ["Jordan Gresham"]
+authors: ["Jordan Gresham"]
 nickname: ""
 categories: []
 tags: []

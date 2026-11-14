@@ -1,6 +1,6 @@
 ---
 title: "MusicNOW–2012"
-author: ["m. aerni"]
+authors: ["m. aerni"]
 nickname: ""
 categories: []
 tags: []

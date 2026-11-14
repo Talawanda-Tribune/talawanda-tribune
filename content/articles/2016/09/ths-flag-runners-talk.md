@@ -1,6 +1,6 @@
 ---
 title: "THS Flag Runners Talk"
-author: ["Hacker & Hibbard, Flag Runner Extraordinaires"]
+authors: ["Hacker", "Hibbard", "Flag Runner Extraordinaires"]
 nickname: ""
 categories: []
 tags: []

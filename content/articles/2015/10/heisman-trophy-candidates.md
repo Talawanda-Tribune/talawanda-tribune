@@ -1,6 +1,6 @@
 ---
 title: "Heisman Trophy Candidates"
-author: ["Tyler Rothert"]
+authors: ["Tyler Rothert"]
 nickname: ""
 categories: []
 tags: []

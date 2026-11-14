@@ -1,6 +1,6 @@
 ---
 title: "Update on The Voice"
-author: ["Lauren South"]
+authors: ["Lauren South"]
 nickname: ""
 categories: []
 tags: []

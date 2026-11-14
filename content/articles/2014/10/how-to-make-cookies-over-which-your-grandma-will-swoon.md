@@ -1,6 +1,6 @@
 ---
 title: "How to Make Cookies Over Which Your Grandma Will Swoon"
-author: ["smith"]
+authors: ["smith"]
 nickname: ""
 categories: []
 tags: []

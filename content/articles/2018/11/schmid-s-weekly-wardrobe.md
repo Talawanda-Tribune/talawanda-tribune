@@ -1,6 +1,6 @@
 ---
 title: "Schmid’s Weekly Wardrobe"
-author: ["SKYLER BROWN"]
+authors: ["SKYLER BROWN"]
 nickname: ""
 categories: []
 tags: []

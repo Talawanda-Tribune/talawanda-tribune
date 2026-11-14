@@ -1,18 +1,14 @@
 ---
 title: "THS Baseball Left With No Coach"
-author: ["PENDING REVIEW"]
+authors: ["Austin Hibbard"]
 nickname: ""
-categories: ["Needs Review"]
+categories: []
 tags: []
 cover: "/media/ths-baseball-left-with-no-coach-image1.jpg"
 draft: false
-review_required: true
+review_required: false
 date: 2015-09-23
 ---
-
-**THS Baseball Left With No Coach**
-
-**Added by Austin Hibbard September 23, 2015**
 
 ![](/media/ths-baseball-left-with-no-coach-image1.jpg)
 

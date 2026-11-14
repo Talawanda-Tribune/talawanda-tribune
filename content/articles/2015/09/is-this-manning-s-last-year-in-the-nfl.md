@@ -1,6 +1,6 @@
 ---
 title: "Is This Manning’s Last Year in the NFL"
-author: ["Austin Hibbard"]
+authors: ["Austin Hibbard"]
 nickname: ""
 categories: []
 tags: []

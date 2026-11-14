@@ -1,6 +1,6 @@
 ---
 title: "THS Teacher Performs in Community Production of “The Belle of Amherst”"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

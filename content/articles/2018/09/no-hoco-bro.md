@@ -1,6 +1,6 @@
 ---
 title: "No Hoco Bro"
-author: ["STAFF"]
+authors: ["STAFF"]
 nickname: ""
 categories: []
 tags: []

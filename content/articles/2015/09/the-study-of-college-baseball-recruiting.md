@@ -1,6 +1,6 @@
 ---
 title: "The Study of College Baseball Recruiting"
-author: ["Tyler Rothert"]
+authors: ["Tyler Rothert"]
 nickname: ""
 categories: []
 tags: []

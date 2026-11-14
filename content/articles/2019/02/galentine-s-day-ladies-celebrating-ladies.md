@@ -1,6 +1,6 @@
 ---
 title: "Galentine’s Day_ “Ladies Celebrating Ladies”"
-author: ["BY: ELLA PRYTHERCH"]
+authors: ["ELLA PRYTHERCH"]
 nickname: ""
 categories: ["Culture"]
 tags: []

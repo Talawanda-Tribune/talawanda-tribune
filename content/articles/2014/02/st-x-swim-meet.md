@@ -1,6 +1,6 @@
 ---
 title: "St. X Swim Meet"
-author: ["Grace Huddleston"]
+authors: ["Grace Huddleston"]
 nickname: ""
 categories: []
 tags: []

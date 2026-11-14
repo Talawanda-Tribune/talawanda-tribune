@@ -1,6 +1,6 @@
 ---
 title: "Trump Continues Momentum with Nevada Win"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

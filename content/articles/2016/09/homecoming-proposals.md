@@ -1,6 +1,6 @@
 ---
 title: "Homecoming Proposals"
-author: ["M. Hickman & M. Huddleston, Staff Reporters and Homecoming Enthusiasts"]
+authors: ["M. Hickman", "M. Huddleston", "Staff Reporters", "Homecoming Enthusiasts"]
 nickname: ""
 categories: []
 tags: []

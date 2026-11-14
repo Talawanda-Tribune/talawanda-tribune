@@ -1,6 +1,6 @@
 ---
 title: "The Lemon_ Tribune Makes Prom 2021 Predictions"
-author: ["STAFF"]
+authors: ["STAFF"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Talawanda to Host Covid-19 Clinics"
-author: ["Tribune Staff"]
+authors: ["Tribune Staff"]
 nickname: ""
 categories: []
 tags: []

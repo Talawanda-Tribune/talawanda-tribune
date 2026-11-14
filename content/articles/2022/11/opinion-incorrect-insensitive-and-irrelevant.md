@@ -1,6 +1,6 @@
 ---
 title: "Opinion_ Incorrect, Insensitive, and Irrelevant"
-author: ["E. Sullivan"]
+authors: ["E. Sullivan"]
 nickname: ""
 categories: []
 tags: []

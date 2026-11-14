@@ -1,6 +1,6 @@
 ---
 title: "Nudibranchs_ The Stinger Stealing Sea Slugs"
-author: ["Luca B the Science G"]
+authors: ["Luca B the Science G"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Tribune Publishes Yearly Magazine"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

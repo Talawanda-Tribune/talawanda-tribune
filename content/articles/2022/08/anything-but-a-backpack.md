@@ -1,6 +1,6 @@
 ---
 title: "Anything but a Backpack"
-author: ["Group Effort"]
+authors: ["Group Effort"]
 nickname: ""
 categories: []
 tags: []

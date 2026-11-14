@@ -1,6 +1,6 @@
 ---
 title: "Americans Elect"
-author: ["Jason Kline"]
+authors: ["Jason Kline"]
 nickname: ""
 categories: []
 tags: []

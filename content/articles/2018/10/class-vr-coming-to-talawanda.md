@@ -1,6 +1,6 @@
 ---
 title: "Class VR Coming to Talawanda"
-author: ["LOGAN MURRAY"]
+authors: ["LOGAN MURRAY"]
 nickname: ""
 categories: ["News", "School", "Technology"]
 tags: ["virtual reality"]

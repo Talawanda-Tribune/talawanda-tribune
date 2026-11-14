@@ -8,6 +8,7 @@ enableGitInfo = true
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+  author = 'authors'
 
 [outputs]
   home = ['HTML', 'RSS']

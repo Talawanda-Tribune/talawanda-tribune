@@ -1,6 +1,6 @@
 ---
 title: "The Lemon_ TikTok Trends"
-author: ["Logan Murray"]
+authors: ["Logan Murray"]
 nickname: ""
 categories: []
 tags: []

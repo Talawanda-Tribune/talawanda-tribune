@@ -1,6 +1,6 @@
 ---
 title: "LARPing – Game, or Lifestyle"
-author: ["MK HUDDLESTON"]
+authors: ["MK HUDDLESTON"]
 nickname: ""
 categories: ["Gaming", "Tribune Tries It"]
 tags: ["LARPing"]

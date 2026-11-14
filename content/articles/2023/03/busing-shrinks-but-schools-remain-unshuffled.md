@@ -1,6 +1,6 @@
 ---
 title: "Busing Shrinks, but Schools Remain Unshuffled"
-author: ["L. Franks"]
+authors: ["L. Franks"]
 nickname: ""
 categories: []
 tags: []

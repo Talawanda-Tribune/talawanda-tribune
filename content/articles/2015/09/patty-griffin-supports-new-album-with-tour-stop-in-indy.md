@@ -1,6 +1,6 @@
 ---
 title: "Patty Griffin Supports New Album with Tour Stop in Indy"
-author: ["m. aerni"]
+authors: ["m. aerni"]
 nickname: ""
 categories: []
 tags: []

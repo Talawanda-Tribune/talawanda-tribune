@@ -1,6 +1,6 @@
 ---
 title: "Miami Holds Human Rights and Social Justice Program"
-author: ["Lauren Flum"]
+authors: ["Lauren Flum"]
 nickname: ""
 categories: []
 tags: []

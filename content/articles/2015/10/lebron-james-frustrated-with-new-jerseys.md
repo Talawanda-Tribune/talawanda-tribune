@@ -1,6 +1,6 @@
 ---
 title: "LeBron James Frustrated with New Jerseys"
-author: ["Austin Hibbard"]
+authors: ["Austin Hibbard"]
 nickname: ""
 categories: []
 tags: []

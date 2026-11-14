@@ -1,6 +1,6 @@
 ---
 title: "That’s The Right Chemistry_ Steve Pasquale’s Story"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

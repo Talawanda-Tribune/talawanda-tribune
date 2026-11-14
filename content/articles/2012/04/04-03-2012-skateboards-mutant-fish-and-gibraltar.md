@@ -1,6 +1,6 @@
 ---
 title: "04_03_2012 – Skateboards, Mutant Fish, and Gibraltar"
-author: ["Joseph L.A. Hall"]
+authors: ["Joseph L.A. Hall"]
 nickname: ""
 categories: []
 tags: []

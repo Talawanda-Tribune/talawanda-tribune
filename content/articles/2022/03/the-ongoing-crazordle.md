@@ -1,6 +1,6 @@
 ---
 title: "The Ongoing Crazordle"
-author: ["Morgan Sly"]
+authors: ["Morgan Sly"]
 nickname: ""
 categories: []
 tags: []

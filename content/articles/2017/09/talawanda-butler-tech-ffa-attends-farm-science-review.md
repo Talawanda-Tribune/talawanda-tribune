@@ -1,6 +1,6 @@
 ---
 title: "Talawanda_Butler Tech FFA Attends Farm Science Review"
-author: ["Camry W-N"]
+authors: ["Camry W-N"]
 nickname: ""
 categories: []
 tags: []

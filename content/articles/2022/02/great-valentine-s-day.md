@@ -1,6 +1,6 @@
 ---
 title: "“Great” Valentine’s Day"
-author: ["Logan Murray"]
+authors: ["Logan Murray"]
 nickname: ""
 categories: []
 tags: []

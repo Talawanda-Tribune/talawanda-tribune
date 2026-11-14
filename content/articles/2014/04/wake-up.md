@@ -1,6 +1,6 @@
 ---
 title: "Wake Up"
-author: ["m. aerni"]
+authors: ["m. aerni"]
 nickname: ""
 categories: []
 tags: []

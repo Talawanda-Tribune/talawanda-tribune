@@ -1,6 +1,6 @@
 ---
 title: "A New Reef"
-author: ["Rita Barclay-Hart"]
+authors: ["Rita Barclay-Hart"]
 nickname: ""
 categories: []
 tags: []

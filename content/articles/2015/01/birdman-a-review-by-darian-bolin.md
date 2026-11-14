@@ -1,6 +1,6 @@
 ---
 title: "“Birdman”_ A Review by Darian Bolin"
-author: ["Darian Bolin"]
+authors: ["Darian Bolin"]
 nickname: ""
 categories: []
 tags: []

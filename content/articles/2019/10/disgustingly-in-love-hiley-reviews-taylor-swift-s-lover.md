@@ -1,6 +1,6 @@
 ---
 title: "Disgustingly In Love_ Hiley Reviews Taylor Swift’s “Lover”"
-author: ["Hiley Kresse"]
+authors: ["Hiley Kresse"]
 nickname: ""
 categories: []
 tags: []

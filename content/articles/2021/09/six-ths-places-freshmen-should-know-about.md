@@ -1,6 +1,6 @@
 ---
 title: "Six THS Places Freshmen Should Know About"
-author: ["LOGAN MURRAY"]
+authors: ["LOGAN MURRAY"]
 nickname: ""
 categories: []
 tags: []

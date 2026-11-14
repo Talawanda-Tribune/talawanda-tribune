@@ -1,6 +1,6 @@
 ---
 title: "Grammy Reactions"
-author: ["Hiley Kresse"]
+authors: ["Hiley Kresse"]
 nickname: ""
 categories: []
 tags: []

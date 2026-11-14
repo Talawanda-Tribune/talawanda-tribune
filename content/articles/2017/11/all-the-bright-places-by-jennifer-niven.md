@@ -1,6 +1,6 @@
 ---
 title: "All the Bright Places By_ Jennifer Niven"
-author: ["By: Camry Winsted-Neeley"]
+authors: ["Camry Winsted-Neeley"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Memetober_ Fall Memes"
-author: ["Madi Hickman & Mary Kate Huddleston"]
+authors: ["Madi Hickman", "Mary Kate Huddleston"]
 nickname: ""
 categories: []
 tags: []

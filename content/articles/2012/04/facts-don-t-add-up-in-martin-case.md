@@ -1,6 +1,6 @@
 ---
 title: "Facts Don’t Add Up in Martin Case"
-author: ["Megan Killip"]
+authors: ["Megan Killip"]
 nickname: ""
 categories: []
 tags: []

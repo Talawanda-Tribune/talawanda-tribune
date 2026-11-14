@@ -1,6 +1,6 @@
 ---
 title: "March Madness_ Celebrity Hunger Games"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

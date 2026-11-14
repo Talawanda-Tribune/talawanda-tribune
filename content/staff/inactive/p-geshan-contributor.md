@@ -1,3 +1,0 @@
----
-name: "P. Geshan, Contributor"
----

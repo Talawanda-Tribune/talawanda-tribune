@@ -1,6 +1,6 @@
 ---
 title: "Dispelling Rumors About Mascot Change"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["mascot"]

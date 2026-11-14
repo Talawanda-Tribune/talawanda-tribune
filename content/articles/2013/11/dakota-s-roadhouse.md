@@ -1,6 +1,6 @@
 ---
 title: "Dakota’s Roadhouse"
-author: ["Morgan McQueen"]
+authors: ["Morgan McQueen"]
 nickname: ""
 categories: []
 tags: []

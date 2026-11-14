@@ -1,6 +1,6 @@
 ---
 title: "Tribune Tries It_ White Elephant Gift Exchange"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["Columns", "Tribune Tries It"]
 tags: ["Christmas", "White Elephant"]

@@ -1,6 +1,6 @@
 ---
 title: "FCCLA is Mountain Strong"
-author: ["Piper Muhlhauser"]
+authors: ["Piper Muhlhauser"]
 nickname: ""
 categories: []
 tags: []

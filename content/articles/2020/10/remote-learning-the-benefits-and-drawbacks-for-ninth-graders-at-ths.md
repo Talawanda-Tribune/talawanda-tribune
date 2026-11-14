@@ -1,6 +1,6 @@
 ---
 title: "Remote Learning_ The Benefits and Drawbacks for Ninth Graders at THS"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["remote learning"]

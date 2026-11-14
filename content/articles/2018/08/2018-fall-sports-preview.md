@@ -1,6 +1,6 @@
 ---
 title: "2018 Fall Sports Preview"
-author: ["PATRICK GESHAN, ALYSSA SMITH, LOGAN MURRAY & JOSHUA CURRY"]
+authors: ["PATRICK GESHAN", "ALYSSA SMITH", "LOGAN MURRAY", "JOSHUA CURRY"]
 nickname: ""
 categories: []
 tags: []

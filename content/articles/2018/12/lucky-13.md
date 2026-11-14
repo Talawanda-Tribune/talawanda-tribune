@@ -1,6 +1,6 @@
 ---
 title: "LUCKY 13"
-author: ["MK HUDDLESTON"]
+authors: ["MK HUDDLESTON"]
 nickname: ""
 categories: ["Sports"]
 tags: []

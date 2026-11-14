@@ -1,3 +1,0 @@
----
-name: "Mary Kate Huddleston"
----

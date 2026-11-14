@@ -1,11 +1,19 @@
 {{ define "main" }}
     <h1>{{ .Title }}</h1>
     <div>
-        {{ now.Format "Mon Jan 2 2006" }}
+        <p id="date"></p>
+        <script>
+            const d = new Date();
+            document.getElementById("date").innerHTML = d.toDateString();
+        </script>
         {{ .Content }}
     </div>
 {{/*    {{ partial "articleList.html" (dict "context" . "style" "standard")}}*/}}
-    {{ partial "articleList.html" (dict "context" . "offset" 5 "lists" (slice (dict "style" "featured" "count" 1)))}}
+    {{ partial "articleList.html" (dict "context" . "offset" 5 "lists" (
+slice (dict "style" "featured" "count" 1) (dict "style" "standard" "count" 5)
+))}}
 {{/*    {{ partial "articleList.html" (dict "context" . "style" "remaining")}}*/}}
 
 {{ end }}
+
+

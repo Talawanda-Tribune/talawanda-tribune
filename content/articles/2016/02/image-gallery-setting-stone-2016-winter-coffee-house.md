@@ -1,6 +1,6 @@
 ---
 title: "Image Gallery_ Setting Stone 2016 Winter Coffee House"
-author: ["Photos by Grace Huddleston and Sylvia de Boer"]
+authors: ["Grace Huddleston", "Sylvia de Boer"]
 nickname: ""
 categories: []
 tags: []

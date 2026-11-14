@@ -1,6 +1,6 @@
 ---
 title: "Teen Mental Health Amidst the Pandemic"
-author: ["K.E. Fisher"]
+authors: ["K.E. Fisher"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["teen mental health"]

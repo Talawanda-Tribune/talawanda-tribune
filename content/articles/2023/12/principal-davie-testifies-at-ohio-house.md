@@ -1,14 +1,15 @@
 ---
 title: "Principal Davie Testifies at Ohio House"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
-categories: []
+categories: ["School", "Local"]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/principal-davie-testifies-at-ohio-house-1-image1.png"
 draft: false
 review_required: false
 date: 2023-12-15
 ---
+![](/media/principal-davie-testifies-at-ohio-house-1-image1.png)
 
 In 2018, the United States Surgeon General officially declared that vaping among youth is an epidemic. There are 17 vape shops in Oxford. Seventeen. There’s little doubt that vaping is one of the most prominent issues affecting our youth today, and it’s recently been an important topic in Ohio’s House of Representatives. Our very own Principal Davie played an official role in that conversation on Thursday, Nov. 30, 2023, when he testified before the Ohio House. His testimony can be viewed [here](https://www.ohiochannel.org/video/ohio-house-criminal-justice-committee-11-28-2023) (beginning at 37:15):
 

@@ -1,6 +1,6 @@
 ---
 title: "The Tesla Model S_ Style, Economy, Power"
-author: ["Ben LaFever"]
+authors: ["Ben LaFever"]
 nickname: ""
 categories: []
 tags: []

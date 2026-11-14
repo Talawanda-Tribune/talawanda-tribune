@@ -1,6 +1,6 @@
 ---
 title: "Titanic_ 100 Years Later"
-author: ["maggiecollins"]
+authors: ["maggiecollins"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Teachers’ Favorite Romantic Movies and Songs"
-author: ["Rita Barclay-Hart & Carly Goodman"]
+authors: ["Rita Barclay-Hart", "Carly Goodman"]
 nickname: ""
 categories: ["Arts and Entertainment"]
 tags: []

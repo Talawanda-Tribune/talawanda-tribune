@@ -1,6 +1,6 @@
 ---
 title: "Veteran’s Day 2019"
-author: ["Kei Brown"]
+authors: ["Kei Brown"]
 nickname: ""
 categories: ["News", "Photo Galleries", "School"]
 tags: ["Veterans Day"]

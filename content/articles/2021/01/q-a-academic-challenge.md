@@ -1,6 +1,6 @@
 ---
 title: "Q & A_ Academic Challenge"
-author: ["Luke West Poley"]
+authors: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["Ac Chall", "academic challenge", "Quiz Team"]

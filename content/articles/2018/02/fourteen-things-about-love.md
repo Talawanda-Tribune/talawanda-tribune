@@ -1,6 +1,6 @@
 ---
 title: "Fourteen Things About Love"
-author: ["Victoria Dobson"]
+authors: ["Victoria Dobson"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Double Murderer, Gary Otte Executed"
-author: ["Joseph Adkins"]
+authors: ["Joseph Adkins"]
 nickname: ""
 categories: []
 tags: []

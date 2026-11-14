@@ -1,6 +1,6 @@
 ---
 title: "The Fray"
-author: ["Jessica Tegge"]
+authors: ["Jessica Tegge"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Rock N’ Roll Reunion"
-author: ["Luke Howard"]
+authors: ["Luke Howard"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Senior VS School_ Prank Week 2014"
-author: ["Chris Mock, Courtney Stone, and Laurel Tilton"]
+authors: ["Chris Mock", "Courtney Stone", "Laurel Tilton"]
 nickname: ""
 categories: []
 tags: []

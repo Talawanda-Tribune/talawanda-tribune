@@ -1,6 +1,6 @@
 ---
 title: "Fall Honor Roll Breakfast Has Big Turn Out"
-author: ["Nik Craig"]
+authors: ["Nik Craig"]
 nickname: ""
 categories: []
 tags: []

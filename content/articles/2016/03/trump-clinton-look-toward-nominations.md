@@ -1,6 +1,6 @@
 ---
 title: "Trump, Clinton Look Toward Nominations"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

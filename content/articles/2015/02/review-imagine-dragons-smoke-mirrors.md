@@ -1,6 +1,6 @@
 ---
 title: "Review_ Imagine Dragons “Smoke + Mirrors”"
-author: ["Darian Bolin"]
+authors: ["Darian Bolin"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "THS President Muhammed Khan Gives Inaugural Address"
-author: ["Definitely Not Written by President Khan"]
+authors: ["Definitely Not Written by President Khan"]
 nickname: ""
 categories: []
 tags: []

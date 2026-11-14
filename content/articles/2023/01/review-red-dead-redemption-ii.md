@@ -1,6 +1,6 @@
 ---
 title: "Review_ Red Dead Redemption II"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

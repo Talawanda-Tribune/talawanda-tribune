@@ -1,6 +1,6 @@
 ---
 title: "Jordan Shoes"
-author: ["ryanlickliter"]
+authors: ["ryanlickliter"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Issues in the Restrooms"
-author: ["Olivia Fitzgerald"]
+authors: ["Olivia Fitzgerald"]
 nickname: ""
 categories: []
 tags: []

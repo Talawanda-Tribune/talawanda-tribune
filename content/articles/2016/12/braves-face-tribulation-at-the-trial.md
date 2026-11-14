@@ -1,6 +1,6 @@
 ---
 title: "Braves Face Tribulation at the Trial"
-author: ["Charis Whalen"]
+authors: ["Charis Whalen"]
 nickname: ""
 categories: []
 tags: []

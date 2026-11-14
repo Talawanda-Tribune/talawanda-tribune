@@ -1,6 +1,6 @@
 ---
 title: "Super Swole Beetle Can Survive Getting Run Over By Car"
-author: ["RZW"]
+authors: ["RZW"]
 nickname: ""
 categories: ["News"]
 tags: ["Swole Beetle"]

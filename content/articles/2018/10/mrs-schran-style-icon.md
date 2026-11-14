@@ -1,6 +1,6 @@
 ---
 title: "Mrs. Schran_  Style Icon"
-author: ["SARAH CLARKE"]
+authors: ["SARAH CLARKE"]
 nickname: ""
 categories: ["Fashion", "Lifestyle"]
 tags: ["Schran", "style icon"]

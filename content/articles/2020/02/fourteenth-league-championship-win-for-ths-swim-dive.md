@@ -1,6 +1,6 @@
 ---
 title: "Fourteenth League Championship Win for THS Swim & Dive"
-author: ["Kei Brown"]
+authors: ["Kei Brown"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["swimming"]

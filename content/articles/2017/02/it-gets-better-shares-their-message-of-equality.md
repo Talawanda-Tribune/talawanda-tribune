@@ -1,6 +1,6 @@
 ---
 title: "It Gets Better Shares Their Message of Equality"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

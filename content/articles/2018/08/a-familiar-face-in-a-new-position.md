@@ -1,6 +1,6 @@
 ---
 title: "A Familiar Face in a New Position"
-author: ["By: CAMRY W-N"]
+authors: ["CAMRY W-N"]
 nickname: ""
 categories: []
 tags: []

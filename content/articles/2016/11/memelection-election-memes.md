@@ -1,6 +1,6 @@
 ---
 title: "Memelection- Election Memes"
-author: ["\"Meme Team\" Hicks & Hudds"]
+authors: ["\"Meme Team\" Hicks", "Hudds"]
 nickname: ""
 categories: []
 tags: []

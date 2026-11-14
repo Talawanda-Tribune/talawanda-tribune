@@ -1,6 +1,6 @@
 ---
 title: "Should College Football Playoffs Remain at Four Teams"
-author: ["Dylan Hacker & Logan Vaughn"]
+authors: ["Dylan Hacker", "Logan Vaughn"]
 nickname: ""
 categories: []
 tags: []

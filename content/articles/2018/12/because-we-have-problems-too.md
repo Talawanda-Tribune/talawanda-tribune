@@ -1,6 +1,6 @@
 ---
 title: "“Because We Have Problems Too”"
-author: ["ABBY ZMUDA"]
+authors: ["ABBY ZMUDA"]
 nickname: ""
 categories: ["Arts and Entertainment"]
 tags: []

@@ -1,3 +1,0 @@
----
-name: "Shr-Hua Moore"
----

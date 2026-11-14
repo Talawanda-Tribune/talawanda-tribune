@@ -1,6 +1,6 @@
 ---
 title: "Life on a Screen"
-author: ["ALYSSA SMITH"]
+authors: ["ALYSSA SMITH"]
 nickname: ""
 categories: ["Technology"]
 tags: []

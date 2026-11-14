@@ -1,6 +1,6 @@
 ---
 title: "Veterans Day"
-author: ["Sam Davis"]
+authors: ["Sam Davis"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "This Article Is Triggering My OCD"
-author: ["KIERAN DELVECCHIO"]
+authors: ["KIERAN DELVECCHIO"]
 nickname: ""
 categories: ["News", "School"]
 tags: []

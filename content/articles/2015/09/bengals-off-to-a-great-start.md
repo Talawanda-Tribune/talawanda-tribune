@@ -1,6 +1,6 @@
 ---
 title: "Bengals Off to a Great Start"
-author: ["Austin Hibbard"]
+authors: ["Austin Hibbard"]
 nickname: ""
 categories: []
 tags: []

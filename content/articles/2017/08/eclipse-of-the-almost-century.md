@@ -1,6 +1,6 @@
 ---
 title: "Eclipse of the (Almost) Century"
-author: ["Austin Howard and Charis Whalen"]
+authors: ["Austin Howard", "Charis Whalen"]
 nickname: ""
 categories: []
 tags: []

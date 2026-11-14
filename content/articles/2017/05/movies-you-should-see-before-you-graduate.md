@@ -1,6 +1,6 @@
 ---
 title: "Movies You Should See Before You Graduate"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

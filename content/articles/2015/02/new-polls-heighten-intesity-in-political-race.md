@@ -1,6 +1,6 @@
 ---
 title: "New Polls Heighten Intesity in Political Race"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

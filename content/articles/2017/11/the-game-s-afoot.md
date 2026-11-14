@@ -1,6 +1,6 @@
 ---
 title: "The Game’s Afoot"
-author: ["CAMRY W-N"]
+authors: ["CAMRY W-N"]
 nickname: ""
 categories: []
 tags: []

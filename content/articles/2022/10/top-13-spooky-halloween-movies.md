@@ -1,6 +1,6 @@
 ---
 title: "Top 13 Spooky Halloween Movies"
-author: ["Lucy Franklin and Nazla Walsh"]
+authors: ["Lucy Franklin", "Nazla Walsh"]
 nickname: ""
 categories: []
 tags: []

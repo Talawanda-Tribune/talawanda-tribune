@@ -1,6 +1,6 @@
 ---
 title: "Preble County Pork Festival"
-author: ["Sam Davis"]
+authors: ["Sam Davis"]
 nickname: ""
 categories: []
 tags: []

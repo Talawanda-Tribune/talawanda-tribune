@@ -1,6 +1,6 @@
 ---
 title: "Review_ Big Sean’s “Dark Sky Paradise”"
-author: ["Caleb Cooper and Ian Sayres"]
+authors: ["Caleb Cooper", "Ian Sayres"]
 nickname: ""
 categories: []
 tags: []

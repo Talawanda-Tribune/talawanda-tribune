@@ -1,6 +1,6 @@
 ---
 title: "Print Issue is Being Distributed"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

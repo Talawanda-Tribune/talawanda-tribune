@@ -1,6 +1,6 @@
 ---
 title: "Teacher Best Friend Memes"
-author: ["Meme Queens: Madi Hickman & Mary Kate Huddleston"]
+authors: ["Meme Queens: Madi Hickman", "Mary Kate Huddleston"]
 nickname: ""
 categories: []
 tags: []

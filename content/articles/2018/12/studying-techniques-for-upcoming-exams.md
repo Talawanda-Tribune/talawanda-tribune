@@ -1,6 +1,6 @@
 ---
 title: "Studying Techniques for Upcoming Exams"
-author: ["staff"]
+authors: ["staff"]
 nickname: ""
 categories: ["School"]
 tags: []

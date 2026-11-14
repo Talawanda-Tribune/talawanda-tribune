@@ -1,6 +1,6 @@
 ---
 title: "A THS Mystery_ The Lemon Investigates"
-author: ["Muhammed"]
+authors: ["Muhammed"]
 nickname: ""
 categories: []
 tags: []

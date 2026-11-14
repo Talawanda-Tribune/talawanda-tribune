@@ -1,6 +1,6 @@
 ---
 title: "Friendsgiving Tips"
-author: ["STAFF"]
+authors: ["STAFF"]
 nickname: ""
 categories: []
 tags: []

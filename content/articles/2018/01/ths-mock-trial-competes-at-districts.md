@@ -1,6 +1,6 @@
 ---
 title: "THS Mock Trial Competes at Districts"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

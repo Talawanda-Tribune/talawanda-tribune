@@ -1,6 +1,6 @@
 ---
 title: "THS Views Eclipse"
-author: ["waxy and Charis Whalen"]
+authors: ["waxy", "Charis Whalen"]
 nickname: ""
 categories: []
 tags: []

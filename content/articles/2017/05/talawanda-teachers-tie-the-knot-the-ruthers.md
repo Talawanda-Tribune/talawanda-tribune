@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Teachers Tie the Knot_ The Ruthers"
-author: ["Madi Hickman"]
+authors: ["Madi Hickman"]
 nickname: ""
 categories: []
 tags: []

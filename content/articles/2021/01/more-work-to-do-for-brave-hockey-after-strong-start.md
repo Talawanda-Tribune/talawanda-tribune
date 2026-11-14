@@ -1,6 +1,6 @@
 ---
 title: "More Work to Do for Brave Hockey After Strong Start"
-author: ["Luke West Poley"]
+authors: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["Hockey"]

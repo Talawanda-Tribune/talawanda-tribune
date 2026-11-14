@@ -1,6 +1,6 @@
 ---
 title: "New Course Offerings for 2020-2021"
-author: ["Logan Murray"]
+authors: ["Logan Murray"]
 nickname: ""
 categories: []
 tags: []

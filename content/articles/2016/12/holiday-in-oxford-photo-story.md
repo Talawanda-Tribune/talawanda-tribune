@@ -1,6 +1,6 @@
 ---
 title: "Holiday in Oxford_ Photo Story"
-author: ["Madi Hickman"]
+authors: ["Madi Hickman"]
 nickname: ""
 categories: []
 tags: []

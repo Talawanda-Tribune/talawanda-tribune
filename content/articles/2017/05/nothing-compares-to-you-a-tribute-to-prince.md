@@ -1,6 +1,6 @@
 ---
 title: "Nothing Compares to You_ A Tribute to Prince"
-author: ["Madi Hickman"]
+authors: ["Madi Hickman"]
 nickname: ""
 categories: []
 tags: []

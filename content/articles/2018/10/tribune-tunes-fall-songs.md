@@ -1,6 +1,6 @@
 ---
 title: "Tribune Tunes_ Fall Songs"
-author: ["STAFF"]
+authors: ["STAFF"]
 nickname: ""
 categories: ["Tribune Tunes"]
 tags: []

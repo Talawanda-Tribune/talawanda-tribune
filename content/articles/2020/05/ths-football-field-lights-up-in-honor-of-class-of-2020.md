@@ -1,6 +1,6 @@
 ---
 title: "THS Football Field Lights Up in Honor of Class of 2020"
-author: ["Eleanor Prytherch, Class of 2020"]
+authors: ["Eleanor Prytherch, Class of 2020"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["2020", "graduation", "seniors", "stadium lights"]

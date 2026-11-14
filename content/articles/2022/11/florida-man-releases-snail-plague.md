@@ -1,6 +1,6 @@
 ---
 title: "Florida Man Releases Snail Plague"
-author: ["Luca Berberich"]
+authors: ["Luca Berberich"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Considers Later Start Time"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

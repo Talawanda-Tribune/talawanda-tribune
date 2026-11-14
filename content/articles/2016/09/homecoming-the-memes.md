@@ -1,6 +1,6 @@
 ---
 title: "Homecoming_ The Memes"
-author: ["Meme Team, HickHudds"]
+authors: ["Meme Team, HickHudds"]
 nickname: ""
 categories: []
 tags: []

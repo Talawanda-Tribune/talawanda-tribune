@@ -1,6 +1,6 @@
 ---
 title: "Op-Ed on the Democratic National Convention"
-author: ["JEAN R. PATEMAN"]
+authors: ["JEAN R. PATEMAN"]
 nickname: ""
 categories: []
 tags: []

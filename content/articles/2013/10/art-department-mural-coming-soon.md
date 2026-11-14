@@ -1,6 +1,6 @@
 ---
 title: "Art Department Mural_ Coming Soon"
-author: ["Dominic Mottola"]
+authors: ["Dominic Mottola"]
 nickname: ""
 categories: []
 tags: []

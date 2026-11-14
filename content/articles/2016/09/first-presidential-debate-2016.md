@@ -1,6 +1,6 @@
 ---
 title: "First Presidential Debate 2016"
-author: ["Tribune Staff"]
+authors: ["Tribune Staff"]
 nickname: ""
 categories: []
 tags: []

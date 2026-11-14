@@ -1,6 +1,6 @@
 ---
 title: "Learning to Drive in a Pandemic"
-author: ["K.E. Fisher"]
+authors: ["K.E. Fisher"]
 nickname: ""
 categories: ["Local", "News"]
 tags: ["driving"]

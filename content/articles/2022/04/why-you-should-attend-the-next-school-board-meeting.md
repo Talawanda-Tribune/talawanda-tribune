@@ -1,6 +1,6 @@
 ---
 title: "Why You Should Attend the Next School Board Meeting"
-author: ["Abdullah Khan"]
+authors: ["Abdullah Khan"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Baseball Fields Not Yet Finished"
-author: ["Austin Hibbard"]
+authors: ["Austin Hibbard"]
 nickname: ""
 categories: []
 tags: []

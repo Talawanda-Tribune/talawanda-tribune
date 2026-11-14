@@ -1,6 +1,6 @@
 ---
 title: "From the Oscars to the Razzies_ The Rise And Fall of M"
-author: ["Darian Bolin"]
+authors: ["Darian Bolin"]
 nickname: ""
 categories: []
 tags: []

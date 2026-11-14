@@ -1,6 +1,6 @@
 ---
 title: "Alum Gary Owen Makes a Heartfelt Visit Back to Talawanda"
-author: ["MK. Huddleston"]
+authors: ["MK. Huddleston"]
 nickname: ""
 categories: []
 tags: []

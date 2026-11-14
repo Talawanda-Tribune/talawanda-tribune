@@ -1,6 +1,6 @@
 ---
 title: "Hype for the Apocalypse"
-author: ["By: Trenton Young"]
+authors: ["Trenton Young"]
 nickname: ""
 categories: []
 tags: []

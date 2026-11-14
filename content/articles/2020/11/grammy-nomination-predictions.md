@@ -1,6 +1,6 @@
 ---
 title: "Grammy Nomination Predictions"
-author: ["Hiley Kresse"]
+authors: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment"]
 tags: ["Grammy Nominations"]

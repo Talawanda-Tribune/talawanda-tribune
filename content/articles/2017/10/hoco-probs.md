@@ -1,6 +1,6 @@
 ---
 title: "HOCO Probs"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

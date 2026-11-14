@@ -1,6 +1,6 @@
 ---
 title: "Volley for the Cure"
-author: ["Camry W-N"]
+authors: ["Camry W-N"]
 nickname: ""
 categories: []
 tags: []

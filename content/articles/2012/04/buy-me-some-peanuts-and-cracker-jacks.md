@@ -1,6 +1,6 @@
 ---
 title: "Buy Me Some Peanuts and Cracker Jacks"
-author: ["Lauren South"]
+authors: ["Lauren South"]
 nickname: ""
 categories: []
 tags: []

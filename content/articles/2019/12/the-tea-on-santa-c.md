@@ -1,6 +1,6 @@
 ---
 title: "The Tea on Santa C"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["The Lemon"]
 tags: ["Santa Claus"]

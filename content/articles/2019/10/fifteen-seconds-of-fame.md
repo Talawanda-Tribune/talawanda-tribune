@@ -1,6 +1,6 @@
 ---
 title: "Fifteen Seconds of Fame"
-author: ["Shr-Hua Moore"]
+authors: ["Shr-Hua Moore"]
 nickname: ""
 categories: []
 tags: []

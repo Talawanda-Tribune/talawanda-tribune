@@ -1,6 +1,6 @@
 ---
 title: "Horrorscopes"
-author: ["Logan “Not-an-Astrologist” Murray"]
+authors: ["Logan “Not-an-Astrologist” Murray"]
 nickname: ""
 categories: []
 tags: []

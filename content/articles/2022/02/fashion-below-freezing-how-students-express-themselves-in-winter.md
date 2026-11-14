@@ -1,6 +1,6 @@
 ---
 title: "Fashion Below Freezing_ How Students Express Themselves in Winter"
-author: ["L. Franks"]
+authors: ["L. Franks"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Agario_ The World of Colorful Cells"
-author: ["De'Asia Owens"]
+authors: ["De'Asia Owens"]
 nickname: ""
 categories: []
 tags: []

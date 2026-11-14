@@ -1,6 +1,6 @@
 ---
 title: "Clinton Wins Popular Vote, Trump Wins Electoral"
-author: ["Austin Howard"]
+authors: ["Austin Howard"]
 nickname: ""
 categories: []
 tags: []

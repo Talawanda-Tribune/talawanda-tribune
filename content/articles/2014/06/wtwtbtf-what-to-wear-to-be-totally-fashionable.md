@@ -1,6 +1,6 @@
 ---
 title: "WTWTBTF (What to wear to be totally fashionable)"
-author: ["Morgan McQueen"]
+authors: ["Morgan McQueen"]
 nickname: ""
 categories: []
 tags: []

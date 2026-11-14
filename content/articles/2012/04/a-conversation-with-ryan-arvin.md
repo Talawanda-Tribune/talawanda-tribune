@@ -1,6 +1,6 @@
 ---
 title: "A Conversation with Ryan Arvin"
-author: ["Ezra"]
+authors: ["Ezra"]
 nickname: ""
 categories: []
 tags: []

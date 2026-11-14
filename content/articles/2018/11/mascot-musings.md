@@ -1,6 +1,6 @@
 ---
 title: "Mascot Musings"
-author: ["A. Weatherwax"]
+authors: ["A. Weatherwax"]
 nickname: ""
 categories: ["Opinion"]
 tags: []

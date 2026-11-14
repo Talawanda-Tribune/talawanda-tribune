@@ -1,6 +1,6 @@
 ---
 title: "Changes in Isolation and Quarantine Policies_ an Interview With Dr"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["Covid"]

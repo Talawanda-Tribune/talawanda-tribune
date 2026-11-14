@@ -1,6 +1,6 @@
 ---
 title: "The Dead Mall Effect"
-author: ["Ben Phillips"]
+authors: ["Ben Phillips"]
 nickname: ""
 categories: []
 tags: []

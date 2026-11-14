@@ -1,6 +1,6 @@
 ---
 title: "Continuing the History"
-author: ["K.E. Fisher"]
+authors: ["K.E. Fisher"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "An Update on COVID-19"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: []
 tags: []

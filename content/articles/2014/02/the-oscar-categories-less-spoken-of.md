@@ -1,6 +1,6 @@
 ---
 title: "The Oscar Categories Less Spoken Of"
-author: ["sylviadeboer"]
+authors: ["sylviadeboer"]
 nickname: ""
 categories: []
 tags: []

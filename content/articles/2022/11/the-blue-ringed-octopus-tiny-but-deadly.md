@@ -1,6 +1,6 @@
 ---
 title: "The Blue-Ringed Octopus_ Tiny but Deadly"
-author: ["Luca Berberich"]
+authors: ["Luca Berberich"]
 nickname: ""
 categories: []
 tags: []

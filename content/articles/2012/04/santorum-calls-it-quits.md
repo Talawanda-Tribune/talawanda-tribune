@@ -1,6 +1,6 @@
 ---
 title: "Santorum Calls it Quits"
-author: ["Jason Kline"]
+authors: ["Jason Kline"]
 nickname: ""
 categories: []
 tags: []

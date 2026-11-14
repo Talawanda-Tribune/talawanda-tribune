@@ -1,6 +1,6 @@
 ---
 title: "Images from the 2015 THS Commencement"
-author: ["Photos by Talawanda Tribune and THS Yearbook"]
+authors: ["Talawanda Tribune", "THS Yearbook"]
 nickname: ""
 categories: []
 tags: []

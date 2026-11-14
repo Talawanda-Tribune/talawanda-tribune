@@ -1,6 +1,6 @@
 ---
 title: "Spring Flavors"
-author: ["Lauren South"]
+authors: ["Lauren South"]
 nickname: ""
 categories: []
 tags: []

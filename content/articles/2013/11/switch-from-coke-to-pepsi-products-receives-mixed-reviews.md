@@ -1,6 +1,6 @@
 ---
 title: "Switch From Coke to Pepsi Products Receives Mixed Reviews"
-author: ["jansson"]
+authors: ["jansson"]
 nickname: ""
 categories: []
 tags: []

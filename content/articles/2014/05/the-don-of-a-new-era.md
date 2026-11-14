@@ -1,6 +1,6 @@
 ---
 title: "The Don of a New Era"
-author: ["christophermock"]
+authors: ["christophermock"]
 nickname: ""
 categories: []
 tags: []

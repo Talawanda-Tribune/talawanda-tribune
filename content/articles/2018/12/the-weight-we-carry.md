@@ -1,6 +1,6 @@
 ---
 title: "The Weight We Carry"
-author: ["The Weight We Carry By KATIE KEELER & KAITLYN PARRISH Drawing by ISABEL LYKINS"]
+authors: ["The Weight We Carry By KATIE KEELER", "KAITLYN PARRISH Drawing by ISABEL LYKINS"]
 nickname: ""
 categories: ["News", "School"]
 tags: []

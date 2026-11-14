@@ -1,6 +1,6 @@
 ---
 title: "Review_ “Carrie and Lowell” by Sufjan Stevens"
-author: ["Darian Bolin"]
+authors: ["Darian Bolin"]
 nickname: ""
 categories: []
 tags: []

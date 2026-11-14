@@ -1,6 +1,6 @@
 ---
 title: "Setting Stone to Travel to New York"
-author: ["Sylvia de Boer"]
+authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []
 tags: []

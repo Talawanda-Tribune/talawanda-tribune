@@ -1,6 +1,6 @@
 ---
 title: "Tribune Publishes Virtual Magazine"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

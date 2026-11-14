@@ -1,6 +1,6 @@
 ---
 title: "Darian Bolin’s Top 10 of 2014_ Albums"
-author: ["Darian Bolin"]
+authors: ["Darian Bolin"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Endgame…for Seniors"
-author: ["ALYSSA SMITH"]
+authors: ["ALYSSA SMITH"]
 nickname: ""
 categories: ["News", "School"]
 tags: []

@@ -1,3 +1,0 @@
----
-name: "JEAN R. PATEMAN"
----

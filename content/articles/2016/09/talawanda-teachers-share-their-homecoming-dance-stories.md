@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Teachers Share Their Homecoming Dance Stories"
-author: ["M. Hickman & MK Huddleston, Staff Reporters"]
+authors: ["M. Hickman", "MK Huddleston", "Staff Reporters"]
 nickname: ""
 categories: []
 tags: []

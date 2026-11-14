@@ -1,6 +1,6 @@
 ---
 title: "Andrew Lynn Takes Over as Drama Director"
-author: ["young"]
+authors: ["young"]
 nickname: ""
 categories: []
 tags: []

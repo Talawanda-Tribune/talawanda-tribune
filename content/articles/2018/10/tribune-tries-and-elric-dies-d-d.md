@@ -1,6 +1,6 @@
 ---
 title: "Tribune Tries (and Elric Dies)_ D&D"
-author: ["NATHAN HALL, LOGAN MURRAY & BRADYN SPURLOCK"]
+authors: ["NATHAN HALL", "LOGAN MURRAY", "BRADYN SPURLOCK"]
 nickname: ""
 categories: ["Tribune Tries It"]
 tags: []

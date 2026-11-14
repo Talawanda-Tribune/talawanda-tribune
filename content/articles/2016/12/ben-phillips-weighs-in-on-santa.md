@@ -1,6 +1,6 @@
 ---
 title: "Ben Phillips Weighs in on Santa"
-author: ["Ben"]
+authors: ["Ben"]
 nickname: ""
 categories: []
 tags: []

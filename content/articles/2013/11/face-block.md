@@ -1,6 +1,6 @@
 ---
 title: "Face Block"
-author: ["jansson"]
+authors: ["jansson"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "From Heroes to Zero_ What Happened to the Talawanda Hockey Team"
-author: ["Julie Page"]
+authors: ["Julie Page"]
 nickname: ""
 categories: []
 tags: []

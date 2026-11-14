@@ -1,6 +1,6 @@
 ---
 title: "Tribune Tries It_ Gingerbread Wars"
-author: ["Tribune Staff"]
+authors: ["Tribune Staff"]
 nickname: ""
 categories: []
 tags: []

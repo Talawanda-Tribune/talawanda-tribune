@@ -1,6 +1,6 @@
 ---
 title: "Seven Ways to Turn Down a HoCo Proposal"
-author: ["Muhammed Khan and Will Salzarulo"]
+authors: ["Muhammed Khan", "Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

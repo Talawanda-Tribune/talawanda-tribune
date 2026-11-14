@@ -1,6 +1,6 @@
 ---
 title: "First Quarter Honor Roll_ An Impressive Percentage"
-author: ["K.E. Fisher"]
+authors: ["K.E. Fisher"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["Honor Roll"]

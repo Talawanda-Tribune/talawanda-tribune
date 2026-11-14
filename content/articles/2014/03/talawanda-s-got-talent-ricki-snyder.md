@@ -1,6 +1,6 @@
 ---
 title: "Talawanda’s got Talent_ Ricki Snyder"
-author: ["courtneystone"]
+authors: ["courtneystone"]
 nickname: ""
 categories: []
 tags: []

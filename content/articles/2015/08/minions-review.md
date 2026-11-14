@@ -1,6 +1,6 @@
 ---
 title: "Minions Review"
-author: ["Adarsha Shah"]
+authors: ["Adarsha Shah"]
 nickname: ""
 categories: []
 tags: []

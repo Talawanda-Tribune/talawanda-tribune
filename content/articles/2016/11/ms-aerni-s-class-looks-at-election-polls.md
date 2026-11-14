@@ -1,6 +1,6 @@
 ---
 title: "Ms. Aerni_s Class Looks at Election Polls"
-author: ["Mary Kate Huddleston"]
+authors: ["Mary Kate Huddleston"]
 nickname: ""
 categories: []
 tags: []

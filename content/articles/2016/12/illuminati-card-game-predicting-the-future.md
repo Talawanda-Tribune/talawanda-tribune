@@ -1,6 +1,6 @@
 ---
 title: "Illuminati Card Game Predicting the Future_"
-author: ["Dylan Hacker, Austin Hibbard, Logan Vaughn"]
+authors: ["Dylan Hacker, Austin Hibbard, Logan Vaughn"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Ready!  Set!  Honk!"
-author: ["Ella Cope"]
+authors: ["Ella Cope"]
 nickname: ""
 categories: []
 tags: []

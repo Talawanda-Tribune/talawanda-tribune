@@ -1,6 +1,6 @@
 ---
 title: "The Lemon’s Top 10 Video Game Ideas"
-author: ["Muhammed Khan & Will Salzarulo"]
+authors: ["Muhammed Khan", "Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

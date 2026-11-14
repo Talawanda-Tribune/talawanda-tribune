@@ -1,6 +1,6 @@
 ---
 title: "New Club Offers Outdoor Experiences"
-author: ["smith"]
+authors: ["smith"]
 nickname: ""
 categories: []
 tags: []

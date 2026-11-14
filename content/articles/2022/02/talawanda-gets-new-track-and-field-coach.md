@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Gets New Track and Field Coach"
-author: ["LOGAN MURRAY"]
+authors: ["LOGAN MURRAY"]
 nickname: ""
 categories: []
 tags: []

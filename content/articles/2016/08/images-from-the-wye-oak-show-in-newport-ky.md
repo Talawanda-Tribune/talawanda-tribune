@@ -1,6 +1,6 @@
 ---
 title: "Images from the Wye Oak Show in Newport, KY"
-author: ["m. aerni"]
+authors: ["m. aerni"]
 nickname: ""
 categories: []
 tags: []

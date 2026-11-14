@@ -1,6 +1,6 @@
 ---
 title: "Late To The Party_ Introduction"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

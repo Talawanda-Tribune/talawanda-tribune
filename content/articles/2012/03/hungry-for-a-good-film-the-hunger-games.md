@@ -1,6 +1,6 @@
 ---
 title: "Hungry For A Good Film_ The Hunger Games"
-author: ["Morgan Murray"]
+authors: ["Morgan Murray"]
 nickname: ""
 categories: []
 tags: []

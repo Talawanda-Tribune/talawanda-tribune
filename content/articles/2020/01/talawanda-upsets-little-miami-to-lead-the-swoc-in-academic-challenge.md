@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Upsets Little Miami to Lead the SWOC in Academic Challenge"
-author: ["Rita Barclay Hart"]
+authors: ["Rita Barclay Hart"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["academic challenge"]

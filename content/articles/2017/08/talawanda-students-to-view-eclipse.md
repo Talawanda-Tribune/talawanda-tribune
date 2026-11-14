@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Students to View Eclipse"
-author: ["Charis Whalen"]
+authors: ["Charis Whalen"]
 nickname: ""
 categories: []
 tags: []

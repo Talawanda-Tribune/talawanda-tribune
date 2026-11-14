@@ -1,6 +1,6 @@
 ---
 title: "Roethlisberger Throws His Cap"
-author: ["audreylipps"]
+authors: ["audreylipps"]
 nickname: ""
 categories: []
 tags: []

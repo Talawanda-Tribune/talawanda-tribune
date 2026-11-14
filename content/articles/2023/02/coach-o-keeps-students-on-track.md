@@ -1,6 +1,6 @@
 ---
 title: "Coach O Keeps Students on Track"
-author: ["Sadie Abbitt"]
+authors: ["Sadie Abbitt"]
 nickname: ""
 categories: []
 tags: []

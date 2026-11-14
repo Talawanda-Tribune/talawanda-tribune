@@ -1,6 +1,6 @@
 ---
 title: "Review_ Baby J"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

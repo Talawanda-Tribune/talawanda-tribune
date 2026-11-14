@@ -1,6 +1,6 @@
 ---
 title: "A New Season for Talawanda Swim and Dive"
-author: ["Luke West Poley"]
+authors: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["swim and dive"]

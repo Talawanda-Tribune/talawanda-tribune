@@ -1,6 +1,6 @@
 ---
 title: "STAR Testing May Affect Your Senior Incentive"
-author: ["Connor Yezierski"]
+authors: ["Connor Yezierski"]
 nickname: ""
 categories: []
 tags: []

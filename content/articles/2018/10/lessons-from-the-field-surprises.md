@@ -1,6 +1,6 @@
 ---
 title: "Lessons From the Field_ Surprises"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

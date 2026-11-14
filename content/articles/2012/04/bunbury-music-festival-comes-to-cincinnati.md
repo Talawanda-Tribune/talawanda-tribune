@@ -1,6 +1,6 @@
 ---
 title: "Bunbury Music Festival comes to Cincinnati"
-author: ["Ezra"]
+authors: ["Ezra"]
 nickname: ""
 categories: []
 tags: []

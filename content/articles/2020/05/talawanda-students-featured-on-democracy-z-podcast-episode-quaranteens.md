@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Students Featured on “Democracy & Z” Podcast Episode “QuaranTeens”"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["Local", "News", "School"]
 tags: []

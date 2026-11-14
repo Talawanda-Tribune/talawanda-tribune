@@ -1,6 +1,6 @@
 ---
 title: "DISAPPROVED_ Gender Roles"
-author: ["By: K.E. FISHER"]
+authors: ["K.E. FISHER"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "THS Drama’s Production “Alice As In Wonderland” Opens Tonight"
-author: ["Amber Young"]
+authors: ["Amber Young"]
 nickname: ""
 categories: []
 tags: []

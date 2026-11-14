@@ -1,6 +1,6 @@
 ---
 title: "Canine on Campus"
-author: ["Eliza Sullivan"]
+authors: ["Eliza Sullivan"]
 nickname: ""
 categories: []
 tags: []

@@ -1,18 +1,14 @@
 ---
 title: "Miami Redhawks Approach NCHC Playoffs"
-author: ["PENDING REVIEW"]
+authors: ["Patrick Geshan"]
 nickname: ""
-categories: ["Needs Review"]
+categories: []
 tags: []
 cover: "/media/noImage.png"
 draft: false
-review_required: true
+review_required: false
 date: 2016-03-01
 ---
-
-**Miami Redhawks Approach NCHC Playoffs**
-
-**Added by Patrick Geshan March 1, 2016**
 
 OXFORD - A lot is happening inside the NCHC league office in Colorado Springs.
 

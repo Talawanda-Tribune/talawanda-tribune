@@ -1,6 +1,6 @@
 ---
 title: "Photos From the Fall 2013 Setting Stone Coffee House"
-author: ["Photos by Sylvia deBoer"]
+authors: ["Sylvia deBoer"]
 nickname: ""
 categories: []
 tags: []

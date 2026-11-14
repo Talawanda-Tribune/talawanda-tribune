@@ -1,6 +1,6 @@
 ---
 title: "Images from “Phantom of the Soap Opera”"
-author: ["Staff Writer"]
+authors: ["Staff Writer"]
 nickname: ""
 categories: []
 tags: []

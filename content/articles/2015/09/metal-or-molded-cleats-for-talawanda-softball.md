@@ -1,6 +1,6 @@
 ---
 title: "Metal or Molded Cleats for Talawanda Softball"
-author: ["Sam Davis"]
+authors: ["Sam Davis"]
 nickname: ""
 categories: []
 tags: []

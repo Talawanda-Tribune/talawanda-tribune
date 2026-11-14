@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Albums of 2020"
-author: ["Hiley Kresse"]
+authors: ["Hiley Kresse"]
 nickname: ""
 categories: ["Arts and Entertainment", "Musical Arts"]
 tags: ["best albums 2020", "Music"]

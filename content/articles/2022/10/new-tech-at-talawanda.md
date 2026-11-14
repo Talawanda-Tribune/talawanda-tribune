@@ -1,6 +1,6 @@
 ---
 title: "New Tech at Talawanda"
-author: ["Eliza Sullivan"]
+authors: ["Eliza Sullivan"]
 nickname: ""
 categories: []
 tags: []

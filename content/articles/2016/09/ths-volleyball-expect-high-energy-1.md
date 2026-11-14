@@ -1,6 +1,6 @@
 ---
 title: "THS Volleyball_ Expect High Energy(1)"
-author: ["A. Howard, Staff Reporter"]
+authors: ["A. Howard, Staff Reporter"]
 nickname: ""
 categories: []
 tags: []

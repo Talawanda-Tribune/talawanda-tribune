@@ -1,6 +1,6 @@
 ---
 title: "Review_ Star Wars – Jedi_ Survivor"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

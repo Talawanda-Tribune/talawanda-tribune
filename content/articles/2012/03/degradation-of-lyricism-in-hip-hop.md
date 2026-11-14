@@ -1,6 +1,6 @@
 ---
 title: "Degradation of Lyricism in Hip-Hop"
-author: ["Ryan Arvin"]
+authors: ["Ryan Arvin"]
 nickname: ""
 categories: []
 tags: []

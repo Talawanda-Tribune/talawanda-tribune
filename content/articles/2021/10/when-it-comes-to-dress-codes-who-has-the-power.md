@@ -1,6 +1,6 @@
 ---
 title: "When It Comes to Dress Codes, Who Has the Power"
-author: ["L. Franks"]
+authors: ["L. Franks"]
 nickname: ""
 categories: []
 tags: []

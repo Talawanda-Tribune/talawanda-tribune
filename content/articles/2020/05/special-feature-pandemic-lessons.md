@@ -1,6 +1,6 @@
 ---
 title: "SPECIAL FEATURE_  Pandemic Lessons"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["News", "Opinion", "School"]
 tags: ["coronavirus", "Covid-19", "pandemic"]

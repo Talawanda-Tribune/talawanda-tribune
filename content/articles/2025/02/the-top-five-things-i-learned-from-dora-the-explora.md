@@ -1,6 +1,6 @@
 ---
 title: "The Top Five Things I Learned From Dora the Explora’"
-author: ["Victoria Belfour"]
+authors: ["Victoria Belfour"]
 nickname: ""
 categories: []
 tags: []

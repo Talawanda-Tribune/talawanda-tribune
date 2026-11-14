@@ -1,6 +1,6 @@
 ---
 title: "Wall Senior and Only Reporter Ben Phillips Face Palms Watching Election Coverage"
-author: ["Ben Phillips"]
+authors: ["Ben Phillips"]
 nickname: ""
 categories: []
 tags: []

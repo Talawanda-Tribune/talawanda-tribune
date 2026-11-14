@@ -1,6 +1,6 @@
 ---
 title: "The Poet in the Schoolhouse"
-author: ["Victoria Dobson"]
+authors: ["Victoria Dobson"]
 nickname: ""
 categories: []
 tags: []

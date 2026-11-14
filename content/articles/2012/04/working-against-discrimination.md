@@ -1,6 +1,6 @@
 ---
 title: "Working Against Discrimination"
-author: ["audreylipps"]
+authors: ["audreylipps"]
 nickname: ""
 categories: []
 tags: []

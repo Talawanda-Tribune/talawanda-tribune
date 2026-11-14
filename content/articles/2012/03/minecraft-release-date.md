@@ -1,6 +1,6 @@
 ---
 title: "Minecraft Release Date"
-author: ["Justin Nipper"]
+authors: ["Justin Nipper"]
 nickname: ""
 categories: []
 tags: []

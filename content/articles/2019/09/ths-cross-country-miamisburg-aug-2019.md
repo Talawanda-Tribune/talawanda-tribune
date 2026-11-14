@@ -1,6 +1,6 @@
 ---
 title: "THS Cross Country @ Miamisburg Aug 2019"
-author: ["K. Fears"]
+authors: ["K. Fears"]
 nickname: ""
 categories: []
 tags: []

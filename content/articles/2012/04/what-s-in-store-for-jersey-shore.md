@@ -1,6 +1,6 @@
 ---
 title: "What’s in Store For Jersey Shore"
-author: ["Morgan Murray"]
+authors: ["Morgan Murray"]
 nickname: ""
 categories: []
 tags: []

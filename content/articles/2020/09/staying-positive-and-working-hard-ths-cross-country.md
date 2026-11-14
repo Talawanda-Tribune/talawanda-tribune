@@ -1,6 +1,6 @@
 ---
 title: "Staying Positive and Working Hard_ THS Cross Country"
-author: ["MUHAMMED KHAN"]
+authors: ["MUHAMMED KHAN"]
 nickname: ""
 categories: []
 tags: []

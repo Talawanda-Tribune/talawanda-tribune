@@ -1,3 +1,0 @@
----
-name: "Nik \"Scrooge\" Craig"
----

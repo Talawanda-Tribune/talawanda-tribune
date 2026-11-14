@@ -1,6 +1,6 @@
 ---
 title: "The Giant Siphonophore Claims “Longest Animal” Title"
-author: ["Luca Berberich"]
+authors: ["Luca Berberich"]
 nickname: ""
 categories: []
 tags: []

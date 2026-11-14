@@ -32,9 +32,7 @@
                 <a href="{{ .RelPermalink }}"><img src="{{ .Params.Cover }}"></a>
                 <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                 <div>
-                    {{ range $index, $author := .GetTerms "author" }}
-                        {{ if $index }}, {{ end }}<p>{{ $author.LinkTitle }}</p>
-                    {{ end }}
+                    {{ partial "authorList.html" . }}
                 </div>
             </div>
         {{ end }}

@@ -1,6 +1,6 @@
 ---
 title: "Homecoming Week is Here"
-author: ["RITA BARCLAY HART"]
+authors: ["RITA BARCLAY HART"]
 nickname: ""
 categories: ["News"]
 tags: ["Hoco"]

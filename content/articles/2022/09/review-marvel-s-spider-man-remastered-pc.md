@@ -1,6 +1,6 @@
 ---
 title: "Review_ Marvel’s Spider-Man Remastered (PC)"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

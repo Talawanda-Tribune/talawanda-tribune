@@ -1,6 +1,6 @@
 ---
 title: "Fresh Baked Cookies Delivered to Your Door"
-author: ["Susanna Smith"]
+authors: ["Susanna Smith"]
 nickname: ""
 categories: []
 tags: []

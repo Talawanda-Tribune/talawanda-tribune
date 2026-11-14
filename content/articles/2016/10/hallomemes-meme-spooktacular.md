@@ -1,6 +1,6 @@
 ---
 title: "Hallomemes- Meme Spooktacular"
-author: ["\"Meme Team\" Hicks & Hudds"]
+authors: ["\"Meme Team\" Hicks", "Hudds"]
 nickname: ""
 categories: []
 tags: []

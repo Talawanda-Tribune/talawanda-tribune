@@ -1,6 +1,6 @@
 ---
 title: "Editorial_ Programming the Future"
-author: ["Article: CHARIS WHALEN Photo: AUSTIN HOWARD"]
+authors: ["Article: CHARIS WHALEN Photo: AUSTIN HOWARD"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Drama Presents Brothers Grimm Spectaculathon"
-author: ["Ella Cope"]
+authors: ["Ella Cope"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "“This Changes Everything” Talawanda Students Featured on Latest Democracy and Z Podcast Episode"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["Local", "News", "School"]
 tags: ["Covid-19", "Democracy and Z", "pandemic", "quarantine"]

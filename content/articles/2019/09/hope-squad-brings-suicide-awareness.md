@@ -1,6 +1,6 @@
 ---
 title: "Hope Squad Brings Suicide Awareness"
-author: ["C. Goodman"]
+authors: ["C. Goodman"]
 nickname: ""
 categories: []
 tags: []

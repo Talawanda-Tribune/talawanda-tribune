@@ -1,6 +1,6 @@
 ---
 title: "Fourteen and a Half Questions with Ben Mattox"
-author: ["Joseph DeVaughn"]
+authors: ["Joseph DeVaughn"]
 nickname: ""
 categories: []
 tags: []

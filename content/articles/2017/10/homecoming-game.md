@@ -1,6 +1,6 @@
 ---
 title: "Homecoming Game"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

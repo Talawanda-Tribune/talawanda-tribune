@@ -1,6 +1,6 @@
 ---
 title: "December Horoscope"
-author: ["VICTORIA DOBSON"]
+authors: ["VICTORIA DOBSON"]
 nickname: ""
 categories: []
 tags: []

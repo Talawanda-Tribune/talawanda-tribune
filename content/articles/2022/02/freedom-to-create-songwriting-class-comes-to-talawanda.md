@@ -1,6 +1,6 @@
 ---
 title: "Freedom to Create_ Songwriting Class Comes to Talawanda"
-author: ["Eliza Sullivan"]
+authors: ["Eliza Sullivan"]
 nickname: ""
 categories: []
 tags: []

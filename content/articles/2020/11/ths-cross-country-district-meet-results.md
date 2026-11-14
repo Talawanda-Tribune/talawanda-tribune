@@ -1,6 +1,6 @@
 ---
 title: "THS Cross Country District Meet Results"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["cross country"]

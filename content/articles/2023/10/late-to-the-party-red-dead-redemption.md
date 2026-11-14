@@ -1,6 +1,6 @@
 ---
 title: "Late to the Party_ Red Dead Redemption"
-author: ["Will Salzarulo"]
+authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []

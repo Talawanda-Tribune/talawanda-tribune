@@ -1,6 +1,6 @@
 ---
 title: "Sam Davis Reviews Best Nuggets in Town"
-author: ["Sam Davis"]
+authors: ["Sam Davis"]
 nickname: ""
 categories: []
 tags: []

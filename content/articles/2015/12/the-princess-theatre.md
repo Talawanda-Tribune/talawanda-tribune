@@ -1,6 +1,6 @@
 ---
 title: "The Princess Theatre"
-author: ["Katie Johnston"]
+authors: ["Katie Johnston"]
 nickname: ""
 categories: []
 tags: []

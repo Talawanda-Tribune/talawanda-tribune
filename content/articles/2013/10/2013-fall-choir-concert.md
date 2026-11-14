@@ -1,6 +1,6 @@
 ---
 title: "2013 Fall Choir Concert"
-author: ["Morgan McQueen"]
+authors: ["Morgan McQueen"]
 nickname: ""
 categories: []
 tags: []

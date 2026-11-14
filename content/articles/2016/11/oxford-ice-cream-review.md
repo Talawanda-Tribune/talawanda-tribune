@@ -1,6 +1,6 @@
 ---
 title: "Oxford Ice Cream Review"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

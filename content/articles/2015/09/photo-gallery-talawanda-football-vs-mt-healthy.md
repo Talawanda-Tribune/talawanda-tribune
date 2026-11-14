@@ -1,6 +1,6 @@
 ---
 title: "Photo Gallery_ Talawanda Football vs Mt. Healthy"
-author: ["Austin Hibbard"]
+authors: ["Austin Hibbard"]
 nickname: ""
 categories: []
 tags: []

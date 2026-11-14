@@ -1,6 +1,6 @@
 ---
 title: "Freaky Friday This Thursday"
-author: ["Rita Armitage"]
+authors: ["Rita Armitage"]
 nickname: ""
 categories: []
 tags: []

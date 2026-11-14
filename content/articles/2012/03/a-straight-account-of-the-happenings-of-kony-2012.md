@@ -1,6 +1,6 @@
 ---
 title: "A Straight Account of the Happenings of KONY 2012"
-author: ["Joseph L.A. Hall"]
+authors: ["Joseph L.A. Hall"]
 nickname: ""
 categories: []
 tags: []

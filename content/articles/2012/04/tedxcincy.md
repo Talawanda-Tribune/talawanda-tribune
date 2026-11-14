@@ -1,6 +1,6 @@
 ---
 title: "TEDxCincy"
-author: ["Jason Kline"]
+authors: ["Jason Kline"]
 nickname: ""
 categories: []
 tags: []

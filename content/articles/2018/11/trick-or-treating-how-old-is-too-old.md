@@ -1,6 +1,6 @@
 ---
 title: "Trick-or-Treating_ How Old is Too Old"
-author: ["K.E. FISHER"]
+authors: ["K.E. FISHER"]
 nickname: ""
 categories: ["Opinion"]
 tags: []

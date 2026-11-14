@@ -1,6 +1,6 @@
 ---
 title: "THS Cross Country Secures Their Spot in the Regional Meet"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Local Real Estate Agent New Girls Soccer Coach"
-author: ["Sam Davis"]
+authors: ["Sam Davis"]
 nickname: ""
 categories: []
 tags: []

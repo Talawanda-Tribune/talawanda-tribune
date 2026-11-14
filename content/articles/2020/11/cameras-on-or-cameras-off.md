@@ -1,6 +1,6 @@
 ---
 title: "Cameras On, or Cameras Off"
-author: ["K.E. Fisher"]
+authors: ["K.E. Fisher"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["remote learning", "zoom"]

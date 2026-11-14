@@ -1,6 +1,6 @@
 ---
 title: "Geometry Probs"
-author: ["Tribune Staff"]
+authors: ["Tribune Staff"]
 nickname: ""
 categories: []
 tags: []

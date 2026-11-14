@@ -1,6 +1,6 @@
 ---
 title: "Analyzing the VSCO Girl"
-author: ["Ella Prytherch"]
+authors: ["Ella Prytherch"]
 nickname: ""
 categories: []
 tags: []

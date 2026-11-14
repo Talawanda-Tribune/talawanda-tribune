@@ -1,6 +1,6 @@
 ---
 title: "THS Cross Country Team Ends Season Strong at State Meet"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["cross country states"]

@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Teachers Scheduled for COVID-19 Vaccine"
-author: ["Rita Barclay-Hart"]
+authors: ["Rita Barclay-Hart"]
 nickname: ""
 categories: ["Local", "News", "School"]
 tags: ["covid vaccinations"]

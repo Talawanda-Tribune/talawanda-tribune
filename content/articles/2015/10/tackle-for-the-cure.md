@@ -1,6 +1,6 @@
 ---
 title: "Tackle for the Cure"
-author: ["De'Asia Owens"]
+authors: ["De'Asia Owens"]
 nickname: ""
 categories: []
 tags: []

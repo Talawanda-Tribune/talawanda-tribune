@@ -1,6 +1,6 @@
 ---
 title: "The Face Of Homelessness In Cincinnati"
-author: ["KIERAN DEL VECCHIO"]
+authors: ["KIERAN DEL VECCHIO"]
 nickname: ""
 categories: ["National & Global", "News"]
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Mrs. Aerni_  Pursuing_"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

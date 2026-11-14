@@ -1,6 +1,6 @@
 ---
 title: "Does News Affect Teens"
-author: ["RITA ARMITAGE"]
+authors: ["RITA ARMITAGE"]
 nickname: ""
 categories: ["News", "Opinion", "School"]
 tags: []

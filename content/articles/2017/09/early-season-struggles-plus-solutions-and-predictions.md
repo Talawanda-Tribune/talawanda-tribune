@@ -1,6 +1,6 @@
 ---
 title: "Early Season Struggles Plus Solutions and Predictions"
-author: ["AUSTIN HOWARD"]
+authors: ["AUSTIN HOWARD"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "League of Her Own"
-author: ["laureltilton"]
+authors: ["laureltilton"]
 nickname: ""
 categories: []
 tags: []

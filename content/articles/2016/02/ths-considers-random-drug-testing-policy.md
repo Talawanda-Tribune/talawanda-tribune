@@ -1,6 +1,6 @@
 ---
 title: "THS Considers Random Drug Testing Policy"
-author: ["Sylvia de Boer"]
+authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []
 tags: []

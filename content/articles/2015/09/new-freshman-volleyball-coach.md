@@ -1,6 +1,6 @@
 ---
 title: "New Freshman Volleyball Coach"
-author: ["De'Asia Owens"]
+authors: ["De'Asia Owens"]
 nickname: ""
 categories: []
 tags: []

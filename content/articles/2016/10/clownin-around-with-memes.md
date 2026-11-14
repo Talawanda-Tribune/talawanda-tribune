@@ -1,6 +1,6 @@
 ---
 title: "Clownin’ Around with Memes"
-author: ["\"Meme Team\" Hicks & Hudds"]
+authors: ["\"Meme Team\" Hicks", "Hudds"]
 nickname: ""
 categories: []
 tags: []

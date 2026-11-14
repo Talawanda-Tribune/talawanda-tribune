@@ -1,6 +1,6 @@
 ---
 title: "To Shave or Not To Shave"
-author: ["Connor Yezierski"]
+authors: ["Connor Yezierski"]
 nickname: ""
 categories: []
 tags: []

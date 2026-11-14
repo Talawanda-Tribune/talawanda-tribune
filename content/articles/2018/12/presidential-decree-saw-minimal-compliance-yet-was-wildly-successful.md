@@ -1,6 +1,6 @@
 ---
 title: "Presidential Decree Saw Minimal Compliance Yet Was Wildly Successful"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["Fashion", "Lifestyle"]
 tags: []

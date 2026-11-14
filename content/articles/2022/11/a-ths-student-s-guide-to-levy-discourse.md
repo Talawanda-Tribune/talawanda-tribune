@@ -1,6 +1,6 @@
 ---
 title: "A THS Student’s Guide to Levy Discourse"
-author: ["L. Franks"]
+authors: ["L. Franks"]
 nickname: ""
 categories: []
 tags: []

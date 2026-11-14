@@ -1,6 +1,6 @@
 ---
 title: "Setting Stone Launches New Site"
-author: ["Tribune Staff Writer"]
+authors: ["Tribune Staff Writer"]
 nickname: ""
 categories: []
 tags: []

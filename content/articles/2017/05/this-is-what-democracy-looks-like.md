@@ -1,6 +1,6 @@
 ---
 title: "This is What Democracy Looks Like"
-author: ["ELLA COPE"]
+authors: ["ELLA COPE"]
 nickname: ""
 categories: []
 tags: []

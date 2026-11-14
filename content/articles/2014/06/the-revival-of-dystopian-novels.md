@@ -1,6 +1,6 @@
 ---
 title: "The Revival of Dystopian Novels"
-author: ["laureltilton"]
+authors: ["laureltilton"]
 nickname: ""
 categories: []
 tags: []

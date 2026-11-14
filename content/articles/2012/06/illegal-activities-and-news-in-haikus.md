@@ -1,6 +1,6 @@
 ---
 title: "Illegal Activities and News in Haikus"
-author: ["Joseph L.A. Hall"]
+authors: ["Joseph L.A. Hall"]
 nickname: ""
 categories: []
 tags: []

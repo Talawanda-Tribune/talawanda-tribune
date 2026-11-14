@@ -1,6 +1,6 @@
 ---
 title: "THS Varsity Softball"
-author: ["Brianna Nixon"]
+authors: ["Brianna Nixon"]
 nickname: ""
 categories: []
 tags: []

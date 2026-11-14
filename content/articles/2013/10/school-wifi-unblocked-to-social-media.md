@@ -1,6 +1,6 @@
 ---
 title: "School Wifi Unblocked to Social Media"
-author: ["Olivia Fitzgerald"]
+authors: ["Olivia Fitzgerald"]
 nickname: ""
 categories: []
 tags: []

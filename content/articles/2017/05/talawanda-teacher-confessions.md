@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Teacher Confessions"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

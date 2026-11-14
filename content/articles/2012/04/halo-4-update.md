@@ -1,6 +1,6 @@
 ---
 title: "Halo 4 Update"
-author: ["Justin Nipper"]
+authors: ["Justin Nipper"]
 nickname: ""
 categories: []
 tags: []

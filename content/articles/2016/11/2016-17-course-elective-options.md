@@ -1,6 +1,6 @@
 ---
 title: "2016-17 Course Elective Options"
-author: ["Piper Muhlhauser"]
+authors: ["Piper Muhlhauser"]
 nickname: ""
 categories: []
 tags: []

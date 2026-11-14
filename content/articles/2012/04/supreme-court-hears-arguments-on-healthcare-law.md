@@ -1,6 +1,6 @@
 ---
 title: "Supreme Court Hears Arguments on Healthcare Law"
-author: ["Jason Kline"]
+authors: ["Jason Kline"]
 nickname: ""
 categories: []
 tags: []

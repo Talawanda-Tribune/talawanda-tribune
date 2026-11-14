@@ -1,6 +1,6 @@
 ---
 title: "THS Ice Hockey Looks to Build on Best Year in Recent Memory"
-author: ["Luke West Poley"]
+authors: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["Hockey"]

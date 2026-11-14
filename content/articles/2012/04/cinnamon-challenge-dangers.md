@@ -1,6 +1,6 @@
 ---
 title: "Cinnamon Challenge Dangers"
-author: ["Lauren Flum and Maggie Collins"]
+authors: ["Lauren Flum", "Maggie Collins"]
 nickname: ""
 categories: []
 tags: []

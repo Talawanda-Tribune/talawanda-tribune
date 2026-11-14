@@ -1,6 +1,6 @@
 ---
 title: "Women’s Tennis"
-author: ["Morgan McQueen"]
+authors: ["Morgan McQueen"]
 nickname: ""
 categories: []
 tags: []

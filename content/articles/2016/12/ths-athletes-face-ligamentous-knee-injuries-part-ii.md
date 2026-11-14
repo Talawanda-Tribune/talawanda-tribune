@@ -1,6 +1,6 @@
 ---
 title: "THS Athletes Face Ligamentous Knee Injuries Part II"
-author: ["Charis Whalen"]
+authors: ["Charis Whalen"]
 nickname: ""
 categories: []
 tags: []

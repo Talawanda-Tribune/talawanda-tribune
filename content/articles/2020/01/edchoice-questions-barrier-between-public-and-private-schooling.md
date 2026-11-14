@@ -1,6 +1,6 @@
 ---
 title: "EdChoice Questions Barrier Between Public and Private Schooling"
-author: ["Rita Armitage"]
+authors: ["Rita Armitage"]
 nickname: ""
 categories: ["Local", "News", "School"]
 tags: ["Bogan", "Ed Choice", "School funding"]

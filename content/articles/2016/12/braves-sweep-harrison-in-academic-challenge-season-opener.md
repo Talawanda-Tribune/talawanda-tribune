@@ -1,6 +1,6 @@
 ---
 title: "Braves Sweep Harrison in Academic Challenge Season Opener"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

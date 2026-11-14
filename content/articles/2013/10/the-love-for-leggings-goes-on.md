@@ -1,6 +1,6 @@
 ---
 title: "The Love For Leggings Goes On"
-author: ["Olivia Fitzgerald"]
+authors: ["Olivia Fitzgerald"]
 nickname: ""
 categories: []
 tags: []

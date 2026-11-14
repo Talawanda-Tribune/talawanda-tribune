@@ -1,6 +1,6 @@
 ---
 title: "Things to do in Oxford Over Holiday Break"
-author: ["Charis Whalen"]
+authors: ["Charis Whalen"]
 nickname: ""
 categories: []
 tags: []

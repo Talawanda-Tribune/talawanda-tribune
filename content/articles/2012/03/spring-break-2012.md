@@ -1,6 +1,6 @@
 ---
 title: "Spring Break 2012"
-author: ["Megan Killip"]
+authors: ["Megan Killip"]
 nickname: ""
 categories: []
 tags: []

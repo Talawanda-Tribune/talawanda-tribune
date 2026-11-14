@@ -1,6 +1,6 @@
 ---
 title: "Nosebleed Plays Homecoming 2018"
-author: ["Photos by ALYSSA SMITH & BRADYN SPURLOCK"]
+authors: ["ALYSSA SMITH", "BRADYN SPURLOCK"]
 nickname: ""
 categories: ["Arts and Entertainment", "Photo Galleries"]
 tags: []

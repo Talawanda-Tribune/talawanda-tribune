@@ -1,6 +1,6 @@
 ---
 title: "Vine is Gone_  Who Cares!"
-author: ["Ben Phillips"]
+authors: ["Ben Phillips"]
 nickname: ""
 categories: []
 tags: []

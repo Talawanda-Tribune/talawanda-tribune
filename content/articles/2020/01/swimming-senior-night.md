@@ -1,6 +1,6 @@
 ---
 title: "Swimming_ Senior Night_"
-author: ["Photos by Kei Brown"]
+authors: ["Kei Brown"]
 nickname: ""
 categories: ["Sports"]
 tags: ["swimming"]

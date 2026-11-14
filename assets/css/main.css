@@ -94,9 +94,14 @@ nav a {
 header {
     background-color: #d3413f;
 }
-.header-wrap, .body-wrap, footer-wrap {
+.header-wrap, .body-wrap, .footer-wrap {
     max-width: 12000px;
     margin:auto;
+}
+.footer-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .article-wrap {
     max-width: 800px;
@@ -157,7 +162,7 @@ header {
     background-color: #d3413f;
 
 }
-.article-byline > *{
+.article-byline > *, .article-byline {
     display: inline;
     color: #434343;
     text-decoration: none;

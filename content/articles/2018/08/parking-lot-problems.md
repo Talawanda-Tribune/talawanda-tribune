@@ -1,6 +1,6 @@
 ---
 title: "Parking Lot Problems"
-author: ["MK HUDDLESTON, HALLIE ENDRES & KATIE A. KEELER"]
+authors: ["MK HUDDLESTON", "HALLIE ENDRES", "KATIE A. KEELER"]
 nickname: ""
 categories: []
 tags: []

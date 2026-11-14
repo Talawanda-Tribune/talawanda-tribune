@@ -1,6 +1,6 @@
 ---
 title: "One Team’s Drought is Over"
-author: ["Logan Vaughn"]
+authors: ["Logan Vaughn"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Kanye West and Pete Davidson_ Civil War"
-author: ["Muhammed Khan and L. Franks"]
+authors: ["Muhammed Khan", "L. Franks"]
 nickname: ""
 categories: []
 tags: []

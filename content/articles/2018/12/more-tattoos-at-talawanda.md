@@ -1,6 +1,6 @@
 ---
 title: "More Tattoos at Talawanda"
-author: ["HILEY KRESSE"]
+authors: ["HILEY KRESSE"]
 nickname: ""
 categories: ["Lifestyle"]
 tags: []

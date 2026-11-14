@@ -1,6 +1,6 @@
 ---
 title: "Photos From “Sing Down the Moon”"
-author: ["Lauren Flum"]
+authors: ["Lauren Flum"]
 nickname: ""
 categories: []
 tags: []

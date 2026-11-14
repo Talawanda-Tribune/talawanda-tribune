@@ -1,6 +1,6 @@
 ---
 title: "Tribune Appreciates Talawanda Teachers"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Volley for the Cure"
-author: ["De'Asia Owens & Kylie King"]
+authors: ["De'Asia Owens", "Kylie King"]
 nickname: ""
 categories: []
 tags: []

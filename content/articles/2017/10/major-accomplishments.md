@@ -1,6 +1,6 @@
 ---
 title: "Major Accomplishments"
-author: ["CASSADY EDWARDS"]
+authors: ["CASSADY EDWARDS"]
 nickname: ""
 categories: []
 tags: []

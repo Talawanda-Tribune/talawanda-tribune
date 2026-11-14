@@ -1,6 +1,6 @@
 ---
 title: "Senior Emma Wright Signs With Grand Valley"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "No More Class Rank"
-author: ["Abdullah Khan"]
+authors: ["Abdullah Khan"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Shout Out_ November Contest Winner"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

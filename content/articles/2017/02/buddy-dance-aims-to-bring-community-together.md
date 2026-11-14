@@ -1,6 +1,6 @@
 ---
 title: "Buddy Dance Aims to Bring Community Together"
-author: ["Patrick Geshan"]
+authors: ["Patrick Geshan"]
 nickname: ""
 categories: []
 tags: []

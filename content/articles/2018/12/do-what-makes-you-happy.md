@@ -1,6 +1,6 @@
 ---
 title: "Do What Makes You Happy"
-author: ["HALLIE ENDRES"]
+authors: ["HALLIE ENDRES"]
 nickname: ""
 categories: ["Columns"]
 tags: []

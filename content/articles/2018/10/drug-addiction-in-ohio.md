@@ -1,6 +1,6 @@
 ---
 title: "Drug Addiction in Ohio"
-author: ["VICKIE STURGILL"]
+authors: ["VICKIE STURGILL"]
 nickname: ""
 categories: ["Local", "News"]
 tags: []

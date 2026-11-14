@@ -1,20 +1,14 @@
 ---
 title: "Opinion_ There is no such thing as a ‘Good Cop’"
-author: ["PENDING REVIEW"]
+authors: ["JEAN R. PATEMAN"]
 nickname: ""
-categories: ["Needs Review"]
-tags: []
+categories: ["Opinion"]
+tags: ["Opinion", "Police"]
 cover: "/media/noImage.png"
 draft: false
 review_required: true
 date: 2020-06-18
 ---
-
-**Opinion: There is no such thing as a ‘Good Cop’**
-
-**June 18, 2020**
-
-**By JEAN R. PATEMAN**
 
 This controversial opinion seems to be growing in popularity as the Black Lives Matters protests gain international momentum following the murder of George Floyd. Since the increase in police violence and murder of black lives, there has been a spike in support for Black Rights movements due to social media and the ability to record black murders and everyday racism. The Black Lives Matter movement has gone global with protests in every state in the U.S. and in multiple countries around the world. It is widely accepted that many cops out there are racist and abuse the system to kill Black Americans, however many would say there isn’t enough to call all cops bad. I would define a good cop as someone who upholds both justice and fairness while serving and protecting the people of this country. You need to understand that the statement saying all cops are bad does not mean that a cop cannot be a good person, but rather they cannot be a good cop, because the American policing system is deeply rooted in racial injustice.
 

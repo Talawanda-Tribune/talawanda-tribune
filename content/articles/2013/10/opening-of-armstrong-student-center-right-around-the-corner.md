@@ -1,6 +1,6 @@
 ---
 title: "Opening of Armstrong Student Center Right Around the Corner"
-author: ["Sylvia de Boer"]
+authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []
 tags: []

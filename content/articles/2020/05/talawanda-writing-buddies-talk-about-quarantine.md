@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Writing Buddies Talk About Quarantine"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["coronavirus", "Covid-19", "Marshall", "pandemic", "remote learning"]

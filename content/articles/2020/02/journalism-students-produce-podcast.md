@@ -1,6 +1,6 @@
 ---
 title: "Journalism Students Produce Podcast"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

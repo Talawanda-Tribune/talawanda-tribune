@@ -1,6 +1,6 @@
 ---
 title: "Pixar to Release “The Good Dinosaur” around Thanksgiving"
-author: ["Adarsha Shah"]
+authors: ["Adarsha Shah"]
 nickname: ""
 categories: []
 tags: []

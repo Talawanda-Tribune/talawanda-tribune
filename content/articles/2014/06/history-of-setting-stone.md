@@ -1,6 +1,6 @@
 ---
 title: "History of Setting Stone"
-author: ["chelseaashdown"]
+authors: ["chelseaashdown"]
 nickname: ""
 categories: []
 tags: []

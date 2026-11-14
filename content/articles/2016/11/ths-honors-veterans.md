@@ -1,6 +1,6 @@
 ---
 title: "THS Honors Veterans"
-author: ["Waxy"]
+authors: ["Waxy"]
 nickname: ""
 categories: []
 tags: []

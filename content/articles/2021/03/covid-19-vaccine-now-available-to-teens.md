@@ -1,6 +1,6 @@
 ---
 title: "Covid-19 Vaccine Now Available to Teens"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Political Slogans"
-author: ["Anderson"]
+authors: ["Anderson"]
 nickname: ""
 categories: []
 tags: []

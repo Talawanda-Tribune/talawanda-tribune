@@ -1,6 +1,6 @@
 ---
 title: "The Day o’ Hats_ Spirit Week 2016"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

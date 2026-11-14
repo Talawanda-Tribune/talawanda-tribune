@@ -1,6 +1,6 @@
 ---
 title: "What is the Climate, Ohio"
-author: ["Julie Page"]
+authors: ["Julie Page"]
 nickname: ""
 categories: []
 tags: []

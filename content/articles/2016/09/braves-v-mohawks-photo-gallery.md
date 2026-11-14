@@ -1,6 +1,6 @@
 ---
 title: "Braves V Mohawks Photo Gallery"
-author: ["A. Hibbard"]
+authors: ["A. Hibbard"]
 nickname: ""
 categories: []
 tags: []

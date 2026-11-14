@@ -1,6 +1,6 @@
 ---
 title: "Metzger Receives Teacher of the Year Award"
-author: ["courtneystone"]
+authors: ["courtneystone"]
 nickname: ""
 categories: []
 tags: []

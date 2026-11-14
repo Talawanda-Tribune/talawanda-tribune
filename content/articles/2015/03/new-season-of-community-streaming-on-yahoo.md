@@ -1,6 +1,6 @@
 ---
 title: "New Season of “Community” Streaming on Yahoo"
-author: ["Darian Bolin"]
+authors: ["Darian Bolin"]
 nickname: ""
 categories: []
 tags: []

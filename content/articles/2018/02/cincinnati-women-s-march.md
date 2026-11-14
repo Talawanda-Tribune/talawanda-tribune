@@ -1,6 +1,6 @@
 ---
 title: "Cincinnati Women’s March"
-author: ["Rita Barclay Hart"]
+authors: ["Rita Barclay Hart"]
 nickname: ""
 categories: []
 tags: []

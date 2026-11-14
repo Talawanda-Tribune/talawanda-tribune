@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Student Starts Her Own Charity"
-author: ["Lauren Flum"]
+authors: ["Lauren Flum"]
 nickname: ""
 categories: []
 tags: []

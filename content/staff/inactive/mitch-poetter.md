@@ -1,3 +1,0 @@
----
-name: "Mitch Poetter"
----

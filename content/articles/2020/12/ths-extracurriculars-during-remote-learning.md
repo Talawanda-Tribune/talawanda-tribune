@@ -1,6 +1,6 @@
 ---
 title: "THS Extracurriculars During Remote Learning"
-author: ["waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["News", "School"]
 tags: ["remote extracurriculars"]

@@ -1,6 +1,6 @@
 ---
 title: "Untitled document"
-author: ["Photos by K. Fears"]
+authors: ["K. Fears"]
 nickname: ""
 categories: []
 tags: []

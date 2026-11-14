@@ -1,6 +1,6 @@
 ---
 title: "Music Notes_ The Land is Inhospitable and So Are We – Mitski (2023)_ Review"
-author: ["Lauren Dysert"]
+authors: ["Lauren Dysert"]
 nickname: ""
 categories: []
 tags: []

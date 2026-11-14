@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Weirdest Things Students Have Been Caught Doing on Zoom"
-author: ["Logan Murray"]
+authors: ["Logan Murray"]
 nickname: ""
 categories: []
 tags: []

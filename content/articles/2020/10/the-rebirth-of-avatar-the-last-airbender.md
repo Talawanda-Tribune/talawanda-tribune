@@ -1,6 +1,6 @@
 ---
 title: "The Rebirth of Avatar_ the Last Airbender"
-author: ["RZW"]
+authors: ["RZW"]
 nickname: ""
 categories: ["Arts and Entertainment", "Film & Television"]
 tags: ["AVATAR THE LAST AIRBENDER"]

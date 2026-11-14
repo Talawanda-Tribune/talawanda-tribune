@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Hosts New AFS Students"
-author: ["Lauren Flum"]
+authors: ["Lauren Flum"]
 nickname: ""
 categories: []
 tags: []

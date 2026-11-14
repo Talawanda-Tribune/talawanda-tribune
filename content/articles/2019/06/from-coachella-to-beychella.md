@@ -1,6 +1,6 @@
 ---
 title: "From Coachella to Beychella"
-author: ["ABBY ZMUDA"]
+authors: ["ABBY ZMUDA"]
 nickname: ""
 categories: []
 tags: []

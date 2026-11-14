@@ -1,6 +1,6 @@
 ---
 title: "Spoiler Alert!  Dead Poets Society Reviewed_"
-author: ["Thomas Harper"]
+authors: ["Thomas Harper"]
 nickname: ""
 categories: []
 tags: []

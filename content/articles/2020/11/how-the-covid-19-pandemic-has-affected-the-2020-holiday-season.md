@@ -1,6 +1,6 @@
 ---
 title: "How the Covid-19 Pandemic Has Affected the 2020 Holiday Season"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News"]
 tags: ["holiday plans", "pandemic"]

@@ -1,6 +1,6 @@
 ---
 title: "Brick Replacement Rumor Debunked"
-author: ["Jessica Tegge"]
+authors: ["Jessica Tegge"]
 nickname: ""
 categories: []
 tags: []

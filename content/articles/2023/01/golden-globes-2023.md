@@ -1,6 +1,6 @@
 ---
 title: "Golden Globes 2023"
-author: ["Jordan Gresham"]
+authors: ["Jordan Gresham"]
 nickname: ""
 categories: []
 tags: []

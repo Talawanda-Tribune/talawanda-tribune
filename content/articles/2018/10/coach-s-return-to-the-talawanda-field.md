@@ -1,6 +1,6 @@
 ---
 title: "Coach’s Return to the Talawanda Field"
-author: ["HILEY KRESSE"]
+authors: ["HILEY KRESSE"]
 nickname: ""
 categories: []
 tags: []

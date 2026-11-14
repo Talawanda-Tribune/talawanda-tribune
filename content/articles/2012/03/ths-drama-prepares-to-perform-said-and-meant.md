@@ -1,6 +1,6 @@
 ---
 title: "THS Drama Prepares to Perform “Said and Meant”"
-author: ["maggiecollins"]
+authors: ["maggiecollins"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Fermata Nowhere Starts its Seventh Year"
-author: ["Katie Johnston"]
+authors: ["Katie Johnston"]
 nickname: ""
 categories: []
 tags: []

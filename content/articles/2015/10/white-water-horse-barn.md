@@ -1,6 +1,6 @@
 ---
 title: "White Water Horse Barn"
-author: ["Sam Davis"]
+authors: ["Sam Davis"]
 nickname: ""
 categories: []
 tags: []

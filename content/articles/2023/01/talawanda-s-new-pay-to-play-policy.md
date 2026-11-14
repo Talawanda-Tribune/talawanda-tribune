@@ -1,6 +1,6 @@
 ---
 title: "Talawanda’s New Pay-to-Play Policy"
-author: ["Julie Page"]
+authors: ["Julie Page"]
 nickname: ""
 categories: []
 tags: []

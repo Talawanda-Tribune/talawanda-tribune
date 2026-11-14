@@ -1,6 +1,6 @@
 ---
 title: "Setting Stone Winter Coffee House"
-author: ["Bradyn Spurlock"]
+authors: ["Bradyn Spurlock"]
 nickname: ""
 categories: []
 tags: []

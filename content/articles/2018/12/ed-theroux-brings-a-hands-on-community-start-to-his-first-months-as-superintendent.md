@@ -1,6 +1,6 @@
 ---
 title: "Ed Theroux brings a Hands-on, Community Start to His First Months as Superintendent"
-author: ["Rita Barclay Hart"]
+authors: ["Rita Barclay Hart"]
 nickname: ""
 categories: ["News", "School"]
 tags: []

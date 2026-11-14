@@ -1,6 +1,6 @@
 ---
 title: "What Scares High Schoolers the Most"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

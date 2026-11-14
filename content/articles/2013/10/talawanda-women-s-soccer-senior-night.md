@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Women’s Soccer Senior Night"
-author: ["Morgan McQueen"]
+authors: ["Morgan McQueen"]
 nickname: ""
 categories: []
 tags: []

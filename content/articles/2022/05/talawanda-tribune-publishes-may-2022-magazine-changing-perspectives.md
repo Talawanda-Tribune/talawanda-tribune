@@ -1,6 +1,6 @@
 ---
 title: "Talawanda Tribune Publishes May 2022 Magazine_ Changing Perspectives"
-author: ["Staff"]
+authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "THS Cross Country Runners Kiefer Bell and Hannah Lippincott Advance to State Meet"
-author: ["Muhammed Khan"]
+authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School", "Sports"]
 tags: ["cross country"]

@@ -1,6 +1,6 @@
 ---
 title: "As Sports Move Back Outdoors, Talawanda’s Success Continues"
-author: ["Luke West Poley"]
+authors: ["Luke West Poley"]
 nickname: ""
 categories: []
 tags: []

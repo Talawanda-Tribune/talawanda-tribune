@@ -1,14 +1,16 @@
 ---
 title: "Epaulettes_ The Walking Sharks"
-author: ["Luca Berberich"]
+authors: ["Luca Berberich"]
 nickname: ""
-categories: []
+categories: [""]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/epaulettes-the-walking-sharks-image1.png"
 draft: false
 review_required: false
 date: 2023-11-02
 ---
+
+![](/media/epaulettes-the-walking-sharks-image1.png)
 
 Photo credit: Diveplanit
 

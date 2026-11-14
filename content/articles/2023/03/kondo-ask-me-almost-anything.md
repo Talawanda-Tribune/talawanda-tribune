@@ -1,6 +1,6 @@
 ---
 title: "Kondo_ Ask Me Almost Anything"
-author: ["The Lemon"]
+authors: ["The Lemon"]
 nickname: ""
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "The Wall_ Complete and Total Unbiased Reporting"
-author: ["Ben Phillips, Staff Reporter and RUSH fan"]
+authors: ["Ben Phillips", "Staff Reporter", "RUSH fan"]
 nickname: ""
 categories: []
 tags: []

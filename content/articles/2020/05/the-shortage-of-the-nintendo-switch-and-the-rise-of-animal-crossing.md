@@ -1,6 +1,6 @@
 ---
 title: "The Shortage of the Nintendo Switch and the Rise of Animal Crossing"
-author: ["Rita Zhou-Wang"]
+authors: ["Rita Zhou-Wang"]
 nickname: ""
 categories: []
 tags: []

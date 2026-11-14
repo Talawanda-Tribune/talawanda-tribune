@@ -1,6 +1,6 @@
 ---
 title: "No Slowing Down for THS Academic Challenge"
-author: ["Luke West Poley"]
+authors: ["Luke West Poley"]
 nickname: ""
 categories: []
 tags: []

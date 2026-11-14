@@ -1,6 +1,6 @@
 ---
 title: "Ancient Memeopotamia_ The History of Memes"
-author: ["The Meme Team: Hickman & Huddleston"]
+authors: ["The Meme Team: Hickman", "Huddleston"]
 nickname: ""
 categories: []
 tags: []
