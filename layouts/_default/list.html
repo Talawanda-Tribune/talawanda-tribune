@@ -2,13 +2,6 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 <ul>
-    {{ range .Pages.ByDate.Reverse }}
-    <li>
-        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        {{ $authors := .GetTerms "authors" }}
-        <div>{{ range $index, $author := $authors }}{{ if $index }}{{ if eq $index (sub (len $authors) 1) }} and {{ else }}, {{ end }}{{ end }}{{ $author.LinkTitle }}{{ end }}</div>
-        <div>{{ .Date.Format "Jan 2 2006" }}</div>
-    </li>
-    {{ end }}
+   {{ partial "articleList.html" (dict "context" . "style" "remaining") }}
 </ul>
 {{ end }}

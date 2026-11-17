@@ -29,8 +29,10 @@
     <div class="articlesList articlesList-{{ $style }}">
         {{ range first $count (after $offset $pages) }}
             <div class="articleListing articleListing-{{ $style }}">
-                <a href="{{ .RelPermalink }}"><img src="{{ .Params.Cover }}"></a>
-                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <a href="{{ .RelPermalink }}">
+                    <img src="{{ .Params.Cover }}" loading="lazy" alt="">
+                    <h2>{{ .Title }}</h2>
+                </a>
                 <div>
                     {{ partial "authorList.html" . }}
                 </div>

@@ -16,3 +16,8 @@ enableGitInfo = true
   section = ['HTML']
   taxonomy = ['HTML', 'RSS']
   term = ['HTML']
+
+[module]
+  [[module.mounts]]
+    source = 'assets/media'
+    target = 'static/media'

@@ -1,0 +1,7 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+<ul>
+   {{ partial "articleList.html" (dict "context" . "pages" .RegularPagesRecursive "style" "remaining") }}
+</ul>
+{{ end }}
