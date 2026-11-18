@@ -36,11 +36,11 @@ jobs:
           echo "--- config files ---"
           ls -la *.toml .*.yml .*.yaml 2>/dev/null || true
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: latest
-          extended: true
+      - name: Download and Install Hugo Binary
+        run: |
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v0.170.1/hugo_extended_0.170.1_Linux-64bit.tar.gz" -o hugo.tar.gz
+          tar -xzf hugo.tar.gz
+          sudo mv hugo /usr/local/bin/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
