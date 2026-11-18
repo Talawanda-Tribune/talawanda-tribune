@@ -49,7 +49,7 @@ jobs:
         run: |
           rm -rf public
           echo "--- running hugo ---"
-          hugo --cleanDestinationDir --verbose --destination public
+          hugo --cleanDestinationDir
           echo "--- public files ---"
           find public -maxdepth 4 -type f | sort
           echo "--- public tree ---"
