@@ -1,0 +1,53 @@
+{{- $src := .src | default "" -}}
+{{- if $src -}}
+    {{- $alt := .alt | default "" -}}
+    {{- $title := .title | default "" -}}
+    {{- $sizes := .sizes | default "100vw" -}}
+    {{- $loading := .loading | default "lazy" -}}
+    {{- $fit := .fit | default false -}}
+    {{- $resourcePath := "" -}}
+    {{- if strings.HasPrefix $src "/media/" -}}
+        {{- $resourcePath = strings.TrimPrefix "/" $src -}}
+    {{- else if strings.HasPrefix $src "media/" -}}
+        {{- $resourcePath = $src -}}
+    {{- end -}}
+    {{- $imageResource := false -}}
+    {{- if $resourcePath -}}
+        {{- $imageResource = resources.Get $resourcePath -}}
+    {{- end -}}
+    {{- with $imageResource -}}
+        {{- $image := . -}}
+        {{- $maxWidth := $image.Width -}}
+        {{- if and $fit (lt $image.Height $maxWidth) -}}
+            {{- $maxWidth = $image.Height -}}
+        {{- end -}}
+        {{- $srcset := slice -}}
+        {{- $default := false -}}
+        {{- range (slice 320 640 960 1280) -}}
+            {{- $width := . -}}
+            {{- if le $width $maxWidth -}}
+                {{- $variant := false -}}
+                {{- if $fit -}}
+                    {{- $variant = $image.Fill (printf "%dx%d Center webp q82" $width $width) -}}
+                {{- else -}}
+                    {{- $variant = $image.Resize (printf "%dx webp q82" $width) -}}
+                {{- end -}}
+                {{- $srcset = $srcset | append (printf "%s %dw" $variant.RelPermalink $variant.Width) -}}
+                {{- if not $default -}}
+                    {{- $default = $variant -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+        {{- if not $default -}}
+            {{- if $fit -}}
+                {{- $default = $image.Fill (printf "%dx%d Center webp q82" $maxWidth $maxWidth) -}}
+            {{- else -}}
+                {{- $default = $image.Resize (printf "%dx webp q82" $maxWidth) -}}
+            {{- end -}}
+            {{- $srcset = $srcset | append (printf "%s %dw" $default.RelPermalink $default.Width) -}}
+        {{- end -}}
+        <img src="{{ $default.RelPermalink }}" srcset="{{ delimit $srcset ", " }}" sizes="{{ $sizes }}" width="{{ $default.Width }}" height="{{ $default.Height }}" loading="{{ $loading }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}>
+    {{- else -}}
+        <img src="{{ $src }}" loading="{{ $loading }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }}>
+    {{- end -}}
+{{- end -}}

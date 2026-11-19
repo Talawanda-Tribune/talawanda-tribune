@@ -17,7 +17,10 @@ enableGitInfo = true
   taxonomy = ['HTML', 'RSS']
   term = ['HTML']
 
-[module]
-  [[module.mounts]]
-    source = 'assets/media'
-    target = 'static/media'
+#[module]
+#  [[module.mounts]]
+#    source = 'assets'
+#    target = 'assets'
+#  [[module.mounts]]
+#    source = 'assets/media'
+#    target = 'static/media'

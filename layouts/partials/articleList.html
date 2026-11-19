@@ -30,12 +30,21 @@
         {{ range first $count (after $offset $pages) }}
             <div class="articleListing articleListing-{{ $style }}">
                 <a href="{{ .RelPermalink }}">
-                    <img src="{{ .Params.Cover }}" loading="lazy" alt="">
+                    {{ partial "responsive-image.html" (dict
+                        "src" .Params.Cover
+                        "alt" ""
+                        "sizes" "(max-width: 600px) 100vw, 33vw"
+                        "fit" true
+                    ) }}
                     <h2>{{ .Title }}</h2>
+                    <div>
+                        {{ $authors := .GetTerms "authors" }}
+                        {{ range $index, $author := $authors }}
+                        {{- if $index }}{{ if eq $index (sub (len $authors) 1) }} and {{ else }}, {{ end }}{{ end }}
+                        {{ $author.LinkTitle }}
+                        {{- end }}
+                    </div>
                 </a>
-                <div>
-                    {{ partial "authorList.html" . }}
-                </div>
             </div>
         {{ end }}
     </div>

@@ -24,6 +24,14 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Cache Hugo image processing
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen/images
+          key: hugo-images-${{ runner.os }}-${{ hashFiles('assets/media/**', 'layouts/partials/responsive-image.html', 'layouts/_default/_markup/render-image.html', 'hugo.toml') }}
+          restore-keys: |
+            hugo-images-${{ runner.os }}-
+
       - name: Show repo tree before build
         run: |
           pwd
