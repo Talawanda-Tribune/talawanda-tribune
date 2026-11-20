@@ -1,0 +1,21 @@
+header {
+    background-color: #d3413f;
+}
+
+.header-wrap,
+.body-wrap,
+.footer-wrap {
+    max-width: 12000px;
+    margin: auto;
+}
+
+.header-wrap {
+    background-color: #d3413f;
+}
+
+.footer-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

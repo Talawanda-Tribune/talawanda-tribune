@@ -1,0 +1,86 @@
+.site-nav {
+    list-style: none;
+    display: flex;
+    align-items: baseline;
+    margin: 0;
+    padding: 0 2ch;
+}
+
+.site-nav > li {
+    margin: 1ch;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.site-nav > li:nth-child(2) {
+    margin-left: auto;
+}
+
+.site-nav > .site-nav_list {
+    font-family: 'Oswald', sans-serif;
+    font-size: 16pt;
+}
+
+.site-nav > li > a {
+    display: flex;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.site-nav .menu-item {
+    position: relative;
+}
+
+.site-nav .menu-item--has-children > a::after {
+    content: "\00A0\25BE";
+}
+
+.site-nav .submenu {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 0;
+    right: auto;
+    min-width: max-content;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0.5ch 0;
+    background-color: #d3413f;
+    box-shadow: 0 0.5ch 1ch rgb(0 0 0 / 20%);
+    list-style: none;
+}
+
+.site-nav .submenu .submenu {
+    top: 0;
+    left: 100%;
+}
+
+.site-nav .submenu.submenu--align-right {
+    --submenu-right-offset: 0px;
+    left: auto;
+    right: var(--submenu-right-offset, 0px);
+}
+
+.site-nav .menu-item:hover > .submenu,
+.site-nav .menu-item:focus-within > .submenu {
+    display: flex;
+}
+
+.site-nav .submenu > li {
+    margin: 0;
+    white-space: nowrap;
+}
+
+.site-nav .submenu a {
+    display: block;
+    padding: 1ch 2ch;
+}
+
+.site-nav .submenu a:hover,
+.site-nav .submenu a:focus {
+    background-color: #b83230;
+}
+
