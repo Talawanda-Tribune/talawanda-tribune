@@ -1,20 +1,16 @@
 ---
-title: "Geometry Probs"
-authors: ["Tribune Staff"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/geometry-probs-image1.jpg"
+title: Geometry Probs
+authors:
+  - Staff
+cover: /media/geometry-probs-image1.jpg
 draft: false
-review_required: false
 date: 2017-09-28
 ---
+*Dear Asking for a Friend:*  
+*LP = NS prove LN = PS line segment: L——–N——–P——–S*
 
-*Dear Asking for a Friend:  
-LP = NS prove LN = PS line segment: L——–N——–P——–S*
-
-*Sincerely,  
-Plz Hurry it’s Due Oct 4th*
+*Sincerely,*  
+*Plz Hurry it’s Due Oct 4th*
 
 Dear Plz Hurry:  
 We’ve considered your problem and contemplated some solutions:  
