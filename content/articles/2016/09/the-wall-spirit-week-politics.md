@@ -1,15 +1,11 @@
 ---
-title: "The Wall_ Spirit Week Politics"
-authors: ["Ben Phillips, Star Reporter"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: The Wall_ Spirit Week Politics
+authors:
+  - Ben Phillips, Star Reporter
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2016-09-30
 ---
-
 This week we have some exciting news coming from the Talawanda School District itself. With the Trump banners waving all around the political spirit is in the air. We’ve seen it all from hats, shirts, and even the chants to signs stretching out across the high school’s entrance. Being the lead writer and only editor of The Wall I took a trip to one of the history teacher Mr. Kelly’s classroom to let the spirit of support for Trump in the air. I walked into Mr. Kelly’s room to make my stance “Build a wall, protect us all!” I chanted while others looked at me with a blank stare. Eventually one young man began chanting with me as someone else in the room had an alternate statement “Are you serious right now,” Said someone behind me as I chanted with now three others in the room. Then suddenly Mr. Kelly walked into the room and decided that maybe my cause wasn’t proper as he stated his opinion, “Ben what are you doing in my room, get out.” He said as I went back to class.
 
 Where’s the Articles Ben?
