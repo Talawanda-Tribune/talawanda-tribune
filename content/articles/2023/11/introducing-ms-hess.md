@@ -10,7 +10,7 @@ review_required: false
 date: 2023-11-16
 ---
 
-# **Introducing Ms. Hess**![](/media/introducing-ms-hess-image1.png)
+![](/media/introducing-ms-hess-image1.png)
 
 
 *Talawanda students may have noticed a few new faces in the building this year. Tribune is interviewing four new staff members to help students get to know them. Today’s interview is with our new assistant principal, Ms. Hess.*
