@@ -1,15 +1,11 @@
 ---
-title: "Talawanda to Host Covid-19 Clinics"
-authors: ["Tribune Staff"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: Talawanda to Host Covid-19 Clinics
+authors:
+  - Staff
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2021-11-05
 ---
-
 Oxford, OH — Talawanda High School will be one of three schools to host Covid-19 vaccination clinics. Ross High School and Monroe High School will also be hosting.
 
 All people ages 5 and up are now eligible to get the Pfizer Covid-19 vaccination.
