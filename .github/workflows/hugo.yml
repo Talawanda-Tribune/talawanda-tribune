@@ -1,9 +1,15 @@
 name: Deploy Hugo site to Pages
 
 on:
-  push:
-    branches: ["master"]
+#  push:
+#    branches: ["master"]
   workflow_dispatch:
+    inputs:
+      payload:
+        description: Pages CMS action payload (JSON)
+        required: true
+        type: string
+        default: '{}'
 
 permissions:
   contents: read

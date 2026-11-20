@@ -6,7 +6,7 @@ media:
 
 content:
   - name: author
-    label: Staff (Active)
+    label: Staff
     type: collection
     path: content/staff
     filename: "{slug}.md"
@@ -15,17 +15,10 @@ content:
         label: Author Name
         type: string
         required: true
-
-  - name: author_inactive
-    label: Staff (Inactive)
-    type: collection
-    path: content/staff-inactive
-    filename: "{slug}.md"
-    fields:
-      - name: name
-        label: Author Name
-        type: string
-        required: true
+      - name: active
+        label: Active Author?
+        type: boolean
+        default: true
 
   - name: categories
     label: Categories
@@ -39,6 +32,18 @@ content:
         type: string
         required: true
 
+  - name: tags
+    label: Tags
+    type: collection
+    path: content/tag-data
+    filename: "{slug}.md"
+    exclude: ["_index.md"]
+    fields:
+      - name: name
+        label: Tag Name
+        type: string
+        required: true
+
   - name: articles
     label: Articles
     type: collection
@@ -48,11 +53,12 @@ content:
       - name: title
         type: string
         required: true
-      - name: author
+      - name: authors
         label: Author
         type: reference
         options:
-          collection: author   # fixed: was "authors"
+          collection: author
+          multiple: true
           value: "{fields.name}"
       - name: nickname
         label: Per-Article Nickname
@@ -63,6 +69,13 @@ content:
         type: reference
         options:
           collection: categories
+          multiple: true
+          value: "{fields.name}"
+      - name: tags
+        label: Tags
+        type: reference
+        options:
+          collection: tags
           multiple: true
           value: "{fields.name}"
       - name: cover
@@ -126,3 +139,12 @@ content:
           - name: parent
             label: Parent identifier (set to nest this under another item)
             type: string
+actions:
+  - name: deploy-site
+    label: Deploy site
+    workflow: hugo.yml
+    ref: current
+    confirm:
+      title: Deploy site?
+      message: Build and publish the site using the current branch.
+      button: Deploy
