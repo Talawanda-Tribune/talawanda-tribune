@@ -1,5 +1,5 @@
 ---
-title: "Changes in Isolation and Quarantine Policies_ an Interview With Dr"
+title: "Changes in Isolation and Quarantine Policies: an Interview With Dr. Theroux"
 authors: ["Muhammed Khan"]
 nickname: ""
 categories: ["News", "School"]
@@ -9,11 +9,6 @@ draft: false
 review_required: false
 date: 2021-01-12
 ---
-
-**Changes in Isolation and Quarantine Policies: an Interview With Dr. Theroux**
-
-By Muhammed Khan
-
 We have struggled to deal with the COVID-19 pandemic throughout all of 2020. Hopefully, the pandemic will soon come to an end. The Centers for Disease Control and Prevention (CDC) is planning to make changes to their guidelines. The 14-day quarantines may be reduced to 7-10 days in some situations. If the community has a good amount of testing resources, if the person tests negative within 6-7 days they can end their quarantine on the 7th day. The person can also end their quarantine without a test in 10 days if they have no symptoms. The CDC has also planned to change their guidance for testing before and after traveling. Now, people are recommended to get tested 1-3 days before traveling and 3-5 days after they return.
 
 In Butler County, changes are also being made. Officials have stated that they will make changes to quarantine guidelines. They have decided to use the shortened quarantine times that were announced by the CDC. They have three options for quarantining: 14 days, 10 days with no testing, and 7 days with a negative test at the end.
