@@ -8,7 +8,7 @@ content:
   - name: author
     label: Staff
     type: collection
-    path: content/staff
+    path: content/author-data
     filename: "{slug}.md"
     fields:
       - name: name
