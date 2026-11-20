@@ -1,22 +1,18 @@
 ---
-title: "First Presidential Debate 2016"
-authors: ["Tribune Staff"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: First Presidential Debate 2016
+authors:
+  - Staff
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2016-09-30
 ---
-
-On Monday, Sept. 26, 2016 the first Presidential Debate of the 2016 election year aired from 9-11 pm on 10 channels simultaneously. The debate was moderated by NBC News nightly anchor Lester Holt. Something new this time around was the split-screen format which allowed viewers at home to see both candidates throughout the entire debate. The facial expressions and body language showed a lot as Donald Trump, Republican Presidential candidate, and Hillary Clinton, Democrat Presidential candidate, squared off to debate issues such as economics, “stop and frisk,” and race in the United States. Another new tool at the disposal of viewers is NPR’s fact check that provided debate viewers with real-time analysis of the candidate’s claims. Viewers could see live feed transcripts while also reading fact checking from NPR’s Politics team at <http://www.npr.org/2016/09/26/495115346/fact-check-first-presidential-debate>.
+On Monday, Sept. 26, 2016 the first Presidential Debate of the 2016 election year aired from 9-11 pm on 10 channels simultaneously. The debate was moderated by NBC News nightly anchor Lester Holt. Something new this time around was the split-screen format which allowed viewers at home to see both candidates throughout the entire debate. The facial expressions and body language showed a lot as Donald Trump, Republican Presidential candidate, and Hillary Clinton, Democrat Presidential candidate, squared off to debate issues such as economics, “stop and frisk,” and race in the United States. Another new tool at the disposal of viewers is NPR’s fact check that provided debate viewers with real-time analysis of the candidate’s claims. Viewers could see live feed transcripts while also reading fact checking from NPR’s Politics team at [http://www.npr.org/2016/09/26/495115346/fact-check-first-presidential-debate](http://www.npr.org/2016/09/26/495115346/fact-check-first-presidential-debate).
 
 On Tuesday, Sept. 27, 2016 “Tribune” reporters watched the debate and noted such tweet-worthy comments as:
 
-Hillary: \#trumpeduptrickledown
+Hillary: trumpeduptrickledown
 
-Trump: \#greatbelieverinallsortsofenergy
+Trump: greatbelieverinallsortsofenergy
 
 While Clinton gave a plug for her new book “Stronger Together” (Clinton told Trump: “You can pick it up tomorrow at a bookstore or an airport near you”), Trump gave a shout out to opening a hotel “right next to the White House, so if I don’t get there one way, I’m going to get Pennsylvania Avenue another.”
 
