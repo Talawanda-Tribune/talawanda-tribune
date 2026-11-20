@@ -1,28 +1,20 @@
 ---
-title: "The Wall_ Complete and Total Unbiased Reporting"
-authors: ["Ben Phillips", "Staff Reporter", "RUSH fan"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: The Wall_ Complete and Total Unbiased Reporting
+authors:
+  - Ben Phillips
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2016-09-09
 ---
-
 Welcome to The Wall! The most trusted news column on the Tribune for fair and balanced news–all online and all true. Here at The Wall, we take pride in hiring only the most biased reporters and editors from both sides of the political spectrum and have repeatedly won the award for most underpaid staff in news history. In a world full of biased news and broken promises, we at The Wall guarantee that you will receive a fair story or interview a whopping 60% of the time and a balanced story an entire 40% of the time. We report only the facts, with some opinion thrown in here and there to make things more interesting, and we promise that you get a partial portion of the story every time. If you haven’t already stopped reading by now and clicked off this tab to read from news sites that will give you false information, then we highly recommend you check out our quality articles.
 
 **Five Alternatives to Donald Trump’s Wall**
 
-1.  Only build a wall as a last resort around political landmarks and Conventions to protect our beloved politicians from illegal aliens.
-
-2.  Build a wall around Trump Towers to stop people from trying to invade Trump’s privacy and property such as the 20-year-old man from Virginia caught by the NYPD trying to climb Trump’s Tower.
-
-3.  Build a wall around Canada instead of Mexico to stop horrible music like Nickelback and Justin Bieber from invading the US.
-
-4.  Build a wall around the White House to stop the illegal aliens from trying to jump over the fence into the house of our very president.
-
-5.  Vote for a candidate like Trump who obviously knows how to properly handle foreign policy and knows how to properly handle everyone coming into our country both legally and illegally.
+1. Only build a wall as a last resort around political landmarks and Conventions to protect our beloved politicians from illegal aliens.
+2. Build a wall around Trump Towers to stop people from trying to invade Trump’s privacy and property such as the 20-year-old man from Virginia caught by the NYPD trying to climb Trump’s Tower.
+3. Build a wall around Canada instead of Mexico to stop horrible music like Nickelback and Justin Bieber from invading the US.
+4. Build a wall around the White House to stop the illegal aliens from trying to jump over the fence into the house of our very president.
+5. Vote for a candidate like Trump who obviously knows how to properly handle foreign policy and knows how to properly handle everyone coming into our country both legally and illegally.
 
 **In Defense of Hillary Clinton**
 
