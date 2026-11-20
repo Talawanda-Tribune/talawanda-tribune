@@ -1,15 +1,12 @@
 ---
-title: "Homecoming Proposals"
-authors: ["M. Hickman", "M. Huddleston", "Staff Reporters", "Homecoming Enthusiasts"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/homecoming-proposals-image4.png"
+title: Homecoming Proposals
+authors:
+  - M. Hickman
+  - M. Huddleston
+cover: /media/homecoming-proposals-image4.png
 draft: false
-review_required: false
 date: 2016-09-23
 ---
-
 This Saturday, Sept. 24, 2016 is the THS homecoming dance. We had students share their homecoming proposals with the Tribune, and included in our story are four of our very own Tribune members, Austin, Dylan, and Mary Kate. Madi also got asked, but didn’t have a picture to share in the article.
 
 Austin, a junior at THS, and Talawanda Tribune member, asked Miklaye to homecoming. He asked using a sign that read “Flowers are the 2nd most beautiful thing in the world, and I want to go with the 1st.” And of course gave her flowers. She said yes!
