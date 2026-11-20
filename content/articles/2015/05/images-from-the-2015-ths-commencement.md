@@ -1,15 +1,12 @@
 ---
-title: "Images from the 2015 THS Commencement"
-authors: ["Talawanda Tribune", "THS Yearbook"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/images-from-the-2015-ths-commencement-image50.jpg"
+title: Images from the 2015 THS Commencement
+authors:
+  - THS Yearbook
+  - Staff
+cover: /media/images-from-the-2015-ths-commencement-image50.jpg
 draft: false
-review_required: false
 date: 2015-05-29
 ---
-
 ![](/media/images-from-the-2015-ths-commencement-image50.jpg)
 
 ![](/media/images-from-the-2015-ths-commencement-image26.jpg)
@@ -167,3 +164,4 @@ date: 2015-05-29
 ![](/media/images-from-the-2015-ths-commencement-image79.jpg)
 
 ![](/media/images-from-the-2015-ths-commencement-image64.jpg)
+
