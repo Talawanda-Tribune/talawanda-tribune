@@ -19,6 +19,7 @@ nav > .site-nav {
     align-items: baseline;
     margin: 0;
     padding: 0 2ch;
+
 }
 
 .site-nav > li {
@@ -49,7 +50,7 @@ nav a {
 }
 
 .site-nav .menu-item--has-children > a::after {
-    content: "\25BE";
+    content: "\00A0\25BE";
 }
 
 .site-nav .submenu {
@@ -58,12 +59,14 @@ nav a {
     z-index: 1;
     top: 100%;
     left: 0;
+    right: auto;
     min-width: max-content;
     flex-direction: column;
     align-items: stretch;
     padding: 0.5ch 0;
     background-color: #d3413f;
     box-shadow: 0 0.5ch 1ch rgb(0 0 0 / 20%);
+    list-style: none;
 }
 
 .site-nav .submenu .submenu {
@@ -71,9 +74,16 @@ nav a {
     left: 100%;
 }
 
+.site-nav .submenu.submenu--align-right {
+    --submenu-right-offset: 0px;
+    left: auto;
+    right: var(--submenu-right-offset, 0px);
+}
+
 .site-nav .menu-item:hover > .submenu,
 .site-nav .menu-item:focus-within > .submenu {
-    display: flex;
+    display: flex;;
+
 }
 
 .site-nav .submenu > li {

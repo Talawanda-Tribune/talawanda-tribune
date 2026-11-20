@@ -2,7 +2,17 @@
     <div class="header-wrap">
         <nav>
             <ul class="site-nav">
-               <li class="site-nav_list"><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
+                <li class="site-nav_list"><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
+                {{ with site.GetPage "/articles" }}
+                <li class="menu-item menu-item--has-children">
+                    <a href="{{ .RelPermalink }}">Articles</a>
+                    <ul class="submenu">
+                        {{ range sort .Sections "Title" "desc" }}
+                        <li class="menu-item"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                        {{ end }}
+                    </ul>
+                </li>
+                {{ end }}
                 {{ range site.Menus.main }}
                 {{ partial "menu-item.html" . }}
                 {{ end }}
@@ -10,3 +20,30 @@
         </nav>
     </div>
 </header>
+<script>
+    (() => {
+        const submenus = document.querySelectorAll('.site-nav .menu-item--has-children');
+
+        const alignSubmenu = (menuItem) => {
+            const submenu = menuItem.querySelector(':scope > .submenu');
+            if (!submenu) return;
+
+            submenu.classList.remove('submenu--align-right');
+            const submenuRight = submenu.getBoundingClientRect().right;
+
+            if (submenuRight > window.innerWidth) {
+                const containingBlock = menuItem.getBoundingClientRect();
+                submenu.style.setProperty(
+                    '--submenu-right-offset',
+                    `${containingBlock.right - window.innerWidth}px`
+                );
+                submenu.classList.add('submenu--align-right');
+            }
+        };
+
+        submenus.forEach((menuItem) => {
+            menuItem.addEventListener('mouseenter', () => alignSubmenu(menuItem));
+            menuItem.addEventListener('focusin', () => alignSubmenu(menuItem));
+        });
+    })();
+</script>

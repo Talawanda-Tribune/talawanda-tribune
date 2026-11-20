@@ -1,19 +1,10 @@
 main:
-  - name: Articles
-    url: /articles/
-    pageRef: /articles/
-    weight: 1
-    identifier: articles
   - name: Staff
     url: /staff/
     weight: 3
   - name: Categories
     url: /categories/
     weight: 4
-  - name: "2020"
-    url: /articles/2020/
-    weight: 1
-    parent: articles
   - name: "School"
     url: /categories/school/
     weight: 2
