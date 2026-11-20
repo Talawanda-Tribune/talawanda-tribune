@@ -96,6 +96,7 @@ content:
     label: Pages
     type: collection
     path: content
+    subfolders: false
     filename: "{slug}.md"
     fields:
       - name: title
