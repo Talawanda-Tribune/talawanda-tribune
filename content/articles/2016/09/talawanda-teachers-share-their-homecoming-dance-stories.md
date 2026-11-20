@@ -1,15 +1,12 @@
 ---
-title: "Talawanda Teachers Share Their Homecoming Dance Stories"
-authors: ["M. Hickman", "MK Huddleston", "Staff Reporters"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: Talawanda Teachers Share Their Homecoming Dance Stories
+authors:
+  - M. Hickman
+  - MK Huddleston
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2016-09-16
 ---
-
 Surprisingly some teachers at THS still remember their Homecoming. Mr. Lykins, Mr. Mills, Mr. Schmid, Mr. Pasquale, Mr. Caudill, and Mr. Ruther shared some of their dance day memories with The Tribune.
 
 Mr. Lykins, THS ninth grade english teacher and CCR teacher, shared with us his memories of his homecoming. We asked him if he was ever stood up by a girl, and luckily, it was a no. Although, he did break up with his girlfriend on Homecoming night his freshman year. “I was a jerk,” he added. We asked three other teachers the same question.
