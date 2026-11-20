@@ -1,15 +1,11 @@
 ---
-title: "Images from “Phantom of the Soap Opera”"
-authors: ["Staff Writer"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/images-from-phantom-of-the-soap-opera-image3.jpg"
+title: Images from “Phantom of the Soap Opera”
+authors:
+  - Staff
+cover: /media/images-from-phantom-of-the-soap-opera-image3.jpg
 draft: false
-review_required: false
 date: 2015-09-15
 ---
-
 ![](/media/images-from-phantom-of-the-soap-opera-image3.jpg)
 
 Talawanda’s Drama Club put on their Fall play this past weekend, *Phantom of the Soap Opera*. The play, written by Craig Sodaro, a take on *The Phantom of the Opera,* focuses on a mysterious phantom living below a soap opera television studio who wreaks havoc on the cast and crew in order to find love with the soap’s leading lady.
@@ -37,3 +33,4 @@ Check out some images from the production below, taken by Kate McCarthy and cour
 ![](/media/images-from-phantom-of-the-soap-opera-image6.jpg)
 
 ![](/media/images-from-phantom-of-the-soap-opera-image8.jpg)
+
