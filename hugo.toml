@@ -1,6 +1,5 @@
 baseURL = 'https://hugo.aquahonoredhi.pp.ua'
 locale = 'en-us'
-languageCode = 'en-US'
 title = 'Talawanda Tribune'
 enableGitInfo = true
 
