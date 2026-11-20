@@ -1,15 +1,11 @@
 ---
-title: "Setting Stone Launches New Site"
-authors: ["Tribune Staff Writer"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/setting-stone-launches-new-site-image2.png"
+title: Setting Stone Launches New Site
+authors:
+  - Staff
+cover: /media/setting-stone-launches-new-site-image2.png
 draft: false
-review_required: false
 date: 2015-05-29
 ---
-
 ![](/media/setting-stone-launches-new-site-image2.png)
 
 ![](/media/setting-stone-launches-new-site-image1.png)*Setting Stone Liberal Arts Magazine* has launched a new website to feature student writing and artwork, as well as images from their popular Coffee House event.
