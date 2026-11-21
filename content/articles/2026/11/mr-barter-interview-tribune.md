@@ -6,7 +6,7 @@ categories:
   - Needs Review
 cover: /media/mr-barter-interview-tribune-image1.png
 draft: true
-date: 2026-11-20
+date: 2026-10-26
 ---
 ![](/media/mr-barter-interview-tribune-image1.png)
 
