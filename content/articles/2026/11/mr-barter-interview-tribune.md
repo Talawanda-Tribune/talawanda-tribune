@@ -1,5 +1,5 @@
 ---
-title: Mr. Barter Interview-Tribune
+title: Mr. Barter Interview
 authors:
   - Elise Barter
 cover: /media/mr-barter-interview-tribune-image1.png
