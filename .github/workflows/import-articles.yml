@@ -557,12 +557,16 @@ jobs:
             rm -rf "$WORK"
           done < "$RUNNER_TEMP/files.txt"
 
+          # git rm deletes a folder once its last file is gone; keep the inbox so Pages CMS can still use it
+          mkdir -p "$INBOX"
+          touch "$INBOX/.gitkeep"
+
       - name: Commit and push
         if: steps.find.outputs.count != '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A content static uploads
+          git add -A
           if git diff --cached --quiet; then
             echo "Nothing to commit"
             exit 0
