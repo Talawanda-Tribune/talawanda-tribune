@@ -9,11 +9,10 @@
         {{ .Content }}
     </div>
 {{/*    {{ partial "articleList.html" (dict "context" . "style" "standard")}}*/}}
-    {{ partial "articleList.html" (dict "context" . "offset" 5 "lists" (
+    {{ partial "articleList.html" (dict "context" . "lists" (
 slice (dict "style" "featured" "count" 1) (dict "style" "standard" "count" 5)
 ))}}
 {{/*    {{ partial "articleList.html" (dict "context" . "style" "remaining")}}*/}}
 
 {{ end }}
-
 
