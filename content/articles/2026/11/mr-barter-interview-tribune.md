@@ -1,15 +1,13 @@
 ---
-title: "Mr. Barter Interview-Tribune"
-authors: ["PENDING REVIEW"]
-nickname: ""
-categories: ["Needs Review"]
-tags: []
-cover: "/media/mr-barter-interview-tribune-image1.png"
+title: Mr. Barter Interview-Tribune
+authors:
+  - Elise Barter
+categories:
+  - Needs Review
+cover: /media/mr-barter-interview-tribune-image1.png
 draft: true
-review_required: true
 date: 2026-11-20
 ---
-
 ![](/media/mr-barter-interview-tribune-image1.png)
 
 A photo of Mr. Barter.
