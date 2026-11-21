@@ -2,7 +2,7 @@ baseURL = 'https://hugo.aquahonoredhi.pp.ua'
 locale = 'en-us'
 title = 'Talawanda Tribune'
 enableGitInfo = true
-
+summaryLength = 10
 
 [taxonomies]
   category = 'categories'

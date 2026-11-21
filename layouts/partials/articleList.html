@@ -44,6 +44,11 @@
                         {{ $author.LinkTitle }}
                         {{- end }}
                     </div>
+                    {{ if eq $style "featured" }}
+                    <div class="articleListing-summary">
+                        {{ .Summary | plainify }}
+                    </div>
+                    {{ end }}
                 </a>
             </div>
         {{ end }}

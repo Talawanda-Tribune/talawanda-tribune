@@ -1,4 +1,10 @@
 @media (max-width: 600px) {
+    .site-nav > li:not(:first-child) {
+        display: none;
+    }
+    .site-nav > li: {
+        display: none;
+    }
     .articleListing-featured {
         grid-template-columns: 1fr;
         grid-template-areas:
