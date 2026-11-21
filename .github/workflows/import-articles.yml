@@ -1,0 +1,80 @@
+name: Import uploaded articles
+
+# Triggered by the "Import to drafts" button in Pages CMS (see .pages.yml).
+on:
+  workflow_dispatch:
+    inputs:
+      payload:
+        description: Pages CMS payload as JSON
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+# One import at a time, so the pushes never race each other
+concurrency:
+  group: import-articles
+  cancel-in-progress: false
+
+env:
+  INBOX: uploads/articles
+  TZ: America/New_York   # "today" means today in Ohio, not UTC
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Find the .docx files to import
+        id: find
+        env:
+          PAYLOAD: ${{ inputs.payload }}
+        run: |
+          CTX_PATH=$(echo "$PAYLOAD" | jq -r '.context.path // empty')
+          LIST="$RUNNER_TEMP/files.txt"          # kept outside the repo
+          : > "$LIST"
+          if [[ "$CTX_PATH" == *.docx && -f "$CTX_PATH" ]]; then
+            echo "$CTX_PATH" > "$LIST"              # the CMS pointed at one file
+          else
+            find "$INBOX" -maxdepth 1 -type f -iname '*.docx' | sort > "$LIST"
+          fi
+          echo "count=$(wc -l < "$LIST" | tr -d ' ')" >> "$GITHUB_OUTPUT"
+          echo "Files to import:"; cat "$LIST"
+
+      - name: Convert to draft articles
+        if: steps.find.outputs.count != '0'
+        env:
+          HUGO_CONTENT_BASE: ${{ github.workspace }}/content
+          HUGO_ASSET_DIR: ${{ github.workspace }}/static/media
+          ARTICLE_DRAFT: "true"
+          FORCE_TODAY: "true"
+        run: |
+          while IFS= read -r f; do
+            # run from a scratch folder so pandoc's temp files never end up in the repo
+            WORK=$(mktemp -d)
+            if (cd "$WORK" && bash "$GITHUB_WORKSPACE/scripts/tribconvert-one.sh" "$GITHUB_WORKSPACE/$f"); then
+              git rm -q "$f"                        # imported: take it out of the inbox
+            else
+              echo "::warning::Could not convert $f (left in $INBOX)"
+            fi
+            rm -rf "$WORK"
+          done < "$RUNNER_TEMP/files.txt"
+
+      - name: Commit and push
+        if: steps.find.outputs.count != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A content static uploads
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "Import articles from Pages CMS as drafts"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"

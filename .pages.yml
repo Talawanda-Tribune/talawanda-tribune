@@ -3,7 +3,20 @@ media:
     label: Default
     input: static/media
     output: /media
-
+  - name: article_uploads
+    label: Article Uploads
+    input: uploads/articles
+    output: /uploads/articles
+    extensions: [docx]
+    actions:
+      - name: import-articles
+        label: Import to drafts
+        workflow: import-articles.yml
+        ref: current
+        confirm:
+          title: Import uploaded articles?
+          message: Every .docx in this folder is converted to a draft article dated today, then removed from the folder.
+          button: Import
 content:
   - name: author
     label: Staff
