@@ -2,10 +2,8 @@
 title: Mr. Barter Interview-Tribune
 authors:
   - Elise Barter
-categories:
-  - Needs Review
 cover: /media/mr-barter-interview-tribune-image1.png
-draft: true
+draft: false
 date: 2026-10-26
 ---
 ![](/media/mr-barter-interview-tribune-image1.png)
