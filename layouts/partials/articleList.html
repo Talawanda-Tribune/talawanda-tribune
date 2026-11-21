@@ -36,8 +36,9 @@
                         "sizes" "(max-width: 600px) 100vw, 33vw"
                         "fit" true
                     ) }}
+                    {{ if eq $style "featured" }}<div class="articleListingText">{{ end }}
                     <h2>{{ .Title }}</h2>
-                    <div>
+                    <div class="articleListingAuthors">
                         {{ $authors := .GetTerms "authors" }}
                         {{ range $index, $author := $authors }}
                         {{- if $index }}{{ if eq $index (sub (len $authors) 1) }} and {{ else }}, {{ end }}{{ end }}
@@ -47,6 +48,7 @@
                     {{ if eq $style "featured" }}
                     <div class="articleListing-summary">
                         {{ .Summary | plainify }}
+                    </div>
                     </div>
                     {{ end }}
                 </a>

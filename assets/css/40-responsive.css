@@ -1,16 +1,23 @@
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .site-nav > li:not(:first-child) {
         display: none;
     }
-    .site-nav > li: {
-        display: none;
-    }
-    .articleListing-featured {
+    .articleListing-featured > a {
         grid-template-columns: 1fr;
         grid-template-areas:
             "image"
-            "title"
             "text";
+        gap: 2ch;
+    }
+    .articleListing-featured {
+        text-align: center;
+
+
+    }
+    .articleListing-summary {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3; /* Number of lines to show */
+        overflow: hidden;
     }
 }
-

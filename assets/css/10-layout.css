@@ -3,11 +3,15 @@ header {
 }
 
 .header-wrap,
-.body-wrap,
 .footer-wrap {
-    max-width: 12000px;
+    /*max-width: 2000px;*/
+    /*margin: auto;*/
+}
+.main-wrap {
+    max-width: 1200px;
     margin: auto;
 }
+
 
 .header-wrap {
     background-color: #d3413f;
