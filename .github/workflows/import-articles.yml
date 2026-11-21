@@ -30,6 +30,497 @@ jobs:
       - name: Install pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc
 
+      - name: Write the converter script
+        run: |
+          cat > "$RUNNER_TEMP/tribconvert-one.sh" <<'TRIBCONVERT_SCRIPT_EOF'
+          #!/bin/bash
+
+          # Usage: ./tribconvert-one.sh "path/to/article.docx"
+          # Converts ONE .docx into Hugo content (same logic as tribconvert.sh, without the batch loop).
+          if [ $# -ne 1 ] || [ ! -f "$1" ]; then
+              echo "Usage: $0 path/to/article.docx" >&2
+              exit 1
+          fi
+          case "$1" in
+              *.docx|*.DOCX) ;;
+              *) echo "Error: '$1' is not a .docx file" >&2; exit 1 ;;
+          esac
+          docx_file="$1"
+
+          # Paths can be overridden with environment variables (the GitHub Action does this).
+          HUGO_CONTENT_BASE="${HUGO_CONTENT_BASE:-/home/aquahonoredhi/sites/testhugo/content}"
+          HUGO_CONTENT_ROOT="$HUGO_CONTENT_BASE/articles"
+          # All authors live here. Each has an `active` flag (toggle in the CMS); generated authors start inactive.
+          HUGO_STAFF_DIR="$HUGO_CONTENT_BASE/staff"
+          # Front matter key for the author taxonomy: the PLURAL name from your Hugo [taxonomies] config
+          # (e.g. author = "authors" -> AUTHOR_KEY="authors"). Written as a list, as Hugo taxonomies expect.
+          AUTHOR_KEY="authors"
+          # NOTE: must NOT be named "categories" (collides with Hugo's generated taxonomy pages)
+          HUGO_CATS_DIR="$HUGO_CONTENT_BASE/category-data"
+          # Tag entries for the CMS dropdown. Must NOT be named "tags" (collides with Hugo's taxonomy pages).
+          HUGO_TAGS_DIR="$HUGO_CONTENT_BASE/tag-data"
+          HUGO_ASSET_DIR="${HUGO_ASSET_DIR:-/home/aquahonoredhi/sites/testhugo/static/media}"
+
+          # Categories you don't want kept (pipe-separated, case-insensitive). e.g. "All Posts|Archives"
+          SKIP_CATS="All Posts|Archives"
+
+          # Tags you don't want kept (pipe-separated, case-insensitive)
+          SKIP_TAGS=""
+
+          # Category assigned to every article that gets review_required: true
+          REVIEW_CATEGORY="Needs Review"
+
+          # Remove the "Added by ... Saved under ..." line from the article body after extracting it
+          STRIP_META_LINE=true
+
+          # Environment switches (defaults keep the normal behaviour):
+          #   ARTICLE_DRAFT=true  -> front matter gets "draft: true"
+          #   FORCE_TODAY=true    -> file the article under today's YYYY/MM and use today's date,
+          #                          instead of the date found in the byline
+          ARTICLE_DRAFT="${ARTICLE_DRAFT:-false}"
+          FORCE_TODAY="${FORCE_TODAY:-false}"
+
+          # Used when an article has no usable image. Place this file in $HUGO_ASSET_DIR yourself.
+          PLACEHOLDER_COVER="/media/noImage.png"
+
+          mkdir -p "$HUGO_ASSET_DIR" "$HUGO_STAFF_DIR" "$HUGO_CATS_DIR" "$HUGO_TAGS_DIR"
+
+          if [ ! -f "$HUGO_ASSET_DIR/$(basename "$PLACEHOLDER_COVER")" ]; then
+              echo "⚠️  Placeholder not found: $HUGO_ASSET_DIR/$(basename "$PLACEHOLDER_COVER") (add it, or articles without images will point to a missing file)"
+          fi
+
+          # One-time _index.md so the CMS category/tag data files are never published as pages
+          for data_dir in "$HUGO_CATS_DIR" "$HUGO_TAGS_DIR"; do
+              if [ ! -f "$data_dir/_index.md" ]; then
+                  cat <<EOF > "$data_dir/_index.md"
+          ---
+          build:
+            render: never
+            list: never
+          cascade:
+            build:
+              render: never
+              list: never
+          ---
+          EOF
+              fi
+          done
+
+          TODAY=$(date +%Y-%m-%d)
+          MONTHS="Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|January|February|March|April|May|June|July|August|September|October|November|December"
+          DATE_REGEX="\b([0-9]{1,4}[-/][0-9]{1,2}[-/][0-9]{1,4}|([0-9]{1,2}[[:space:]]+)?($MONTHS)[[:space:]]+[0-9]{1,2}([[:space:]]*,[[:space:]]*[0-9]{4})?|($MONTHS)[[:space:]]+[0-9]{1,2}[[:space:]]+[0-9]{4})\b"
+
+          # Lowercase, non-alphanumerics -> hyphens, trim stray hyphens
+          slugify() {
+              echo "$1" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+|-+$//g'
+          }
+
+          # Strip markdown links/emphasis/escapes and trim whitespace
+          clean_md() {
+              sed -E '
+                  s/!\[[^]]*\]\([^)]*\)//g
+                  s/\[([^]]*)\]\([^)]*\)/\1/g
+                  s/\[([^]]*)\]\[[^]]*\]/\1/g
+                  s/<[^>]*>//g
+                  s/&nbsp;|\xc2\xa0/ /g
+                  s/&amp;/\&/g
+                  :prefix
+                  s/^[[:space:]]*(#+|>+|[-+])[[:space:]]+//
+                  t prefix
+                  s/\\(.)/\1/g
+                  s/\\//g
+                  s/[*`~]//g
+                  s/(^|[^[:alnum:]])_+/\1/g
+                  s/_+([^[:alnum:]]|$)/\1/g
+                  s/[[:space:]]+/ /g
+                  s/^ | $//g
+              '
+          }
+
+          # Escape regex special characters (and the | delimiter) for use inside sed patterns
+          regex_escape() {
+              printf '%s' "$1" | sed 's/[][\\.*^$(){}?+|\/]/\\&/g'
+          }
+
+          # Escape double quotes for YAML strings
+          yaml_escape() {
+              echo "$1" | sed 's/"/\\"/g'
+          }
+
+          # Turns a raw markdown segment into one cleaned term per line.
+          # Uses link text when there are links, otherwise splits plain text on commas.
+          terms_from_raw() {
+              local raw="$1" list
+              list=$(echo "$raw" | grep -oE '\[[^]]+\]\([^)]*\)' | sed -E 's/^\[([^]]+)\]\(.*$/\1/' | clean_md)
+              if [ -z "$list" ]; then
+                  list=$(echo "$raw" | tr ',' '\n' | clean_md)
+              fi
+              echo "$list"
+          }
+
+          # Creates a CMS entry for each term (if missing) and prints a YAML list like ["A", "B"].
+          # Args: raw segment, skip regex, entry folder, label for log messages
+          build_terms_yaml() {
+              local raw="$1" skip="$2" dir="$3" label="$4" term slug
+              local items=()
+              while read -r term; do
+                  [ -z "$term" ] && continue
+                  if [ -n "$skip" ] && echo "$term" | grep -qiE "^($skip)$"; then
+                      continue
+                  fi
+                  slug=$(slugify "$term")
+                  [ -z "$slug" ] && continue
+                  if [ ! -f "$dir/$slug.md" ]; then
+                      cat <<EOF > "$dir/$slug.md"
+          ---
+          name: "$(yaml_escape "$term")"
+          ---
+          EOF
+                      echo "   🏷️  Created $label entry: $slug" >&2
+                  fi
+                  items+=("\"$(yaml_escape "$term")\"")
+              done <<< "$(terms_from_raw "$raw")"
+
+              if [ ${#items[@]} -gt 0 ]; then
+                  echo "[$(IFS=,; echo "${items[*]}" | sed 's/","/", "/g')]"
+              else
+                  echo "[]"
+              fi
+          }
+
+          # Pandoc Lua filter: flattens table cells so tables come out as markdown pipe tables.
+          # (Pandoc otherwise writes complex tables as raw HTML, which Hugo omits with
+          # "Raw HTML omitted" warnings unless markup.goldmark.renderer.unsafe is enabled.)
+          TABLE_FILTER=$(mktemp --suffix=.lua)
+          trap 'rm -f "$TABLE_FILTER"' EXIT
+          cat <<'LUA' > "$TABLE_FILTER"
+          -- Flatten every table cell to a single line so pandoc writes pipe tables instead of raw HTML
+          local sep = { pandoc.Space() }
+
+          local function flat_cell(cell)
+            local inlines = pandoc.utils.blocks_to_inlines(cell.contents, sep)
+            local cleaned = pandoc.List()
+            for _, il in ipairs(inlines) do
+              if il.t == 'LineBreak' or il.t == 'SoftBreak' then
+                cleaned:insert(pandoc.Space())
+              else
+                cleaned:insert(il)
+              end
+            end
+            return pandoc.Cell({ pandoc.Plain(cleaned) }, cell.alignment, 1, 1)
+          end
+
+          local function empty_cell()
+            return pandoc.Cell({ pandoc.Plain({}) }, 'AlignDefault', 1, 1)
+          end
+
+          -- Keeps column positions: a cell spanning n columns becomes itself plus n-1 empty cells;
+          -- short rows (e.g. from row spans) are padded to the table width.
+          local function flat_rows(rows, ncols)
+            local out = {}
+            for i, row in ipairs(rows) do
+              local cells = {}
+              for _, cell in ipairs(row.cells) do
+                cells[#cells + 1] = flat_cell(cell)
+                for _ = 2, (cell.col_span or 1) do cells[#cells + 1] = empty_cell() end
+              end
+              while #cells < ncols do cells[#cells + 1] = empty_cell() end
+              out[i] = pandoc.Row(cells)
+            end
+            return out
+          end
+
+          function Table(tbl)
+            local ncols = #tbl.colspecs
+            tbl.head.rows = flat_rows(tbl.head.rows, ncols)
+            for _, body in ipairs(tbl.bodies) do
+              body.head = flat_rows(body.head, ncols)
+              body.body = flat_rows(body.body, ncols)
+            end
+            tbl.foot.rows = flat_rows(tbl.foot.rows, ncols)
+            -- pipe tables need a header row: promote the first body row if there is none
+            if #tbl.head.rows == 0 and #tbl.bodies > 0 and #tbl.bodies[1].body > 0 then
+              local first = table.remove(tbl.bodies[1].body, 1)
+              tbl.head.rows = { first }
+            end
+            return tbl
+          end
+          LUA
+
+          # Runs pandoc on one docx; extra arguments (e.g. --lua-filter=...) are passed through
+          run_pandoc() {
+              local docx="$1"; shift
+              pandoc "$docx" -f docx -t gfm --extract-media="$MEDIA_TMP" --wrap=none "$@" -o "$TEMP_MD"
+          }
+
+          base_name=$(basename "$docx_file" .docx)
+          # Safe slug: lowercase letters/digits/hyphens only (apostrophes, &, colons, parentheses removed)
+          slug_name=$(slugify "$base_name")
+          [ -z "$slug_name" ] && slug_name="article-$(date +%s)-$RANDOM"
+          MEDIA_TMP="./_media_tmp"   # fixed, special-character-free so pandoc's image paths are predictable
+
+          echo "Processing: $base_name..."
+
+          TEMP_MD="./_initial_temp.md"
+          if ! run_pandoc "$docx_file" --lua-filter="$TABLE_FILTER" 2>/dev/null; then
+              echo "   ℹ️  Table filter not supported by this pandoc version; converting without it."
+              run_pandoc "$docx_file"
+          fi
+
+          # Stop if pandoc produced nothing (corrupt, password-protected, renamed non-docx, or empty document)
+          if ! grep -q '[^[:space:]]' "$TEMP_MD" 2>/dev/null; then
+              echo "   ❌ Could not convert '$base_name' (corrupt, password-protected or empty). Skipped." >&2
+              rm -rf "$MEDIA_TMP" "$TEMP_MD"
+              exit 1
+          fi
+
+          # 🛡️ METADATA BLOCK DETECTION
+          # A byline is a line that starts with up to 3 words followed by "by" ("Added by", "Photos by",
+          # "Written by", "By" ...) and then a name. The first 15 lines are scanned; a line that also has a
+          # date or "Saved under"/"Tagged with"/"Tags:" wins over a bare "... by ..." line. Headings are skipped.
+          # The lines after it are followed for as long as they hold "Saved under"/"Tagged with"/"Tags:".
+          NBSP_FIX='s/\xc2\xa0/ /g; s/&nbsp;/ /g'
+          META_KEYS='Saved[[:space:]]+under|Tagged[[:space:]]+(with|under)|Tags?[[:space:]]*:'
+          BYLINE_RE='^([A-Za-z&-]+[[:space:]]+){0,3}by:?[[:space:]]+[^[:space:]]'
+          META_NUM=""
+          WEAK_NUM=""
+          for ((i = 1; i <= 15; i++)); do
+              RAW_I=$(sed -n "${i}p" "$TEMP_MD")
+              [ -z "${RAW_I//[[:space:]]/}" ] && continue
+              case "$RAW_I" in '#'*) continue ;; esac
+              CLEAN_I=$(echo "$RAW_I" | sed "$NBSP_FIX" | clean_md)
+              if echo "$CLEAN_I" | grep -qiE "$BYLINE_RE"; then
+                  if echo "$CLEAN_I" | grep -qiE "$META_KEYS|$DATE_REGEX"; then
+                      META_NUM="$i"
+                      break
+                  fi
+                  [ -z "$WEAK_NUM" ] && WEAK_NUM="$i"
+              fi
+          done
+          [ -z "$META_NUM" ] && META_NUM="$WEAK_NUM"
+          META_END="$META_NUM"
+          META_BLOCK=""
+          if [ -n "$META_NUM" ]; then
+              for ((i = META_NUM; i <= META_NUM + 6; i++)); do
+                  LINE_I=$(sed -n "${i}p" "$TEMP_MD" | sed "$NBSP_FIX")
+                  [ -z "${LINE_I//[[:space:]]/}" ] && continue      # skip blank lines
+                  if echo "$LINE_I" | grep -qiE "$META_KEYS"; then
+                      META_END=$i
+                  elif [ "$i" -gt "$META_NUM" ]; then
+                      break                                          # real content: stop
+                  fi
+              done
+              META_BLOCK=$(sed -n "${META_NUM},${META_END}p" "$TEMP_MD" | sed "$NBSP_FIX" | tr '\n' ' ')
+          fi
+
+          # Split into byline, category and tag parts (case-insensitive, any order)
+          BEFORE_RAW=$(echo "$META_BLOCK" | sed -E "s/($META_KEYS).*\$//I")
+          CATS_RAW=""
+          TAGS_RAW=""
+          if echo "$META_BLOCK" | grep -qiE 'Saved[[:space:]]+under'; then
+              CATS_RAW=$(echo "$META_BLOCK" | sed -E 's/^.*Saved[[:space:]]+under//I; s/(Tagged[[:space:]]+(with|under)|Tags?[[:space:]]*:).*$//I')
+          fi
+          if echo "$META_BLOCK" | grep -qiE 'Tagged[[:space:]]+(with|under)|Tags?[[:space:]]*:'; then
+              TAGS_RAW=$(echo "$META_BLOCK" | sed -E 's/^.*(Tagged[[:space:]]+(with|under)|Tags?[[:space:]]*:)//I; s/Saved[[:space:]]+under.*$//I')
+          fi
+
+          BYLINE_CLEAN=$(echo "$BEFORE_RAW" | clean_md)
+          AUTHORS_YAML="[]"
+          CATS_YAML="[]"
+          TAGS_YAML="[]"
+          REVIEW_REASONS=""   # filled in below; any entry flags the article for review
+
+          # Parse "<words> by <name> [on <date>]". The name is everything after "by" up to " on <date>",
+          # or up to a date found elsewhere in the block; a leading "By " in the name is dropped.
+          FINAL_AUTHOR=""
+          RAW_DATE=""
+          if [ -n "$META_NUM" ] && echo "$BYLINE_CLEAN" | grep -qiE "$BYLINE_RE"; then
+              AFTER_BY=$(echo "$BYLINE_CLEAN" | sed -E 's/^([A-Za-z&-]+[[:space:]]+){0,3}by:?[[:space:]]+//I')
+              if echo "$AFTER_BY" | grep -qiE '[[:space:]]on[[:space:]]+.+'; then
+                  AUTHOR_RAW=$(echo "$AFTER_BY" | sed -E 's/^(.+)[[:space:]]+on[[:space:]]+.*$/\1/I')
+                  RAW_DATE=$(echo "$AFTER_BY" | sed -E 's/^.*[[:space:]]on[[:space:]]+(.+)$/\1/I; s/\.+$//; s/^[[:space:]]+|[[:space:]]+$//g')
+              else
+                  AUTHOR_RAW="$AFTER_BY"
+                  RAW_DATE=$(echo "$META_BLOCK" | clean_md | grep -oEi "$DATE_REGEX" | head -n 1)
+                  [ -n "$RAW_DATE" ] && AUTHOR_RAW="${AFTER_BY//"$RAW_DATE"/}"
+              fi
+              FINAL_AUTHOR=$(echo "$AUTHOR_RAW" \
+                  | sed -E 's/^By[[:space:]]+//I; s/[[:space:]]*[.,;:|–—-]+[[:space:]]*$//; s/^[[:space:]]+|[[:space:]]+$//g')
+          fi
+
+          if [ -n "$FINAL_AUTHOR" ]; then
+              PARSED_DATE=""
+              [ -n "$RAW_DATE" ] && PARSED_DATE=$(date -d "$RAW_DATE" +%Y-%m-%d 2>/dev/null)
+              [ "$FORCE_TODAY" = true ] && PARSED_DATE="$TODAY"
+              FINAL_DATE=${PARSED_DATE:-$TODAY}
+              FLAG_STATUS="false"
+              if [ -z "$PARSED_DATE" ]; then
+                  FLAG_STATUS="true"
+                  REVIEW_REASONS="${REVIEW_REASONS}date could not be parsed; "
+              fi
+              echo "   ✅ Matched Pattern! Author: $FINAL_AUTHOR | Date: $FINAL_DATE"
+
+              # 👥 Split multiple authors and extra roles on the same line:
+              #   "A and B", "A & B", "A, B and C", "A, B, & C",
+              #   "Story by A and photos by B", "Story by A, Photos by B & C"
+              # (Commas only split when an "and"/"&" is present, so a name like "Smith, Jr." stays whole.)
+              AUTHOR_LIST=$(echo "$FINAL_AUTHOR" \
+                  | sed -E 's/(,|;|[[:space:]]+(and|&))[[:space:]]+([A-Za-z&-]+[[:space:]]+){0,2}by:?[[:space:]]+/\n/Ig')
+              if echo "$FINAL_AUTHOR" | grep -qiE '[[:space:]](and|&)[[:space:]]'; then
+                  AUTHOR_LIST=$(echo "$AUTHOR_LIST" | sed -E 's/,?[[:space:]]+(and|&)[[:space:]]+/\n/Ig; s/,[[:space:]]*/\n/g')
+              fi
+
+              # 👤 Create a staff entry for each author if missing; generated authors always start inactive
+              AUTHOR_ITEMS=()
+              while read -r author_name; do
+                  author_name=$(echo "$author_name" | sed -E 's/^By[[:space:]]+//I; s/^[[:space:]]+|[[:space:]]+$//g')
+                  [ -z "$author_name" ] && continue
+                  AUTHOR_SLUG=$(slugify "$author_name")
+                  if [ -n "$AUTHOR_SLUG" ] && [ ! -f "$HUGO_STAFF_DIR/$AUTHOR_SLUG.md" ]; then
+                      cat <<EOF > "$HUGO_STAFF_DIR/$AUTHOR_SLUG.md"
+          ---
+          name: "$(yaml_escape "$author_name")"
+          active: false
+          ---
+          EOF
+                      echo "   👤 Created staff entry (inactive): $AUTHOR_SLUG"
+                  fi
+                  AUTHOR_ITEMS+=("\"$(yaml_escape "$author_name")\"")
+              done <<< "$AUTHOR_LIST"
+
+              if [ ${#AUTHOR_ITEMS[@]} -gt 0 ]; then
+                  AUTHORS_YAML="[$(IFS=,; echo "${AUTHOR_ITEMS[*]}" | sed 's/","/", "/g')]"
+              fi
+
+              # 🏷️ Categories ("Saved under") and tags ("Tagged with" / "Tags:")
+              CATS_YAML=$(build_terms_yaml "$CATS_RAW" "$SKIP_CATS" "$HUGO_CATS_DIR" "category")
+              TAGS_YAML=$(build_terms_yaml "$TAGS_RAW" "$SKIP_TAGS" "$HUGO_TAGS_DIR" "tag")
+
+              # Remove the metadata line from the body, but only if extraction fully succeeded
+              # (author found and date parsed). Otherwise keep it so the original info isn't lost.
+              if [ "$STRIP_META_LINE" = true ] && [ -n "$FINAL_AUTHOR" ] && [ -n "$PARSED_DATE" ]; then
+                  # Also drop the article title if it sits above the byline (1-2 text lines, no images),
+                  # since the title already goes into the front matter.
+                  DELETE_START="$META_NUM"
+                  if [ "$META_NUM" -gt 1 ]; then
+                      PRE=$(head -n $((META_NUM - 1)) "$TEMP_MD")
+                      PRE_COUNT=$(echo "$PRE" | grep -c '[^[:space:]]')
+                      if [ "$PRE_COUNT" -ge 1 ] && [ "$PRE_COUNT" -le 2 ] && ! echo "$PRE" | grep -qE '!\[|<img'; then
+                          DELETE_START=1
+                      fi
+                  fi
+                  sed -i "${DELETE_START},${META_END}d" "$TEMP_MD"
+                  sed -i '/[^[:space:]]/,$!d' "$TEMP_MD"   # trim leading blank lines
+              else
+                  echo "   ℹ️  Byline kept in body (author or date could not be fully extracted)."
+              fi
+          else
+              FLAG_STATUS="true"
+              REVIEW_REASONS="${REVIEW_REASONS}byline pattern not found; "
+              FINAL_AUTHOR="PENDING REVIEW"
+              AUTHORS_YAML='["PENDING REVIEW"]'
+              RAW_MATCH=$(grep -oEi "$DATE_REGEX" "$TEMP_MD" | head -n 1)
+              PARSED_DATE=$(date -d "$RAW_MATCH" +%Y-%m-%d 2>/dev/null)
+              FINAL_DATE=${PARSED_DATE:-$TODAY}
+              [ "$FORCE_TODAY" = true ] && FINAL_DATE="$TODAY"
+              echo "   ⚠️ Pattern Missing! Flagged document for manual validation."
+          fi
+
+          # 📅 CALCULATE TARGET YEAR & MONTH SUBFOLDERS
+          YEAR=$(date -d "$FINAL_DATE" +%Y)
+          MONTH=$(date -d "$FINAL_DATE" +%m)
+          TARGET_CONTENT_DIR="$HUGO_CONTENT_ROOT/$YEAR/$MONTH"
+          mkdir -p "$TARGET_CONTENT_DIR"
+
+          # Handle static/media images and update text strings
+          COVER_PATH="$PLACEHOLDER_COVER"
+          if [ -d "$MEDIA_TMP/media" ]; then
+              # First web-friendly image in document order (ignores .emf/.wmf etc.)
+              FIRST_IMG_FILE=$(grep -oEi '[^"(]*_media_tmp/media/[^")[:space:]]+\.(png|jpe?g|gif|webp|svg)' "$TEMP_MD" | head -n 1 | xargs -r basename)
+
+              for img in "$MEDIA_TMP/media/"*; do
+                  if [ -f "$img" ]; then
+                      img_ext="${img##*.}"
+                      img_base=$(basename "$img" ."$img_ext")
+                      new_img_name="${slug_name}-${img_base}.${img_ext}"
+
+                      # The first image doubles as the cover (same file, same folder)
+                      if [ -n "$FIRST_IMG_FILE" ] && [ "$(basename "$img")" = "$FIRST_IMG_FILE" ]; then
+                          COVER_PATH="/media/$new_img_name"
+                      fi
+
+                      mv "$img" "$HUGO_ASSET_DIR/$new_img_name"
+                      OLD_PATH=$(regex_escape "_media_tmp/media/${img_base}.${img_ext}")
+                      sed -E -i "s|(\./)?${OLD_PATH}|/media/${new_img_name}|g" "$TEMP_MD"
+                  fi
+              done
+          fi
+          rm -rf "$MEDIA_TMP"
+
+          # Normalize any <img ... src="..."> tags (pandoc emits these for resized images) to plain markdown
+          sed -E -i 's|<img[^>]*src="([^"]+)"[^>]*>|![](\1)|g' "$TEMP_MD"
+
+          # Strip leftover inline HTML that Hugo would drop with "Raw HTML omitted" warnings
+          # (underline/span/div wrappers, bookmark anchors, <br>, sup/sub, comments). Text is kept.
+          sed -E -i \
+              -e 's#<br ?/?>#  \n#g' \
+              -e 's#<a (id|name)="[^"]*"[^>]*></a>##g' \
+              -e 's#</?(u|span|div|font|mark|center|small|big|s|strike|sup|sub)( [^>]*)?>##g' \
+              -e 's#<!--[^>]*-->##g' \
+              "$TEMP_MD"
+
+          # Report anything still HTML-like (autolinks like <https://...> are fine)
+          RAW_LEFT=$(grep -oE '</?[A-Za-z][^>]*>' "$TEMP_MD" | grep -vcE '^<(https?|mailto|ftp)')
+          if [ "${RAW_LEFT:-0}" -gt 0 ]; then
+              echo "   ⚠️ $RAW_LEFT raw HTML tag(s) remain in the body; Hugo may warn for this file."
+              FLAG_STATUS="true"
+              REVIEW_REASONS="${REVIEW_REASONS}raw HTML remains in body; "
+          fi
+
+          # 🏷️ Every flagged article (whatever the reason) goes in the review category
+          if [ "$FLAG_STATUS" = "true" ]; then
+              REVIEW_SLUG=$(slugify "$REVIEW_CATEGORY")
+              if [ -n "$REVIEW_SLUG" ] && [ ! -f "$HUGO_CATS_DIR/$REVIEW_SLUG.md" ]; then
+                  cat <<EOF > "$HUGO_CATS_DIR/$REVIEW_SLUG.md"
+          ---
+          name: "$(yaml_escape "$REVIEW_CATEGORY")"
+          ---
+          EOF
+                  echo "   🏷️  Created category entry: $REVIEW_SLUG"
+              fi
+              REVIEW_ITEM="\"$(yaml_escape "$REVIEW_CATEGORY")\""
+              if [ "$CATS_YAML" = "[]" ]; then
+                  CATS_YAML="[$REVIEW_ITEM]"
+              else
+                  CATS_YAML="${CATS_YAML%]}, $REVIEW_ITEM]"
+              fi
+              echo "   🚩 Needs review: ${REVIEW_REASONS%; }"
+          fi
+
+          FINAL_FILE="$TARGET_CONTENT_DIR/$slug_name.md"
+
+          cat <<EOF > "$FINAL_FILE"
+          ---
+          title: "$(yaml_escape "$base_name")"
+          ${AUTHOR_KEY}: ${AUTHORS_YAML}
+          nickname: ""
+          categories: ${CATS_YAML}
+          tags: ${TAGS_YAML}
+          cover: "${COVER_PATH}"
+          draft: ${ARTICLE_DRAFT}
+          review_required: ${FLAG_STATUS}
+          date: ${FINAL_DATE}
+          ---
+
+          EOF
+
+          cat "$TEMP_MD" >> "$FINAL_FILE"
+          rm -f "$TEMP_MD"
+
+
+          echo "🎉 Done: $FINAL_FILE"
+          TRIBCONVERT_SCRIPT_EOF
+
       - name: Find the .docx files to import
         id: find
         env:
@@ -54,10 +545,11 @@ jobs:
           ARTICLE_DRAFT: "true"
           FORCE_TODAY: "true"
         run: |
+          SCRIPT="$RUNNER_TEMP/tribconvert-one.sh"
           while IFS= read -r f; do
             # run from a scratch folder so pandoc's temp files never end up in the repo
             WORK=$(mktemp -d)
-            if (cd "$WORK" && bash "$GITHUB_WORKSPACE/scripts/tribconvert-one.sh" "$GITHUB_WORKSPACE/$f"); then
+            if (cd "$WORK" && bash "$SCRIPT" "$GITHUB_WORKSPACE/$f"); then
               git rm -q "$f"                        # imported: take it out of the inbox
             else
               echo "::warning::Could not convert $f (left in $INBOX)"
