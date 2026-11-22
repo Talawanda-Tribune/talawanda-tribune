@@ -5,16 +5,19 @@ main:
   - name: Categories
     url: /categories/
     weight: 4
-  - name: "School"
+  - name: School
     url: /categories/school/
     weight: 2
-  - name: "Lifestyle"
+  - name: Lifestyle
     url: /categories/lifestyle/
     weight: 5
   - name: Tribune Tries It
     url: /categories/tribune-tries-it
-    parent: Lifestyle
     weight: 1
+    parent: Lifestyle
   - name: Tribune Read It
     url: /categories/tribune-read-it
     weight: 2
+  - name: About
+    url: /about/
+    weight: 7
