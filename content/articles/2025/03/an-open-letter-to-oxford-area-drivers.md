@@ -1,0 +1,14 @@
+---
+title: "An Open Letter to Oxford-Area Drivers"
+authors: ["Lyla McDaniel"]
+nickname: ""
+categories: ["Open Letters"]
+tags: []
+cover: "/media/noImage.png"
+draft: false
+date: 2025-03-07
+---
+
+Dear drivers in Oxford area,
+
+Can we please, as a group, get better about road laws? Can we walk in the cross walks, when, and only when the WALK sign is on. I don’t know if your hometown's laws are different or if you’re just plain stupid. We serosily cannot pop out at any time between any two cars, a volkswagen beetle could take you out. Can you imagine how embarrassing it would be for you if your headstone said “hit by a bug”. Yeah I don’t think anyone wants this. Learn to use crosswalks when crossing the street. I’ve met toddlers better at this rule than some of you getting college educations. There’s a lot of Beetles in the Oxford area, but you know what else is in Oxford? Huge trucks and farming vehicles. You’ll be splated faster than your mommy can write a check to keep your sorry butt in school. Sometimes I see you standing on the side of the road, then you make eye contact with a driver, and STILL walk out IN FRONT of them. A MOVING CAR. Do you people seriously not see the issue with any of this? The Oxford deer population is better behaved on the streets. They move when a car is coming, and they are overall just better about not hoping infront of cars and being in the way. I drive a big, black, lifted Jeep Wrangler. A huge front bumper that sticks out at least two feet, very bright lights ( I know, I’m sorry, they don’t have a dimmer setting. They hurt my eyes too), yet you people still figure out a way to ignore this BIG car barreling down the street. AND. STEP. OUT. IN. FRONT. OF. ME. It’s not even just being dumb at some point. It’s just a lack of care for your own saftey and wellbeing. It’s like you want to be hit. Does the college pay your tuition if you happen to get a serious injury? Are you desprate for attention? Do you think it makes you look cool? Are you trying to get more dad lore? Does the guy or girl you like think being stupid is cute? Do you hate school and need a good out? Is a nurse cute? Do you need to pay them a visit but they think you’re creepy? Okay, okay. I’ll stop dogging on you. Let’s look at the pros of going against pedistridan laws. 1. You’ll get places maybe a total of 2-3 minutes sooner. 2. People will think you’re super cool and mysterious walking on unbeaten paths with all that swagger. Okay, now let’s look at the cons. 1. You could get a ticket. 2. You could lose your life. Now, clearly I can’t stop anyone for walking the way they please. But let’s think about this seriously. Are the benefits worth the outcome? How would your family feel if you died in an accident? What about your dog back home you’ll never see again? Do you want to leave them?
