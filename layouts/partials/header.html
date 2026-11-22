@@ -1,12 +1,21 @@
 <header>
     <div class="header-wrap">
-        <nav>
+        <button class="nav-toggle" type="button" aria-controls="site-navigation" aria-expanded="false" aria-label="Open navigation">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <a class="mobile-brand" href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a>
+        <nav id="site-navigation" aria-label="Main navigation">
             <ul class="site-nav">
                 <li class="site-nav_list"><a href="{{ site.Home.RelPermalink }}">Talawanda Tribune</a></li>
                 {{ with site.GetPage "/articles" }}
                 <li class="menu-item menu-item--has-children">
-                    <a href="{{ .RelPermalink }}">Articles</a>
-                    <ul class="submenu">
+                    <div class="menu-item-heading">
+                        <a href="{{ .RelPermalink }}">Articles</a>
+                        <button class="submenu-toggle" type="button" aria-expanded="false" aria-controls="submenu-articles" aria-label="Toggle Articles submenu"></button>
+                    </div>
+                    <ul class="submenu" id="submenu-articles">
                         {{ range sort .Sections "Title" "desc" }}
                         <li class="menu-item"><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
                         {{ end }}
@@ -18,32 +27,105 @@
                 {{ end }}
             </ul>
         </nav>
+        <button class="nav-backdrop" type="button" aria-label="Close navigation" tabindex="-1" hidden></button>
     </div>
 </header>
 <script>
     (() => {
-        const submenus = document.querySelectorAll('.site-nav .menu-item--has-children');
+        const nav = document.getElementById('site-navigation');
+        const navToggle = document.querySelector('.nav-toggle');
+        const navBackdrop = document.querySelector('.nav-backdrop');
+
+        const setMenuOpen = (isOpen) => {
+            nav.classList.toggle('is-open', isOpen);
+            navBackdrop.hidden = !isOpen;
+            navToggle.setAttribute('aria-expanded', String(isOpen));
+            navToggle.setAttribute('aria-label', isOpen ? 'Close navigation' : 'Open navigation');
+            document.body.classList.toggle('nav-open', isOpen);
+        };
+
+        navToggle.addEventListener('click', () => {
+            setMenuOpen(navToggle.getAttribute('aria-expanded') !== 'true');
+        });
+        navBackdrop.addEventListener('click', () => setMenuOpen(false));
+        nav.addEventListener('click', (event) => {
+            const submenuToggle = event.target.closest('.submenu-toggle');
+            if (submenuToggle) {
+                const menuItem = submenuToggle.closest('.menu-item');
+                const isOpen = submenuToggle.getAttribute('aria-expanded') !== 'true';
+
+                menuItem.classList.toggle('menu-item--submenu-open', isOpen);
+                submenuToggle.setAttribute('aria-expanded', String(isOpen));
+                if (isOpen && window.matchMedia('(min-width: 901px)').matches) {
+                    alignSubmenu(menuItem);
+                }
+                return;
+            }
+
+            if (event.target.closest('a')) setMenuOpen(false);
+        });
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape') {
+                const openMenuItem = event.target.closest('.menu-item--submenu-open');
+                if (openMenuItem) {
+                    openMenuItem.classList.remove('menu-item--submenu-open');
+                    openMenuItem.querySelector(':scope > .menu-item-heading > .submenu-toggle')
+                        .setAttribute('aria-expanded', 'false');
+                    openMenuItem.querySelector(':scope > .menu-item-heading > .submenu-toggle').focus();
+                    return;
+                }
+            }
+
+            if (event.key === 'Escape' && nav.classList.contains('is-open')) {
+                setMenuOpen(false);
+                navToggle.focus();
+            }
+        });
+        window.matchMedia('(min-width: 901px)').addEventListener('change', (event) => {
+            if (event.matches) setMenuOpen(false);
+        });
 
         const alignSubmenu = (menuItem) => {
             const submenu = menuItem.querySelector(':scope > .submenu');
             if (!submenu) return;
 
-            submenu.classList.remove('submenu--align-right');
-            const submenuRight = submenu.getBoundingClientRect().right;
+            submenu.classList.remove('submenu--align-right', 'submenu--align-left');
+            submenu.style.removeProperty('--submenu-right-offset');
+            submenu.style.removeProperty('--submenu-left-offset');
+            submenu.style.removeProperty('top');
 
-            if (submenuRight > window.innerWidth) {
-                const containingBlock = menuItem.getBoundingClientRect();
+            const gutter = 8;
+            const containingBlock = menuItem.getBoundingClientRect();
+            let bounds = submenu.getBoundingClientRect();
+
+            if (bounds.right > window.innerWidth - gutter) {
                 submenu.style.setProperty(
                     '--submenu-right-offset',
-                    `${containingBlock.right - window.innerWidth}px`
+                    `${containingBlock.right - window.innerWidth + gutter}px`
                 );
                 submenu.classList.add('submenu--align-right');
+            } else if (bounds.left < gutter) {
+                submenu.style.setProperty(
+                    '--submenu-left-offset',
+                    `${gutter - containingBlock.left}px`
+                );
+                submenu.classList.add('submenu--align-left');
+            }
+
+            bounds = submenu.getBoundingClientRect();
+            if (bounds.top < gutter || bounds.bottom > window.innerHeight - gutter) {
+                const top = Math.max(
+                    gutter,
+                    Math.min(bounds.top, window.innerHeight - gutter - bounds.height)
+                );
+                submenu.style.top = `${top - containingBlock.top}px`;
             }
         };
 
-        submenus.forEach((menuItem) => {
-            menuItem.addEventListener('mouseenter', () => alignSubmenu(menuItem));
-            menuItem.addEventListener('focusin', () => alignSubmenu(menuItem));
-        });
+        const alignOpenSubmenus = () => {
+            nav.querySelectorAll('.menu-item--submenu-open').forEach(alignSubmenu);
+        };
+        window.addEventListener('resize', alignOpenSubmenus);
+
     })();
 </script>

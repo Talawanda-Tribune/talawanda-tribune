@@ -1,7 +1,12 @@
 <li class="menu-item{{ with .Children }} menu-item--has-children{{ end }}">
-    <a href="{{ .URL }}">{{ .Name }}</a>
+    <div class="menu-item-heading">
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ with .Children }}
+        <button class="submenu-toggle" type="button" aria-expanded="false" aria-controls="submenu-{{ $.URL | urlize }}" aria-label="Toggle {{ $.Name }} submenu"></button>
+        {{ end }}
+    </div>
     {{ with .Children }}
-    <ul class="submenu">
+    <ul class="submenu" id="submenu-{{ $.URL | urlize }}">
         {{ range . }}
         {{ partial "menu-item.html" . }}
         {{ end }}
