@@ -35,6 +35,15 @@
         const nav = document.getElementById('site-navigation');
         const navToggle = document.querySelector('.nav-toggle');
         const navBackdrop = document.querySelector('.nav-backdrop');
+        let resizeTimeout;
+
+        window.addEventListener('resize', () => {
+            document.body.classList.add('nav-resizing');
+            window.clearTimeout(resizeTimeout);
+            resizeTimeout = window.setTimeout(() => {
+                document.body.classList.remove('nav-resizing');
+            }, 150);
+        });
 
         const setMenuOpen = (isOpen) => {
             nav.classList.toggle('is-open', isOpen);

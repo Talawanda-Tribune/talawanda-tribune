@@ -1,4 +1,9 @@
 @media (max-width: 900px) {
+    body.nav-resizing #site-navigation,
+    body.nav-resizing .site-nav .submenu {
+        transition: none;
+    }
+
     header {
         position: relative;
         z-index: 1002;
