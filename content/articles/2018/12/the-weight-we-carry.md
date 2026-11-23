@@ -1,15 +1,15 @@
 ---
-title: "The Weight We Carry"
-authors: ["The Weight We Carry By KATIE KEELER", "KAITLYN PARRISH Drawing by ISABEL LYKINS"]
-nickname: ""
-categories: ["News", "School"]
-tags: []
-cover: "/media/the-weight-we-carry-image1.png"
+title: The Weight We Carry
+authors:
+  - KAITLYN PARRISH
+  - KATIE A. KEELER
+categories:
+  - News
+  - School
+cover: /media/the-weight-we-carry-image1.png
 draft: false
-review_required: false
 date: 2018-12-26
 ---
-
 ![](/media/the-weight-we-carry-image1.png)
 
 There’s things you can see: textbooks, Chromebook, a lot of pencils, some gum, notebooks we never write in, headphones and deodorant because people just need to second-coat that throughout the day.
@@ -67,3 +67,4 @@ Two of the four teachers interviewed said that that their classes weren’t stre
 One thing is for sure, regardless of whether or not teachers believe it, Talawanda High School students are stressed about school and carrying a lot of weight on their shoulders.
 
 ![](/media/the-weight-we-carry-image3.jpg)
+
