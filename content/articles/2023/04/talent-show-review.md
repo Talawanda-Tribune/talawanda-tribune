@@ -1,15 +1,11 @@
 ---
-title: "Talent Show Review"
-authors: ["Morgan Sly"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/talent-show-review-image1.jpg"
+title: Talent Show Review
+authors:
+  - MORGAN SLY
+cover: /media/talent-show-review-image1.jpg
 draft: false
-review_required: false
 date: 2023-04-18
 ---
-
 ![](/media/talent-show-review-image1.jpg)
 
 What’s the best way to get students to attend an event? Let them get out of class. That was the strategy taken by the organizers of the FCCLA Talent Show. Hordes of students showed up to watch their peers perform in the Talawanda Performing Arts Center. The lineup consisted of singers, dancers, and Extreme Week challenges. Some standout moments were performances by Connor Smith, Clinton Askren, Anger against AI, and Ben Brown.
