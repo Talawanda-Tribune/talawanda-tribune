@@ -1,15 +1,13 @@
 ---
-title: "“This is My Message to You”_  An Open Letter to Talawanda’s Class of 2020"
-authors: ["waxy"]
-nickname: ""
-categories: ["School"]
-tags: []
-cover: "/media/noImage.png"
+title: "“This is My Message to You”:  An Open Letter to Talawanda’s Class of 2020"
+authors:
+  - waxy
+categories:
+  - School
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2020-05-05
 ---
-
 “This is My Message to You”: An Open Letter to Talawanda’s Class of 2020
 
 Dear class of 2020:
