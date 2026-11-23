@@ -1,5 +1,5 @@
 ---
-title: "Trending_ Tonight’s Homework"
+title: "Trending: Tonight’s Homework"
 authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []

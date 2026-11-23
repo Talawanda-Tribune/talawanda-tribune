@@ -1,5 +1,5 @@
 ---
-title: "Lessons from the Field_ From Starting Line to Tee Box"
+title: "Lessons from the Field: From Starting Line to Tee Box"
 authors: ["Patrick Geshan"]
 nickname: ""
 categories: ["Columns", "Lessons from the Field With Patrick Geshan"]

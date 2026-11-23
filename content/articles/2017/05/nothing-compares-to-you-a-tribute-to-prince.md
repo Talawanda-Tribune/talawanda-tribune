@@ -1,5 +1,5 @@
 ---
-title: "Nothing Compares to You_ A Tribute to Prince"
+title: "Nothing Compares to You: A Tribute to Prince"
 authors: ["Madi Hickman"]
 nickname: ""
 categories: []

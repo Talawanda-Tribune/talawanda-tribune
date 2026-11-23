@@ -1,5 +1,5 @@
 ---
-title: "A Senior’s Search_ I know What I Don’t Want To Do"
+title: "A Senior’s Search: I know What I Don’t Want To Do"
 authors: ["HALLIE ENDRES"]
 nickname: ""
 categories: []

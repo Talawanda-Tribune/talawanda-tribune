@@ -1,5 +1,5 @@
 ---
-title: "Mrs. Aerni_  Pursuing_"
+title: "Mrs. Aerni: Pursuing"
 authors: ["Patrick Geshan"]
 nickname: ""
 categories: []

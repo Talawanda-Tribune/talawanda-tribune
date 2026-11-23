@@ -1,5 +1,5 @@
 ---
-title: "Review_ Netflix’s “The Umbrella Academy”"
+title: "Review: Netflix’s “The Umbrella Academy”"
 authors: ["ALYSSA SMITH"]
 nickname: ""
 categories: ["Arts and Entertainment", "Film & Television"]

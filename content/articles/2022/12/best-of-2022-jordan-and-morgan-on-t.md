@@ -1,5 +1,5 @@
 ---
-title: "Best of 2022_ Jordan and Morgan on T"
+title: "Best of 2022: Jordan and Morgan on T"
 authors: ["Morgan Sly", "Jordan Gresham"]
 nickname: ""
 categories: []

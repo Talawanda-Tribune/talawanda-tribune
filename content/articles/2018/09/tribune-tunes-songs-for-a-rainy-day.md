@@ -1,5 +1,5 @@
 ---
-title: "Tribune Tunes_ Songs for a Rainy Day"
+title: "Tribune Tunes: Songs for a Rainy Day"
 authors: ["STAFF"]
 nickname: ""
 categories: []

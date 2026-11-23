@@ -1,5 +1,5 @@
 ---
-title: "Tribune Tries It_ Starbucks in the Fall"
+title: "Tribune Tries It: Starbucks in the Fall"
 authors: ["Liv Mcgownd"]
 nickname: ""
 categories: []

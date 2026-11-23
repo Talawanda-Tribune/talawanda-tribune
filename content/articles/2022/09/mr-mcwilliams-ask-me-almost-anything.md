@@ -1,5 +1,5 @@
 ---
-title: "Mr. McWilliams_  Ask Me Almost Anything"
+title: "Mr. McWilliams: Ask Me Almost Anything"
 authors: ["MUHAMMED KHAN"]
 nickname: ""
 categories: []

@@ -1,5 +1,5 @@
 ---
-title: "Snailfish_ Cuties of the Deep"
+title: "Snailfish: Cuties of the Deep"
 authors: ["Luca Berberich"]
 nickname: ""
 categories: []

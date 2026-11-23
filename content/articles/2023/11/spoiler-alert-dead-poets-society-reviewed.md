@@ -1,5 +1,5 @@
 ---
-title: "Spoiler Alert!  Dead Poets Society Reviewed_"
+title: "Spoiler Alert!  Dead Poets Society Reviewed"
 authors: ["Thomas Harper"]
 nickname: ""
 categories: []

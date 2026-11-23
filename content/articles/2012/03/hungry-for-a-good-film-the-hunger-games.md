@@ -1,5 +1,5 @@
 ---
-title: "Hungry For A Good Film_ The Hunger Games"
+title: "Hungry For A Good Film: The Hunger Games"
 authors: ["Morgan Murray"]
 nickname: ""
 categories: []

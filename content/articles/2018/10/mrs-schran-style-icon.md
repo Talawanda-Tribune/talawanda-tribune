@@ -1,5 +1,5 @@
 ---
-title: "Mrs. Schran_  Style Icon"
+title: "Mrs. Schran: Style Icon"
 authors: ["SARAH CLARKE"]
 nickname: ""
 categories: ["Fashion", "Lifestyle"]

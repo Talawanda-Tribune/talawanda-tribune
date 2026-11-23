@@ -1,5 +1,5 @@
 ---
-title: "Review_ Beirut’s “No No No”"
+title: "Review: Beirut’s “No No No”"
 authors: ["Darian Bolin"]
 nickname: ""
 categories: []

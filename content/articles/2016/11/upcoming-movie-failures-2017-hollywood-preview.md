@@ -1,5 +1,5 @@
 ---
-title: "Upcoming Movie Failures_ 2017 Hollywood Preview"
+title: "Upcoming Movie Failures: 2017 Hollywood Preview"
 authors: ["Nik Craig"]
 nickname: ""
 categories: []

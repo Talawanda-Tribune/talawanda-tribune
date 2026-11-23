@@ -1,5 +1,5 @@
 ---
-title: "Memetober_ Fall Memes"
+title: "Memetober: Fall Memes"
 authors: ["Madi Hickman", "Mary Kate Huddleston"]
 nickname: ""
 categories: []

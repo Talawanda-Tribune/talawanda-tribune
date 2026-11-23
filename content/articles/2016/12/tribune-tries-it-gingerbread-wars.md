@@ -1,5 +1,5 @@
 ---
-title: Tribune Tries It_ Gingerbread Wars
+title: "Tribune Tries It: Gingerbread Wars"
 authors:
   - Staff
 cover: /media/tribune-tries-it-gingerbread-wars-image14.jpg

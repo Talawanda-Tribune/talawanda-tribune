@@ -1,5 +1,5 @@
 ---
-title: "Curve Fever 2_ Annoying THS Teachers"
+title: "Curve Fever 2: Annoying THS Teachers"
 authors: ["Dylan Hacker"]
 nickname: ""
 categories: []

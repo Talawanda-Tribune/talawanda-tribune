@@ -1,5 +1,5 @@
 ---
-title: "Titanic_ 100 Years Later"
+title: "Titanic: 100 Years Later"
 authors: ["maggiecollins"]
 nickname: ""
 categories: []

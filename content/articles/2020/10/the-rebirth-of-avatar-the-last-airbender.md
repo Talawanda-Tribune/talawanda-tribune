@@ -1,5 +1,5 @@
 ---
-title: "The Rebirth of Avatar_ the Last Airbender"
+title: "The Rebirth of Avatar: the Last Airbender"
 authors: ["RZW"]
 nickname: ""
 categories: ["Arts and Entertainment", "Film & Television"]

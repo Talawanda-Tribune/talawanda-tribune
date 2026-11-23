@@ -1,5 +1,5 @@
 ---
-title: "Opinion_ Ian Weller Examines the Heisman Trophy Race"
+title: "Opinion: Ian Weller Examines the Heisman Trophy Race"
 authors: ["admin"]
 nickname: ""
 categories: []

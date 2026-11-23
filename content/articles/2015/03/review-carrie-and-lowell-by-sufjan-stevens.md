@@ -1,5 +1,5 @@
 ---
-title: "Review_ “Carrie and Lowell” by Sufjan Stevens"
+title: "Review: “Carrie and Lowell” by Sufjan Stevens"
 authors: ["Darian Bolin"]
 nickname: ""
 categories: []

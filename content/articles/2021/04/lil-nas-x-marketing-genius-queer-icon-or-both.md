@@ -1,5 +1,5 @@
 ---
-title: "Lil Nas X_ Marketing Genius, Queer Icon, or Both"
+title: "Lil Nas X: Marketing Genius, Queer Icon, or Both"
 authors: ["Jean R Pateman"]
 nickname: ""
 categories: []

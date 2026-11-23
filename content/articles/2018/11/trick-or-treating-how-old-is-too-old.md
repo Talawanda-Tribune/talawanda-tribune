@@ -1,5 +1,5 @@
 ---
-title: "Trick-or-Treating_ How Old is Too Old"
+title: "Trick-or-Treating: How Old is Too Old"
 authors: ["K.E. FISHER"]
 nickname: ""
 categories: ["Opinion"]

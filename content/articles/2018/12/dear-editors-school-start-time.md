@@ -1,5 +1,5 @@
 ---
-title: "Dear Editors_ School Start Time"
+title: "Dear Editors: School Start Time"
 authors: ["Staff"]
 nickname: ""
 categories: []

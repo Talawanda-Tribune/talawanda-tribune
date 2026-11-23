@@ -1,5 +1,5 @@
 ---
-title: "Review_ Chvrches’ “Every Open Eye”"
+title: "Review: Chvrches’ “Every Open Eye”"
 authors: ["m. aerni"]
 nickname: ""
 categories: []

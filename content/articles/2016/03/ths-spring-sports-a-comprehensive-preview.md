@@ -1,5 +1,5 @@
 ---
-title: "THS Spring Sports_ A Comprehensive Preview"
+title: "THS Spring Sports: A Comprehensive Preview"
 authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []

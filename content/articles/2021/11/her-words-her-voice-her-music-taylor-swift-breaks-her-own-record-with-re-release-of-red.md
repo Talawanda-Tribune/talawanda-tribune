@@ -1,5 +1,5 @@
 ---
-title: "Her Words, Her Voice, Her Music_ Taylor Swift Breaks Her Own Record With Re-Release of “Red”"
+title: "Her Words, Her Voice, Her Music: Taylor Swift Breaks Her Own Record With Re-Release of “Red”"
 authors: ["Jordan Gresham"]
 nickname: ""
 categories: []

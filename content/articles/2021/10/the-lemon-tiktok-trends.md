@@ -1,5 +1,5 @@
 ---
-title: "The Lemon_ TikTok Trends"
+title: "The Lemon: TikTok Trends"
 authors: ["Logan Murray"]
 nickname: ""
 categories: []

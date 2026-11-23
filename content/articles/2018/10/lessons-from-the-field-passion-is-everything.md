@@ -1,5 +1,5 @@
 ---
-title: "Lessons From the Field_ Passion is Everything"
+title: "Lessons From the Field: Passion is Everything"
 authors: ["PATRICK GESHAN"]
 nickname: ""
 categories: ["Lessons from the Field With Patrick Geshan"]

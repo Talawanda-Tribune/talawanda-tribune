@@ -1,5 +1,5 @@
 ---
-title: "Shout Out_ November Contest Winner"
+title: "Shout Out: November Contest Winner"
 authors: ["Staff"]
 nickname: ""
 categories: []

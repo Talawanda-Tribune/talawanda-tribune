@@ -1,5 +1,5 @@
 ---
-title: "Swimming_ Senior Night_"
+title: "Swimming: Senior Night"
 authors: ["Kei Brown"]
 nickname: ""
 categories: ["Sports"]

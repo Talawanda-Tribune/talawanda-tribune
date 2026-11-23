@@ -1,5 +1,5 @@
 ---
-title: "Poll_  Best Thanksgiving Food"
+title: "Poll: Best Thanksgiving Food"
 authors: ["Staff"]
 nickname: ""
 categories: ["Thanksgiving", "Survey"]

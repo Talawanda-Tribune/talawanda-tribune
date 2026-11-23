@@ -1,5 +1,5 @@
 ---
-title: "Tribune Wants to Know_  When Is It Okay to Play Christmas Music_"
+title: "Tribune Wants to Know: When Is It Okay to Play Christmas Music"
 authors: ["Staff"]
 nickname: ""
 categories: ["Opinion", "Survey", "Music"]

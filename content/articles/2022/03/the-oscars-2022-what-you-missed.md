@@ -1,5 +1,5 @@
 ---
-title: "The Oscars 2022_ What You Missed"
+title: "The Oscars 2022: What You Missed"
 authors: ["JORDAN GRESHAM"]
 nickname: ""
 categories: []

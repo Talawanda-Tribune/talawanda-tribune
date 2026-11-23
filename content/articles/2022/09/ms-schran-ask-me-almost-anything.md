@@ -1,5 +1,5 @@
 ---
-title: "Ms. Schran_  Ask Me Almost Anything"
+title: "Ms. Schran: Ask Me Almost Anything"
 authors: ["Jordan Gresham"]
 nickname: ""
 categories: []

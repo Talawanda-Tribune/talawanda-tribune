@@ -1,5 +1,5 @@
 ---
-title: "Vine is Gone_  Who Cares!"
+title: "Vine is Gone: Who Cares!"
 authors: ["Ben Phillips"]
 nickname: ""
 categories: []

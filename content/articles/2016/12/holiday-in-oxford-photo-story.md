@@ -1,5 +1,5 @@
 ---
-title: "Holiday in Oxford_ Photo Story"
+title: "Holiday in Oxford: Photo Story"
 authors: ["Madi Hickman"]
 nickname: ""
 categories: []

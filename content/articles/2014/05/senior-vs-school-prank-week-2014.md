@@ -1,5 +1,5 @@
 ---
-title: "Senior VS School_ Prank Week 2014"
+title: "Senior VS School: Prank Week 2014"
 authors: ["Chris Mock", "Courtney Stone", "Laurel Tilton"]
 nickname: ""
 categories: []

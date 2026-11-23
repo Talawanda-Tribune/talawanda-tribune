@@ -1,5 +1,5 @@
 ---
-title: "Image Gallery_ Setting Stone 2016 Winter Coffee House"
+title: "Image Gallery: Setting Stone 2016 Winter Coffee House"
 authors: ["Grace Huddleston", "Sylvia de Boer"]
 nickname: ""
 categories: []

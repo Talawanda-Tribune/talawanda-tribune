@@ -1,5 +1,5 @@
 ---
-title: "Terrifying Times_ The E-Hallpass Era"
+title: "Terrifying Times: The E-Hallpass Era"
 authors: ["Moonhamed Juan"]
 nickname: ""
 categories: []

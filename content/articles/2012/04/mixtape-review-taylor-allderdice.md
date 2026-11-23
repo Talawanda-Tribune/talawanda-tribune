@@ -1,5 +1,5 @@
 ---
-title: "Mixtape review_ Taylor Allderdice"
+title: "Mixtape review: Taylor Allderdice"
 authors: ["ryanlickliter"]
 nickname: ""
 categories: []

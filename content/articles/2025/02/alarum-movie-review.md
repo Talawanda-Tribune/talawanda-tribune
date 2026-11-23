@@ -1,5 +1,5 @@
 ---
-title: "Alarum_ Movie Review"
+title: "Alarum: Movie Review"
 authors: ["Cameron Gieske"]
 nickname: "Cameron “Rotten Tomatoes” Gieske"
 categories: [""]

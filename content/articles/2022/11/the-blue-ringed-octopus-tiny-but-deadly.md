@@ -1,5 +1,5 @@
 ---
-title: "The Blue-Ringed Octopus_ Tiny but Deadly"
+title: "The Blue-Ringed Octopus: Tiny but Deadly"
 authors: ["Luca Berberich"]
 nickname: ""
 categories: []

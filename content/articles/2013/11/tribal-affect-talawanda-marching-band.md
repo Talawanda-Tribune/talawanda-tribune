@@ -1,5 +1,5 @@
 ---
-title: "Tribal Affect_ Talawanda Marching Band"
+title: "Tribal Affect: Talawanda Marching Band"
 authors: ["Connor Yezierski"]
 nickname: ""
 categories: []

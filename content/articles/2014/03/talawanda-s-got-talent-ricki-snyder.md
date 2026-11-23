@@ -1,5 +1,5 @@
 ---
-title: "Talawanda’s got Talent_ Ricki Snyder"
+title: "Talawanda’s got Talent: Ricki Snyder"
 authors: ["courtneystone"]
 nickname: ""
 categories: []

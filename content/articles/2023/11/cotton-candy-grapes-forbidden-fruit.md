@@ -1,5 +1,5 @@
 ---
-title: "Cotton Candy Grapes_ Forbidden Fruit"
+title: "Cotton Candy Grapes: Forbidden Fruit"
 authors: ["JB Danoff"]
 nickname: ""
 categories: []

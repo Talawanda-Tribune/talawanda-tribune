@@ -1,5 +1,5 @@
 ---
-title: "Critical Race Theory_ A Moral Panic"
+title: "Critical Race Theory: A Moral Panic"
 authors: ["Eliza Sullivan"]
 nickname: ""
 categories: []

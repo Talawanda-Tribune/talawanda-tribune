@@ -1,5 +1,5 @@
 ---
-title: "2020_  Impish or Admirable__"
+title: "2020: Impish or Admirable"
 authors: ["Staff"]
 nickname: ""
 categories: []

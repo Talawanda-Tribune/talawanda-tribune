@@ -1,5 +1,5 @@
 ---
-title: "Opinion_ Incorrect, Insensitive, and Irrelevant"
+title: "Opinion: Incorrect, Insensitive, and Irrelevant"
 authors: ["E. Sullivan"]
 nickname: ""
 categories: []

@@ -1,5 +1,5 @@
 ---
-title: "Talawanda Hockey_ Photo Story"
+title: "Talawanda Hockey: Photo Story"
 authors: ["Charis Whalen"]
 nickname: ""
 categories: []

@@ -1,5 +1,5 @@
 ---
-title: "Review_ Red Dead Redemption II"
+title: "Review: Red Dead Redemption II"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

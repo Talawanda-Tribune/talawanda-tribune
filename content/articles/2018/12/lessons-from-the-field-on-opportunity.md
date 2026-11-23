@@ -1,5 +1,5 @@
 ---
-title: "Lessons from the Field_ On Opportunity"
+title: "Lessons from the Field: On Opportunity"
 authors: ["PATRICK GESHAN"]
 nickname: ""
 categories: ["Lessons from the Field With Patrick Geshan"]

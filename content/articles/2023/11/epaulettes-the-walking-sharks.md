@@ -1,5 +1,5 @@
 ---
-title: "Epaulettes_ The Walking Sharks"
+title: "Epaulettes: The Walking Sharks"
 authors: ["Luca Berberich"]
 nickname: ""
 categories: [""]

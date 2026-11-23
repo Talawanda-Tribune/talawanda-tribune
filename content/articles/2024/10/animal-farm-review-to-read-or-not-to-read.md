@@ -1,5 +1,5 @@
 ---
-title: "Animal Farm Review_ To Read OR Not to Read"
+title: "Animal Farm Review: To Read OR Not to Read"
 authors: ["Alayna Dallman"]
 nickname: ""
 categories: ["Tribune Reads It"]

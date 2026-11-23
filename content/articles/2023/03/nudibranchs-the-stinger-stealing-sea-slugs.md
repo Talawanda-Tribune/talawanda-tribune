@@ -1,5 +1,5 @@
 ---
-title: "Nudibranchs_ The Stinger Stealing Sea Slugs"
+title: "Nudibranchs: The Stinger Stealing Sea Slugs"
 authors: ["Luca B the Science G"]
 nickname: ""
 categories: []

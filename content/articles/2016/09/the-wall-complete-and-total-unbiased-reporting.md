@@ -1,5 +1,5 @@
 ---
-title: The Wall_ Complete and Total Unbiased Reporting
+title: "The Wall: Complete and Total Unbiased Reporting"
 authors:
   - Ben Phillips
 cover: /media/noImage.png

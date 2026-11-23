@@ -1,5 +1,5 @@
 ---
-title: "Tribune Tunes_ Winter Vibes"
+title: "Tribune Tunes: Winter Vibes"
 authors: ["Staff"]
 nickname: ""
 categories: ["Arts and Entertainment", "Tribune Tunes"]

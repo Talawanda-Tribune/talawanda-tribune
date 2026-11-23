@@ -1,5 +1,5 @@
 ---
-title: "Lessons from the Field_ What a ride it’s been"
+title: "Lessons from the Field: What a ride it’s been"
 authors: ["PATRICK GESHAN"]
 nickname: ""
 categories: []

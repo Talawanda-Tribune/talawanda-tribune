@@ -1,5 +1,5 @@
 ---
-title: "9 Hours Nightly_ High School Students Still Sleep Deprived"
+title: "9 Hours Nightly: High School Students Still Sleep Deprived"
 authors: ["Sylvia de Boer"]
 nickname: ""
 categories: []

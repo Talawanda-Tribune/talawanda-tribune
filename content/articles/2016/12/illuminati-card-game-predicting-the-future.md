@@ -1,5 +1,5 @@
 ---
-title: "Illuminati Card Game Predicting the Future_"
+title: "Illuminati Card Game Predicting the Future"
 authors: ["Dylan Hacker", "Austin Hibbard", "Logan Vaughn"]
 nickname: ""
 categories: ["Entertainment"]

@@ -1,5 +1,5 @@
 ---
-title: "Late To The Party_ Memento"
+title: "Late To The Party: Memento"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

@@ -1,5 +1,5 @@
 ---
-title: "OSU Football_ Back to Back"
+title: "OSU Football: Back to Back"
 authors: ["Tyler Rothert"]
 nickname: ""
 categories: []

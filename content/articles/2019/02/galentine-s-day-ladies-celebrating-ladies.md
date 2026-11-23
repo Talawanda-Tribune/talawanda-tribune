@@ -1,5 +1,5 @@
 ---
-title: "Galentine’s Day_ “Ladies Celebrating Ladies”"
+title: "Galentine’s Day: “Ladies Celebrating Ladies”"
 authors: ["ELLA PRYTHERCH"]
 nickname: ""
 categories: ["Culture"]

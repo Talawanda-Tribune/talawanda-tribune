@@ -1,5 +1,5 @@
 ---
-title: "Chromebooks_ The Advancing Technology at Talawanda"
+title: "Chromebooks: The Advancing Technology at Talawanda"
 authors: ["RITA BARCLAY-HART", "HILEY KRESSE", "ABBY ZMUDA"]
 nickname: ""
 categories: []

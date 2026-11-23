@@ -1,5 +1,5 @@
 ---
-title: "Tribune Watched it_ Graduation Movie Night"
+title: "Tribune Watched it: Graduation Movie Night"
 authors: ["Eleanor Prytherch, Class of 2020"]
 nickname: ""
 categories: []

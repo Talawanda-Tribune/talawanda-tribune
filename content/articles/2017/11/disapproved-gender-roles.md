@@ -1,5 +1,5 @@
 ---
-title: "DISAPPROVED_ Gender Roles"
+title: "DISAPPROVED: Gender Roles"
 authors: ["K.E. FISHER"]
 nickname: ""
 categories: []

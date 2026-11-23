@@ -1,5 +1,5 @@
 ---
-title: "Tribune Tries It_ White Elephant Gift Exchange"
+title: "Tribune Tries It: White Elephant Gift Exchange"
 authors: ["waxy"]
 nickname: ""
 categories: ["Columns", "Tribune Tries It"]

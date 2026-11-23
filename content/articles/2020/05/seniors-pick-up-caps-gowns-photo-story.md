@@ -1,5 +1,5 @@
 ---
-title: "Seniors Pick Up Caps & Gowns_ Photo Story"
+title: "Seniors Pick Up Caps & Gowns: Photo Story"
 authors: ["Andy Zimmerman"]
 nickname: ""
 categories: ["News", "Photo Stories", "School"]

@@ -1,5 +1,5 @@
 ---
-title: "Images from the THS Spring Musical_ Annie"
+title: "Images from the THS Spring Musical: Annie"
 authors: ["Staff"]
 nickname: ""
 categories: []

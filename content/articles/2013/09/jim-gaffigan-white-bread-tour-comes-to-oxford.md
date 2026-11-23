@@ -1,5 +1,5 @@
 ---
-title: "Jim Gaffigan_ White Bread Tour Comes to Oxford"
+title: "Jim Gaffigan: White Bread Tour Comes to Oxford"
 authors: ["Connor Yezierski"]
 nickname: ""
 categories: []

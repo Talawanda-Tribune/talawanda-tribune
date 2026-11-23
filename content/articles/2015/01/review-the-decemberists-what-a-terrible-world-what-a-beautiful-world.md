@@ -1,5 +1,5 @@
 ---
-title: "Review_ The Decemberists’ “What a Terrible World, What a Beautiful World”"
+title: "Review: The Decemberists’ “What a Terrible World, What a Beautiful World”"
 authors: ["Darian Bolin"]
 nickname: ""
 categories: []

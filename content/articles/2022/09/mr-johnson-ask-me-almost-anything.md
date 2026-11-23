@@ -1,5 +1,5 @@
 ---
-title: "Mr.Johnson_  Ask Me Almost Anything"
+title: "Mr.Johnson: Ask Me Almost Anything"
 authors: ["Muhammed Khan"]
 nickname: ""
 categories: []

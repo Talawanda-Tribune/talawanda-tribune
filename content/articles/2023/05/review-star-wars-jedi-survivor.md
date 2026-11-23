@@ -1,5 +1,5 @@
 ---
-title: "Review_ Star Wars – Jedi_ Survivor"
+title: "Review: Star Wars – Jedi: Survivor"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

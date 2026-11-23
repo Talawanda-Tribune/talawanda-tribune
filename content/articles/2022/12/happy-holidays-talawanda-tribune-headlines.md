@@ -1,5 +1,5 @@
 ---
-title: "Happy Holidays_ Talawanda Tribune Headlines"
+title: "Happy Holidays: Talawanda Tribune Headlines"
 authors: ["Jingle Bell Rockers"]
 nickname: ""
 categories: []

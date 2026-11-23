@@ -1,5 +1,5 @@
 ---
-title: "A THS Mystery_ The Lemon Investigates"
+title: "A THS Mystery: The Lemon Investigates"
 authors: ["Muhammed"]
 nickname: ""
 categories: []

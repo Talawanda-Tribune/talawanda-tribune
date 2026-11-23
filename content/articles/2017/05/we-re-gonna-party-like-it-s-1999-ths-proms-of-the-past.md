@@ -1,5 +1,5 @@
 ---
-title: "We’re Gonna Party Like It’s 1999_ THS Proms of the Past"
+title: "We’re Gonna Party Like It’s 1999: THS Proms of the Past"
 authors: ["Staff"]
 nickname: ""
 categories: []

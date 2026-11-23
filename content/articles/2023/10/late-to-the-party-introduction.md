@@ -1,5 +1,5 @@
 ---
-title: "Late To The Party_ Introduction"
+title: "Late To The Party: Introduction"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

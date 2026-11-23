@@ -1,5 +1,5 @@
 ---
-title: The Wall_ Spirit Week Politics
+title: "The Wall: Spirit Week Politics"
 authors:
   - Ben Phillips, Star Reporter
 cover: /media/noImage.png

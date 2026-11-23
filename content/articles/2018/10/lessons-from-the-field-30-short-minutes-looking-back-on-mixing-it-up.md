@@ -1,5 +1,5 @@
 ---
-title: "Lessons from the Field_ 30 Short Minutes_ Looking Back on Mixing It Up"
+title: "Lessons from the Field: 30 Short Minutes: Looking Back on Mixing It Up"
 authors: ["PATRICK GESHAN"]
 nickname: ""
 categories: ["Columns", "Lessons from the Field With Patrick Geshan"]

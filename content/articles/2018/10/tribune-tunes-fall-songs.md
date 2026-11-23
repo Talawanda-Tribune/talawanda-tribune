@@ -1,5 +1,5 @@
 ---
-title: "Tribune Tunes_ Fall Songs"
+title: "Tribune Tunes: Fall Songs"
 authors: ["STAFF"]
 nickname: ""
 categories: ["Tribune Tunes"]

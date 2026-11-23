@@ -1,5 +1,5 @@
 ---
-title: "Opinion_ There is no such thing as a ‘Good Cop’"
+title: "Opinion: There is no such thing as a ‘Good Cop’"
 authors: ["JEAN R. PATEMAN"]
 nickname: ""
 categories: ["Opinion"]

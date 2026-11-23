@@ -1,5 +1,5 @@
 ---
-title: "Late to the Party_ Grand Theft Auto V"
+title: "Late to the Party: Grand Theft Auto V"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

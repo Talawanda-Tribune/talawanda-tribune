@@ -1,5 +1,5 @@
 ---
-title: "Wear and Tear_ The Progressive Decay of Schools"
+title: "Wear and Tear: The Progressive Decay of Schools"
 authors: ["laureltilton"]
 nickname: ""
 categories: []

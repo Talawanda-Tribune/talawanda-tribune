@@ -1,5 +1,5 @@
 ---
-title: "Review_ Baby J"
+title: "Review: Baby J"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

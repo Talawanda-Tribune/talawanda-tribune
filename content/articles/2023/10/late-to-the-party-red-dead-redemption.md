@@ -1,5 +1,5 @@
 ---
-title: "Late to the Party_ Red Dead Redemption"
+title: "Late to the Party: Red Dead Redemption"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

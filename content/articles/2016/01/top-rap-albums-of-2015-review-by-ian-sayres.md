@@ -1,5 +1,5 @@
 ---
-title: "Top Rap Albums of 2015_ Review by Ian Sayres"
+title: "Top Rap Albums of 2015: Review by Ian Sayres"
 authors: ["Ian Sayres"]
 nickname: ""
 categories: []

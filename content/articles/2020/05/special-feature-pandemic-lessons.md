@@ -1,5 +1,5 @@
 ---
-title: "SPECIAL FEATURE_  Pandemic Lessons"
+title: "SPECIAL FEATURE: Pandemic Lessons"
 authors: ["waxy"]
 nickname: ""
 categories: ["News", "Opinion", "School"]

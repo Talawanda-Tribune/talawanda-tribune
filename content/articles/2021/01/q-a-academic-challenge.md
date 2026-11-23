@@ -1,5 +1,5 @@
 ---
-title: "Q & A_ Academic Challenge"
+title: "Q & A: Academic Challenge"
 authors: ["Luke West Poley"]
 nickname: ""
 categories: ["News", "School"]

@@ -1,5 +1,5 @@
 ---
-title: "Agario_ The World of Colorful Cells"
+title: "Agario: The World of Colorful Cells"
 authors: ["De'Asia Owens"]
 nickname: ""
 categories: []

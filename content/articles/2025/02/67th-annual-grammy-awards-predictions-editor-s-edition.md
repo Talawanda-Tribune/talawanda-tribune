@@ -1,5 +1,5 @@
 ---
-title: "67th Annual Grammy Awards Predictions_ Editor’s Edition"
+title: "67th Annual Grammy Awards Predictions: Editor’s Edition"
 authors: 
   - Lauren Dysert
   - Thomas Harper

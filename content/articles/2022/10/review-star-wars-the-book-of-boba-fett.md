@@ -1,5 +1,5 @@
 ---
-title: "Review_ Star Wars – The Book of Boba Fett"
+title: "Review: Star Wars – The Book of Boba Fett"
 authors: ["Will Salzarulo"]
 nickname: ""
 categories: []

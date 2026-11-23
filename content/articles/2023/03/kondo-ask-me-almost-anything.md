@@ -1,5 +1,5 @@
 ---
-title: "Kondo_ Ask Me Almost Anything"
+title: "Kondo: Ask Me Almost Anything"
 authors: ["The Lemon"]
 nickname: ""
 categories: []

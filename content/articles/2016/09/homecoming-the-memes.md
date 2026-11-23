@@ -1,5 +1,5 @@
 ---
-title: "Homecoming_ The Memes"
+title: "Homecoming: The Memes"
 authors: ["Meme Team, HickHudds"]
 nickname: ""
 categories: []

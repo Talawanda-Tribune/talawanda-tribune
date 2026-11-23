@@ -1,5 +1,5 @@
 ---
-title: "Fans of Fearless_ Hiley & Morgan Discuss Taylor Swift’s First Re-Recording"
+title: "Fans of Fearless: Hiley & Morgan Discuss Taylor Swift’s First Re-Recording"
 authors: ["Hiley Kresse", "Morgan Sly"]
 nickname: ""
 categories: []

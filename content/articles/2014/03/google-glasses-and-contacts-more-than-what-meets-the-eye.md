@@ -1,5 +1,5 @@
 ---
-title: "Google Glasses and Contacts_ More Than What Meets the Eye"
+title: "Google Glasses and Contacts: More Than What Meets the Eye"
 authors: ["Morgan McQueen"]
 nickname: ""
 categories: []
