@@ -1,16 +1,19 @@
 ---
 title: Talawanda 2024 Homecoming Parade
+authors:
+  - Lauren Dysert
+
 categories:
-  - Needs Review
+  - Homecoming
+  - School
+  - Local
+tags:
+  - Homecoming
+  - Parade
 cover: /media/talawanda-2024-homecoming-parade-image2.jpg
 draft: false
 date: 2024-09-19
 ---
-## Talawanda 2024 Homecoming Parade
-
-Lauren Dysert
-
-Sept. 19, 2024
 
 Oxford, OH–Talawanda High School and the City of Oxford hosted this year’s Homecoming Parade, commemorating the beginning of the year for our school and community’s many teams, clubs, and organizations, most notably the THS Football team and THS Marching Band. This parade starts at Kramer Elementary school, making its way through uptown and the edge of Miami University’s campus, sporting spirited music and flashy displays.
 
