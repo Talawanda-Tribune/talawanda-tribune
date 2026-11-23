@@ -1,15 +1,11 @@
 ---
-title: "“Birdman”_ A Review by Darian Bolin"
-authors: ["Darian Bolin"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/birdman-a-review-by-darian-bolin-image1.jpg"
+title: "“Birdman”: A Review by Darian Bolin"
+authors:
+  - Darian Bolin
+cover: /media/birdman-a-review-by-darian-bolin-image1.jpg
 draft: false
-review_required: false
 date: 2015-01-23
 ---
-
 ![](/media/birdman-a-review-by-darian-bolin-image1.jpg)
 
 In *Birdman*, directed and co-written by Alejandro González Iñárritu, Michael Keaton plays a character who is essentially a sensationalized version of himself, a washed-up actor named Riggan Thomson, famous for playing fictional superhero Birdman in a trilogy of movies over twenty years ago. He is growing worried that he will eventually not matter, that he will only remain known for being Birdman and will never be considered a serious artist. To remedy his fears, he stages an ambitious adaptation of a Raymond Carver story, which he has adapted himself and is starring in and directing.
