@@ -1,7 +1,5 @@
 ---
 title: Talawanda 2024 Homecoming Parade
-authors:
-  - PENDING REVIEW
 categories:
   - Needs Review
 cover: /media/talawanda-2024-homecoming-parade-image2.jpg
