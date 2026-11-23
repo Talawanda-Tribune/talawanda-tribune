@@ -32,6 +32,10 @@ content:
         label: Active Author?
         type: boolean
         default: true
+      - name: role
+        label: Role
+        type: string
+      
 
   - name: categories
     label: Categories
