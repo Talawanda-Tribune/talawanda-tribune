@@ -1,4 +1,4 @@
 ---
-name: "BRADYN SPURLOCK"
+name: "Bradyn Spurlock"
 active: false
 ---

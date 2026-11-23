@@ -1,4 +1,4 @@
 ---
-name: "RZW"
+name: "Rzw"
 active: false
 ---

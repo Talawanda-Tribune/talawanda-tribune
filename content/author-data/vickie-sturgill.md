@@ -1,4 +1,4 @@
 ---
-name: "VICKIE STURGILL"
+name: "Vickie Sturgill"
 active: false
 ---

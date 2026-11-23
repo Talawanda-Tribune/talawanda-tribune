@@ -1,4 +1,4 @@
 ---
-name: "KIERAN DELVECCHIO"
+name: "Kieran Delvecchio"
 active: false
 ---

@@ -1,4 +1,4 @@
 ---
-name: "B. Phillips is stuck in the 80s"
+name: "B. Phillips Is Stuck in the 80s"
 active: false
 ---

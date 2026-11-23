@@ -1,4 +1,4 @@
 ---
-name: "KAITLYN PARRISH"
+name: "Kaitlyn Parrish"
 active: false
 ---

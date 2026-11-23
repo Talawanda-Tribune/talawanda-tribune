@@ -1,4 +1,4 @@
 ---
-name: "KATIE A. KEELER"
+name: "Katie A. Keeler"
 active: false
 ---

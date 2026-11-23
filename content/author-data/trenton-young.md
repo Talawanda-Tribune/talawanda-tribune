@@ -1,4 +1,4 @@
 ---
-name: "TRENTON YOUNG"
+name: "Trenton Young"
 active: false
 ---

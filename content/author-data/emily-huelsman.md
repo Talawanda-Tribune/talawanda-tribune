@@ -1,4 +1,4 @@
 ---
-name: "EMILY HUELSMAN"
+name: "Emily Huelsman"
 active: false
 ---

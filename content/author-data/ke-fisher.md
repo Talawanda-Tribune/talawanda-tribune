@@ -1,4 +1,4 @@
 ---
-name: "KE FISHER"
+name: "Ke Fisher"
 active: false
 ---

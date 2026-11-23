@@ -1,4 +1,4 @@
 ---
-name: "audreylipps"
+name: "Audreylipps"
 active: false
 ---

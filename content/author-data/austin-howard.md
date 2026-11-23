@@ -1,4 +1,4 @@
 ---
-name: "AUSTIN HOWARD"
+name: "Austin Howard"
 active: false
 ---

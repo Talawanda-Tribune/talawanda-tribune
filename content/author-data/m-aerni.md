@@ -1,4 +1,4 @@
 ---
-name: "m. aerni"
+name: "M. Aerni"
 active: false
 ---

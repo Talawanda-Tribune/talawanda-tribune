@@ -1,4 +1,4 @@
 ---
-name: "Rita Barclay-Hart"
+name: "Rita Barclay Hart"
 active: false
 ---

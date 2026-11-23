@@ -1,4 +1,4 @@
 ---
-name: "SARAH CLARKE"
+name: "Sarah Clarke"
 active: false
 ---

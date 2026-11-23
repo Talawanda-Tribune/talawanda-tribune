@@ -1,4 +1,0 @@
----
-name: "Story"
-active: false
----

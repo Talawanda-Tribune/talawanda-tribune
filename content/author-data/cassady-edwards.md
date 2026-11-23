@@ -1,4 +1,4 @@
 ---
-name: "CASSADY EDWARDS"
+name: "Cassady Edwards"
 active: false
 ---

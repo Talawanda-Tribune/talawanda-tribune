@@ -1,4 +1,4 @@
 ---
-name: "MORGAN SLY"
+name: "Morgan Sly"
 active: false
 ---

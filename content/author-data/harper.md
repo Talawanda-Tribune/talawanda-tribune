@@ -1,4 +1,4 @@
 ---
-name: "harper"
+name: "Harper"
 active: false
 ---

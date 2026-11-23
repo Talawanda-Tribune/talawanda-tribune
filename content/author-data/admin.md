@@ -1,4 +1,4 @@
 ---
-name: "admin"
+name: "Admin"
 active: false
 ---

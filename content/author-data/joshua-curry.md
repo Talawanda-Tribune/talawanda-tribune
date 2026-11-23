@@ -1,4 +1,4 @@
 ---
-name: "JOSHUA CURRY"
+name: "Joshua Curry"
 active: false
 ---

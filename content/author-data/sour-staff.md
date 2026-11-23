@@ -1,4 +1,4 @@
 ---
-name: "SOUR STAFF"
+name: "Sour Staff"
 active: false
 ---

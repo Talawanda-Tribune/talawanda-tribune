@@ -1,4 +1,4 @@
 ---
-name: "NATHAN HALL"
+name: "Nathan Hall"
 active: false
 ---

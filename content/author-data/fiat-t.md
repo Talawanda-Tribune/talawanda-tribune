@@ -1,4 +1,4 @@
 ---
-name: "FIAT T"
+name: "Fiat T"
 active: false
 ---

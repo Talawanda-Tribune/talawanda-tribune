@@ -1,4 +1,4 @@
 ---
-name: "JEAN R. PATEMAN"
+name: "Jean R. Pateman"
 active: false
 ---

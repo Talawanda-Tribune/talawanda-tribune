@@ -1,4 +1,4 @@
 ---
-name: "SKYLER BROWN"
+name: "Skyler Brown"
 active: false
 ---

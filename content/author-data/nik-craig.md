@@ -1,4 +1,4 @@
 ---
-name: "NIK CRAIG"
+name: "Nik Craig"
 active: false
 ---

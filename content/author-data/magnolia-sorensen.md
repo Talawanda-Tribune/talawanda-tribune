@@ -1,4 +1,4 @@
 ---
-name: "MAGNOLIA SORENSEN"
+name: "Magnolia Sorensen"
 active: false
 ---

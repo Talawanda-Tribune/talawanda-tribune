@@ -1,4 +1,4 @@
 ---
-name: "waxy"
+name: "Waxy"
 active: false
 ---

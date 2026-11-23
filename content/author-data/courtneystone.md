@@ -1,4 +1,4 @@
 ---
-name: "courtneystone"
+name: "Courtneystone"
 active: false
 ---
