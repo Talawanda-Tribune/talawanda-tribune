@@ -1,15 +1,11 @@
 ---
-title: "04_03_2012 – Skateboards, Mutant Fish, and Gibraltar"
-authors: ["Joseph L.A. Hall"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: 04/03/2012 – Skateboards, Mutant Fish, and Gibraltar
+authors:
+  - Joseph L.A. Hall
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2012-04-05
 ---
-
 *Editor’s Note: The Blip includes short headlines with odd, feel-good, informational, or pointless material. Stories are presented in a fast, easy-to-read format with news that will make you laugh and be enlightened. The Blip is updated daily.*
 
 **World’s first 1080 achieved**
