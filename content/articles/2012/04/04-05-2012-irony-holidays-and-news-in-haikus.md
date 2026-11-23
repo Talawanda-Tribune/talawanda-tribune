@@ -1,15 +1,11 @@
 ---
-title: "04_05_2012 – Irony, Holidays, and News in Haikus"
-authors: ["Joseph L.A. Hall"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: 04/05/2012 – Irony, Holidays, and News in Haikus
+authors:
+  - Joseph L.A. Hall
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2012-04-05
 ---
-
 *Editor’s Note: The Blip includes short headlines with odd, feel-good, informational, or pointless material. Stories are presented in a fast, easy-to-read format with news that will make you laugh and be enlightened. The Blip is updated daily.*
 
 **Retired Sheriff detained in his own prison**
