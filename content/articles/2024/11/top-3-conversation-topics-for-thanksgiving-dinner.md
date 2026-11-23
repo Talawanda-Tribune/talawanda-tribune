@@ -1,7 +1,7 @@
 ---
 title: "Top 3 Conversation Topics for Thanksgiving Dinner"
-authors: ["Ian \"No Gravy\" Sullivan"]
-nickname: ""
+authors: ["Ian Sullivan"]
+nickname: "Ian \"No Gravy\" Sullivan"
 categories: []
 tags: ["Thanksgiving"]
 cover: "/media/top-3-conversation-topics-for-thanksgiving-dinner-image1.png"

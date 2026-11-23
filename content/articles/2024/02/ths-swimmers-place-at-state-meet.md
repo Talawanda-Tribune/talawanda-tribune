@@ -1,6 +1,6 @@
 ---
 title: "THS Swimmers Place at State Meet"
-authors: ["Waxy"]
+authors: ["waxy"]
 nickname: ""
 categories: ["Sports"]
 tags: ["Swim", "Talawanda Brave"]

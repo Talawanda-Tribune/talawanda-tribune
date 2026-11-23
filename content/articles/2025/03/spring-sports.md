@@ -1,6 +1,6 @@
 ---
 title: "Spring Sports"
-authors: ["Sadie Abbitt ᐧ Mar.9, 2025"]
+authors: ["Sadie Abbitt"]
 nickname: ""
 categories: ["Sports", "Talawanda Braves"]
 tags: []
@@ -8,10 +8,6 @@ cover: "/media/noImage.png"
 draft: false
 date: 2025-03-09
 ---
-
-Spring Sports Preview
-
-By Sadie Abbitt ᐧ Mar.9, 2025
 
 Spring sports have been practicing for almost two weeks and are gearing up for an amazing season. Although there are a fewer number of spring sports than fall and winter sports - Talawanda's spring season is known for success. The spring sports include: Track & Field, Softball, Baseball, and Boys Tennis.
 

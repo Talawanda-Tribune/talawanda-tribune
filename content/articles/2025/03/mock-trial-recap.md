@@ -1,6 +1,6 @@
 ---
 title: "Mock Trial Recap"
-authors: ["Kate Bulanda ᐧ"]
+authors: ["Kate Bulanda"]
 nickname: ""
 categories: []
 tags: []
