@@ -1,15 +1,11 @@
 ---
-title: "‘Basically Armageddon’_ Talawanda Schools faces budget cuts after levy fails"
-authors: ["L. Franks"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: "‘Basically Armageddon’: Talawanda Schools faces budget cuts after levy fails"
+authors:
+  - L. Franks
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2023-02-01
 ---
-
 ‘Basically Armageddon’ Talawanda Schools faces budget cuts after levy fails  
 By L. Franks
 
@@ -34,20 +30,20 @@ What can we expect in the coming years?
 
 The week prior to the board meeting, the school board met for a work session on December 8 in which board members provided recommendations for the upcoming years. Following recommendations from an audit released in March, the workshop produced options A1, A2, A3, and B1 to offer time frames for how and when budget reductions would take place.
 
-“We were making the recommendations of 75,000 next year, 1.2 million dollars the next year, 2.4 the next following year with a total of a little over \$5.3 million,” Theroux said.
+“We were making the recommendations of 75,000 next year, 1.2 million dollars the next year, 2.4 the next following year with a total of a little over 5.3 million,” Theroux said.
 
 The district emphasized in public Q & As leading up to the November election that Talawanda is not comparable to neighboring districts due to unique demographics, and that it provides a number of services and programs not required by the state of Ohio. Now, as the board reviewed its recommendations for the next three years, Dr. Theroux warned the audience: “We are moving toward state minimum.”  
 Reductions in the 2023 spring semester
 
-At Theroux’s recommendation, the board voted on Option A1, which called for spring extracurricular pay to play fees of \$500 at THS and \$250 at TMS and the elimination of extracurricular busing. The motion to approve Option A1 failed, bringing forth Option A2.
+At Theroux’s recommendation, the board voted on Option A1, which called for spring extracurricular pay to play fees of 500 at THS and 250 at TMS and the elimination of extracurricular busing. The motion to approve Option A1 failed, bringing forth Option A2.
 
 Option A2’s contents differed slightly from the first: at the suggestion of board member Kathleen Knight-Abowitz, the plan would utilize funds from student activity funds of graduating classes 2006-2022 — those considered “dormant.” The motion to approve A2, seconded by board member Patrick Meade, passed with three votes.
 
-Dr. Knight-Abowitz’s dormant student funds plan would reduce spring pay to play fees to \$170 for THS and \$85 for TMS.
+Dr. Knight-Abowitz’s dormant student funds plan would reduce spring pay to play fees to 170 for THS and 85 for TMS.
 
 “I did that largely because I really have a problem with instituting pay to participate for athletes and musicians whose families have already made plans,” Knight-Abowitz said.
 
-In total, the district would save \$81,709 over the spring semester.
+In total, the district would save 81,709 over the spring semester.
 
 With plans now in place for the remainder of the 2022/23 school year, the board moved to pass Option B1. The plan listed over 70 targets for budget reductions in the next three school years, categorized by the year each would take effect.  
 Inside the three year plan:  
@@ -59,7 +55,7 @@ School board president Patrick Meade reiterated similar points near the meeting�
 
 He added that it’s possible savings could be more effective than what’s currently being forecasted, hopefully allowing the district to further delay reductions set for year three — “which is basically Armageddon,”
 
-Year 1 (the 2023-24 school year) would include increasing pay-to-participate fees to \$900 per student at THS and \$350 at TMS, reducing building/department budgets by 20%, \$150,000 of curriculum reductions, and eliminating a number of positions. Projected savings for transportation and busing have not yet been announced.
+Year 1 (the 2023-24 school year) would include increasing pay-to-participate fees to 900 per student at THS and 350 at TMS, reducing building/department budgets by 20%, 150,000 of curriculum reductions, and eliminating a number of positions. Projected savings for transportation and busing have not yet been announced.
 
 Reductions in Force
 
@@ -70,41 +66,41 @@ The list called for the elimination of several positions in Year 1 — but the m
 The current three year plan anticipates the following changes in TSD staffing:
 
 Year 1: 2023-24  
-Eliminate 2 Media Specialists \$67,579  
-Any NEW hires- replacing veteran staff \$100,000  
-Transfer 1 THS Business (staff) toTMS \$75,000  
-Eliminate 1 PDC Assistant \$50,091  
-Eliminate THS Teacher- hired through BCESC\* \$83,161  
-20% Reduction to 2 BOE Assistants \$27,138
+Eliminate 2 Media Specialists 67,579  
+Any NEW hires- replacing veteran staff 100,000  
+Transfer 1 THS Business (staff) toTMS 75,000  
+Eliminate 1 PDC Assistant 50,091  
+Eliminate THS Teacher- hired through BCESC 83,161  
+20% Reduction to 2 BOE Assistants 27,138
 
-\*Butler County Educational Service Center
+Butler County Educational Service Center
 
 Year 2: 2024-25  
-Eliminate Teaching & Learning Coordinator positions (T&L) \$125,852  
-Eliminate 1 teacher elective-TMS \$57,730  
-Eliminate 1 teacher elective-THS \$57,730  
-Any NEW hires- replacing veteran staff \$100,000  
-Eliminate Van Driver (if grant is not found) \$19,297  
-Outsource Custodial Services \$262,700 Eliminate 1 Secondary SRO \$39,000  
-Eliminate GIFTED teachers (coordinator stays for identification) \$201,200  
-Eliminate Lunch/Recess Monitors \$50,333  
-Eliminate 3 social workers \$307,097  
-Eliminate 1 Foreign Language Staff Member \$62,926
+Eliminate Teaching & Learning Coordinator positions (T&L) 125,852  
+Eliminate 1 teacher elective-TMS 57,730  
+Eliminate 1 teacher elective-THS 57,730  
+Any NEW hires- replacing veteran staff 100,000  
+Eliminate Van Driver (if grant is not found) 19,297  
+Outsource Custodial Services 262,700 Eliminate 1 Secondary SRO 39,000  
+Eliminate GIFTED teachers (coordinator stays for identification) 201,200  
+Eliminate Lunch/Recess Monitors 50,333  
+Eliminate 3 social workers 307,097  
+Eliminate 1 Foreign Language Staff Member 62,926
 
 Year 3: 2025-26  
-Eliminate Preschool Admin \$88,495  
-Any NEW hires- replacing veteran staff \$100,000  
-Eliminate additional teacher-elective-TMS \$57,730  
-Eliminate additional teacher-elective-THS \$57,730  
-Do not fill grade level chairs/department chairs \$130,627  
-Eliminate SAP positions (THS-1/TMS-½ ) \$167,793  
-Eliminate 2 psychologists \$185,584  
-Eliminate 3 elementary counselors \$290,457  
-Eliminate 1 Assistant Principal \$132,574  
-Eliminate 1 classified office staff per building \$122,161  
-Eliminate Facilities Director- reassign duties \$105,216  
-Replace 4 nurses with health aids (BCESC) \$44,000  
-Eliminate 1.5 A.D. positions/secretary \$181,906
+Eliminate Preschool Admin 88,495  
+Any NEW hires- replacing veteran staff 100,000  
+Eliminate additional teacher-elective-TMS 57,730  
+Eliminate additional teacher-elective-THS 57,730  
+Do not fill grade level chairs/department chairs 130,627  
+Eliminate SAP positions (THS-1/TMS-½ ) 167,793  
+Eliminate 2 psychologists 185,584  
+Eliminate 3 elementary counselors 290,457  
+Eliminate 1 Assistant Principal 132,574  
+Eliminate 1 classified office staff per building 122,161  
+Eliminate Facilities Director- reassign duties 105,216  
+Replace 4 nurses with health aids (BCESC) 44,000  
+Eliminate 1.5 A.D. positions/secretary 181,906
 
 Matt Lykins also spoke on the impending reductions during the public comment portion of the December board meeting.
 
@@ -120,11 +116,11 @@ Additionally, Theroux said the district would extend an existing one mile no tra
 
 Classes/Extracurriculars
 
-The three year plan said the district would reduce curriculum adoptions by \$150,000 each year.
+The three year plan said the district would reduce curriculum adoptions by 150,000 each year.
 
-In Year 2, the district would eliminate STEM and Gifted teachers (except for a coordinator to test and identify students) at the elementary schools for \$63,020 and \$210,000 accordingly. It would also cut one high school foreign language class and halt all student activity extracurriculars.
+In Year 2, the district would eliminate STEM and Gifted teachers (except for a coordinator to test and identify students) at the elementary schools for 63,020 and 210,000 accordingly. It would also cut one high school foreign language class and halt all student activity extracurriculars.
 
-By Year 3, TSD would enact the largest eliminations of classes and programs at elementary, middle and high school levels: art, music and physical education at elementary schools (along with a shortened school day), “1 more” elective at TMS and THS for \$57,730 each, Butler Tech programs including FCCLA, FFA, and career based intervention, and all remaining extracurricular activities.
+By Year 3, TSD would enact the largest eliminations of classes and programs at elementary, middle and high school levels: art, music and physical education at elementary schools (along with a shortened school day), “1 more” elective at TMS and THS for 57,730 each, Butler Tech programs including FCCLA, FFA, and career based intervention, and all remaining extracurricular activities.
 
 In addition, the plan listed several items at the high school level with price tags and dates yet to be determined. Among these were College Career Readiness and an unnamed “core THS class”, along with a policy change to state minimum graduation requirements.
 
