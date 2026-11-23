@@ -1,20 +1,16 @@
 ---
-title: "04_01_2012 – Bacon, Trespassing, and Fools"
-authors: ["Joseph L.A. Hall"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: 04/01/2012 – Bacon, Trespassing, and Fools
+authors:
+  - Joseph L.A. Hall
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2012-04-02
 ---
-
 *Editor’s Note: The Blip includes short headlines with odd, feel-good, informational, or pointless material. Stories are presented in a fast, easy-to-read format with news that will make you laugh and be enlightened. The Blip is updated daily.*
 
 **Dying to get bacon… literally**
 
-If you would love to be buried in bacon, your dream has now become reality. J&D’s Foods has now created the Bacon Coffin, a casket with a bacon design on the outside, bacon memorial tube, gold handles, adjustable bed and mattress, and ivory crepe linens. If these coffins tantalize your taste buds, you can have one for \$2999.95, with an additional shipping cost. The company became famous for developing Bacon Salt, Baconnaise, and Bacon Lube (exactly what you think it is), believing the Bacon Coffin was (obviously) the next step.
+If you would love to be buried in bacon, your dream has now become reality. J&D’s Foods has now created the Bacon Coffin, a casket with a bacon design on the outside, bacon memorial tube, gold handles, adjustable bed and mattress, and ivory crepe linens. If these coffins tantalize your taste buds, you can have one for 2999.95, with an additional shipping cost. The company became famous for developing Bacon Salt, Baconnaise, and Bacon Lube (exactly what you think it is), believing the Bacon Coffin was (obviously) the next step.
 
 **Exercising Constitutional rights gets one man arrested**
 
