@@ -1,15 +1,12 @@
 ---
-title: "“A Highly Motivated Bunch”_ Talawanda’s Field Hockey Team Remains Resilient in Its First Season as a Club Team"
-authors: ["Lily Franks"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/a-highly-motivated-bunch-talawanda-s-field-hockey-team-remains-resilient-in-its-first-season-as-a-club-team-image1.jpg"
+title: "“A Highly Motivated Bunch”: Talawanda’s Field Hockey Team Remains
+  Resilient in Its First Season as a Club Team"
+authors:
+  - Lily Franks
+cover: /media/a-highly-motivated-bunch-talawanda-s-field-hockey-team-remains-resilient-in-its-first-season-as-a-club-team-image1.jpg
 draft: false
-review_required: false
 date: 2023-10-10
 ---
-
 OXFORD, OH — The chilly fall weather is beginning to set in when the Talawanda Oxford field hockey club returns for their second home game of the season. Miami University’s field hockey field, tucked behind the familiar Millet Hall and Yager Stadium, is still wet with this morning’s rain. From the bleachers, spectators can see water flying from the turf in the wake of the players’ strides.
 
 This spring, Athletic Director Jake Richardson presented the elimination of field hockey as a proposal at the Board of Education’s April meeting, citing low participation, frequent coaching turnover, additional costs (“goals, paint, etc.”) as the primary reasons.
@@ -30,7 +27,7 @@ Walker said field hockey would always hold a special place in her heart: “I lo
 
 Following the athletic department’s decision, Talawanda’s field hockey community quickly proved itself worthy of the “highly motivated bunch” title.
 
-“So it was pretty complicated, right?” Duvall said after the game, as players dispersed into the adjacent parking lot. “We sort of had to start from scratch, figuring out what we had to do just from a logistical standpoint and from a legal standpoint… And, you know, anything from securing a place to practice and play to securing insurance \[to\] forming a board.”
+“So it was pretty complicated, right?” Duvall said after the game, as players dispersed into the adjacent parking lot. “We sort of had to start from scratch, figuring out what we had to do just from a logistical standpoint and from a legal standpoint… And, you know, anything from securing a place to practice and play to securing insurance to forming a board.”
 
 Dotti Thacker, the mother of a sophomore on the team and an alumni of Talawanda’s field hockey program, chimed in: “this also meant getting a treasurer, a vice president, a president, and navigating fundraising.”
 
@@ -38,11 +35,11 @@ Duvall continued: “… securing our coach, navigating practice times because w
 
 Fundraising efforts included organized sales, such as printing and selling t-shirts uptown during one of Oxford’s Thursday night Music in the Parks events in August, as well as asking for donations via [Venmo](https://account.venmo.com/u/oxfordbravefieldhockey) and [PayPal](https://www.paypal.me/oxfordbrave?locale.x=en_US). Duvall said alumni were some of the biggest donors.
 
-“Between our fundraisers, and, you know, generous support from alumni and friends of the team, we’ve been able to make it work! And to keep our costs down. The kids are paying, like, \$400? Versus, you know, Talawanda’s fee, which is \$600, and we’ve been able to offer some scholarships and things like that. So we’ve been pretty happy about that.”
+“Between our fundraisers, and, you know, generous support from alumni and friends of the team, we’ve been able to make it work! And to keep our costs down. The kids are paying, like, 400? Versus, you know, Talawanda’s fee, which is 600, and we’ve been able to offer some scholarships and things like that. So we’ve been pretty happy about that.”
 
 This year’s coach, Madison Workman, called the team’s transformation “a blessing in disguise.”
 
-“I kind of feel like we’ve been able to go about it in a little bit of a different way,” Workman said. “We started from the ground, we kind of went back to basics, we taught everyone the basics of playing, the rules of playing, \[and\] we were able to really get good at the little things.”
+“I kind of feel like we’ve been able to go about it in a little bit of a different way,” Workman said. “We started from the ground, we kind of went back to basics, we taught everyone the basics of playing, the rules of playing, and we were able to really get good at the little things.”
 
 “I think that we’ve improved a lot since the first time we were together in August. And I know the girls are having a blast, so. I think every day is fun, we’re learning, and I think that we’re just going to keep getting better as the season goes along.”
 
@@ -58,7 +55,7 @@ This season marks Workman’s first as a coach for Talawanda’s team: the previ
 
 In addition to Workman, Walker, Thacker and Duvall, juniors Margeret “Maddie” Stenger, Ysabella “Izzy” Anders, and Addison Hall weighed in, along with senior Morgan Sly. All four joined the team as freshmen.
 
-“For me, personally, I didn’t really wanna do gym, and my brothers told me the team sucked,” Hall said with a laugh. “So I joined because of \[those\] reasons.”
+“For me, personally, I didn’t really wanna do gym, and my brothers told me the team sucked,” Hall said with a laugh. “So I joined because of those reasons.”
 
 “I got cut from volleyball and Coach Holmes was in the parking lot,” Stenger explained, referencing the team’s former coach Janet Holmes, who retired following the 2021 season. “And she talked to my mother and she was like ‘If anyone gets cut, send them my way.’ And I had been cut. So I went there..” The girls laughed.
 
