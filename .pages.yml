@@ -70,7 +70,7 @@ content:
         label: Author
         type: reference
         options:
-          collection: author-data
+          collection: Staff
           multiple: true
           value: "{fields.name}"
       - name: nickname
