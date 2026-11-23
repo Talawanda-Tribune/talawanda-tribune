@@ -5,7 +5,7 @@ nickname: ""
 categories: ["Needs Review"]
 tags: []
 cover: "/media/field-hockey-alumni-night-2026-image1.jpg"
-draft: true
+draft: false
 review_required: true
 date: 2026-10-26
 ---

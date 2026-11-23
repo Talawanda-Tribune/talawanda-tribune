@@ -5,7 +5,7 @@ nickname: ""
 categories: ["Needs Review"]
 tags: []
 cover: "/media/fall-sports-alert-image1.png"
-draft: true
+draft: false
 review_required: true
 date: 2026-10-05
 ---

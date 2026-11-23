@@ -3,7 +3,7 @@ title: "Tribune Tries It: Fall Drinks"
 authors:
   - Staff
 cover: /media/tribune-tries-it-fall-drinks-image6.jpg
-draft: true
+draft: false
 date: 2026-10-26
 ---
 Oxford, OH—The leaves are changing. The jack o lanterns are staring. Our timbers are shivered. It’s time for Tribune to once again try Kofenya’s fall drinks. On the the menu this season are:

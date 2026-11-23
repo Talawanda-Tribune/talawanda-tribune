@@ -1,4 +1,4 @@
 ---
-name: "Liv McGownd"
+name: "Liv Mcgownd"
 active: false
 ---
