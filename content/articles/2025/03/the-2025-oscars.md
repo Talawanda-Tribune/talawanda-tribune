@@ -1,14 +1,16 @@
 ---
-title: "The 2025 Oscars_"
-authors: ["Thomas Harper"]
-nickname: ""
-categories: ["Entertainment"]
-tags: ["Oscars", "Movies"]
-cover: "/media/noImage.png"
+title: The 2025 Oscars
+authors:
+  - Thomas Harper
+categories:
+  - Entertainment
+tags:
+  - Oscars
+  - Movies
+cover: /media/noImage.png
 draft: false
 date: 2025-03-03
 ---
-
 The 97th Academy Awards Overview
 
 By Thomas Harper
