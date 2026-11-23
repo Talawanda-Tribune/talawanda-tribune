@@ -1,15 +1,11 @@
 ---
-title: "N. Craig_s Top Ten Horror Movies of All Time"
-authors: ["NIK CRAIG"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: N. Craig's Top Ten Horror Movies of All Time
+authors:
+  - NIK CRAIG
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2016-10-26
 ---
-
 Halloween is coming up and in order to get your jump scares in the Tribune’s resident scary movie expert Nik Craig is counting down the top ten horror movies of all time:
 
 10: Rosemary’s Baby (Roman Polanski, 1968)
