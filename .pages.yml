@@ -1,7 +1,7 @@
 media:
   - name: default
     label: Default
-    input: static/media
+    input: assets/media
     output: /media
   - name: article_uploads
     label: Article Uploads
