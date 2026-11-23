@@ -1,15 +1,11 @@
 ---
-title: "“Dear Buddy”_ Buddy the Elf Gives Holiday Advice"
-authors: ["Madi"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/dear-buddy-buddy-the-elf-gives-holiday-advice-image1.png"
+title: "“Dear Buddy”: Buddy the Elf Gives Holiday Advice"
+authors:
+  - Madi
+cover: /media/dear-buddy-buddy-the-elf-gives-holiday-advice-image1.png
 draft: false
-review_required: false
 date: 2016-12-21
 ---
-
 *Dear Buddy,*
 
 *Today on the bus a 5th grader told me that Santa Claus isn’t real. I’m in second grade and I’m not sure. What do u think? Is Santa real? I’m afraid to ask my parents because they told me that kids that don’t beeleaf only get socks and underwears for Christmas.*
