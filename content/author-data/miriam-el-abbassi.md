@@ -1,4 +1,5 @@
 ---
 name: "Miriam El Abbassi"
-active: false
+role: ""
+active: true
 ---

@@ -1,4 +1,5 @@
 ---
 name: "Ryan El Abbassi"
-active: false
+role: "Editor"
+active: true
 ---

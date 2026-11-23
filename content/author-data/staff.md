@@ -1,4 +1,5 @@
 ---
 name: Staff
-active: true
+role: ""
+active: false
 ---

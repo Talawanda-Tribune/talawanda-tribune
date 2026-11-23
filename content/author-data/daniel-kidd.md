@@ -1,4 +1,5 @@
 ---
 name: "Daniel Kidd"
-active: false
+role: "Web Master"
+active: true
 ---

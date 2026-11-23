@@ -1,4 +1,5 @@
 ---
 name: "Chloe Jeong"
-active: false
+role: ""
+active: true
 ---
