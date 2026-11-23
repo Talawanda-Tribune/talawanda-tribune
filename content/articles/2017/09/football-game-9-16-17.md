@@ -1,15 +1,11 @@
 ---
-title: "Football Game 9_16_17"
-authors: ["Camry Winsted-Neeley"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/football-game-9-16-17-image9.jpg"
+title: Football Game 9/16/17
+authors:
+  - Camry Winsted-Neeley
+cover: /media/football-game-9-16-17-image9.jpg
 draft: false
-review_required: false
 date: 2017-09-20
 ---
-
 > ![](/media/football-game-9-16-17-image9.jpg)
 >
 > ![](/media/football-game-9-16-17-image6.jpg)
@@ -49,3 +45,4 @@ date: 2017-09-20
 > ![](/media/football-game-9-16-17-image13.jpg)
 >
 > ![](/media/football-game-9-16-17-image5.jpg)
+
