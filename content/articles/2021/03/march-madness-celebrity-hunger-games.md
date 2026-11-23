@@ -1,5 +1,5 @@
 ---
-title: "March Madness_ Celebrity Hunger Games"
+title: "March Madness: Celebrity Hunger Games"
 authors: ["waxy"]
 nickname: ""
 categories: []

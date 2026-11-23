@@ -1,6 +1,6 @@
 ---
 title: "Potter Parody Preview"
-authors: ["A. Weatherwax"]
+authors: ["waxy"]
 nickname: ""
 categories: ["Arts and Entertainment", "Photo Galleries", "Theater"]
 tags: ["Drama", "Harry Potter", "Puffs"]

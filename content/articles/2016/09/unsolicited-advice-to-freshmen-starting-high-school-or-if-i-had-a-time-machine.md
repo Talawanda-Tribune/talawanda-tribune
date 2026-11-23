@@ -1,6 +1,6 @@
 ---
 title: "Unsolicited Advice to Freshmen Starting High School, or if I had a Time Machine"
-authors: ["A. Weatherwax"]
+authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []

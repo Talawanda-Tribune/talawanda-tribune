@@ -1,14 +1,15 @@
 ---
-title: "Editorial_ Programming the Future"
-authors: ["Article: CHARIS WHALEN Photo: AUSTIN HOWARD"]
+title: "Editorial: Programming the Future"
+authors: ["CHARIS WHALEN"]
 nickname: ""
-categories: []
+categories: ["Opinion"]
 tags: []
 cover: "/media/noImage.png"
 draft: false
 review_required: false
 date: 2017-05-12
 ---
+Photo: Austin Howard
 
 I don’t believe that there should be driverless cars in the future. As much as I distrust the judgement of all humans in cars, I distrust technology that flawed humans have created even more. Similar to doing a multi-step math equation, once you round a number and use the imperfect answer as a staple in calculating other variables, the margin of error grows.
 

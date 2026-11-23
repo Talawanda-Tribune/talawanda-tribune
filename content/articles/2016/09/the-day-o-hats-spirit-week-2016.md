@@ -1,5 +1,5 @@
 ---
-title: "The Day o’ Hats_ Spirit Week 2016"
+title: "The Day o’ Hats: Spirit Week 2016"
 authors: ["waxy"]
 nickname: ""
 categories: []

@@ -1,5 +1,5 @@
 ---
-title: "THS Mock Trial_ State Bound"
+title: "THS Mock Trial: State Bound"
 authors: ["waxy"]
 nickname: ""
 categories: []

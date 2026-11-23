@@ -1,6 +1,6 @@
 ---
 title: "Homecoming Brings First Braves Win"
-authors: ["A. Howard, Staff Reporter"]
+authors: ["Austin Howard"]
 nickname: ""
 categories: []
 tags: []

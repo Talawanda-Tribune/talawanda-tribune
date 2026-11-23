@@ -1,6 +1,6 @@
 ---
 title: "THS Drama Performs Little Shop of Horrors"
-authors: ["Amanda Weatherwax"]
+authors: ["waxy"]
 nickname: ""
 categories: ["Needs Review"]
 tags: []

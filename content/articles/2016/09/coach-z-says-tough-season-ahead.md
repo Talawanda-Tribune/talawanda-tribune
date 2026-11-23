@@ -1,6 +1,6 @@
 ---
 title: "Coach Z Says Tough Season Ahead"
-authors: ["A. Howard, Staff Reporter"]
+authors: ["Austin Howard"]
 nickname: ""
 categories: []
 tags: []

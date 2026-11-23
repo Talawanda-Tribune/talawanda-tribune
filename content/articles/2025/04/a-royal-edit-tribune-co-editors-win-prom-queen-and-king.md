@@ -1,5 +1,5 @@
 ---
-title: "A Royal Edit_  Tribune Co-Editors Win Prom Queen and King"
+title: "A Royal Edit: Tribune Co-Editors Win Prom Queen and King"
 authors: ["waxy"]
 nickname: ""
 categories: ["Prom"]

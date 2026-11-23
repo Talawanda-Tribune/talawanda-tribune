@@ -1,6 +1,6 @@
 ---
 title: "Heart of Mexico in Talawanda"
-authors: ["N. Craig, Staff Reporter"]
+authors: ["N. Craig"]
 nickname: ""
 categories: []
 tags: []

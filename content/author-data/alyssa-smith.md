@@ -1,4 +1,4 @@
 ---
-name: "ALYSSA SMITH"
+name: "Alyssa Smith"
 active: false
 ---

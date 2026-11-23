@@ -1,6 +1,6 @@
 ---
 title: "Juniors Take ACT (Again)"
-authors: ["Amanda Weatherwax"]
+authors: ["waxy"]
 nickname: ""
 categories: ["School"]
 tags: ["ACT", "Testing"]
