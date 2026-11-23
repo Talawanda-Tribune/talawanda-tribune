@@ -1,15 +1,11 @@
 ---
-title: "04_26_2012 – Mean Teachers, Burger King, and Beards"
-authors: ["Joseph L.A. Hall"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: 04/26/2012 – Mean Teachers, Burger King, and Beards
+authors:
+  - Joseph L.A. Hall
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2012-04-27
 ---
-
 *Editor’s Note: The Blip includes short headlines with odd, feel-good, informational, or pointless material. Stories are presented in a fast, easy-to-read format with news that will make you laugh and be enlightened. The Blip is updated daily.*
 
 **Teachers unabashedly bash autistic child**
