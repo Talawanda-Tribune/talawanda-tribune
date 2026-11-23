@@ -1,4 +1,4 @@
 ---
-name: "Staff"
-active: false
+name: Staff
+active: true
 ---
