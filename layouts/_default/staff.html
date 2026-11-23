@@ -1,0 +1,20 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div>
+    {{ .Content }}
+</div>
+
+{{ $authors := slice }}
+{{ range where site.AllPages "Section" "author-data" }}
+{{ if and .Params.active .Params.name }}
+{{ $name := .Params.name }}
+{{ $nameParts := split $name " " }}
+{{ $lastName := lower (index $nameParts (sub (len $nameParts) 1)) }}
+{{ $authors = $authors | append (dict "name" $name "role" .Params.role "lastName" $lastName) }}
+{{ end }}
+{{ end }}
+
+{{ range sort $authors "lastName" }}
+{{ .name }}{{ with .role }}, <strong>{{ . }}</strong>{{ end }}<br><br>
+{{ end }}
+{{ end }}

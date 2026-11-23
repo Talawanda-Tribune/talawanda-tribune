@@ -7,5 +7,5 @@ cascade:
       kind: page
     build:
       render: never
-      list: never
+      list: always
 ---

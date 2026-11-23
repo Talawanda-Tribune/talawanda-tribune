@@ -1,29 +1,43 @@
 ---
 title: 2026-2027 Staff
 draft: false
+layout: staff
 ---
-Ryan El Abbassi, **Editor**
 
-Daniel Kidd, Web **Master**
+[//]: # (Ryan El Abbassi, **Editor**)
 
-Writers:
+[//]: # ()
+[//]: # (Daniel Kidd, Web **Master**)
 
-Elise Barter
+[//]: # ()
+[//]: # (Writers:)
 
-Andy Conger
+[//]: # ()
+[//]: # (Elise Barter)
 
-Miriam El abbassi
+[//]: # ()
+[//]: # (Andy Conger)
 
-Ryan El Abbassi
+[//]: # ()
+[//]: # (Miriam El abbassi)
 
-Madeleine Francis Hicks
+[//]: # ()
+[//]: # (Ryan El Abbassi)
 
-Ethan Graham
+[//]: # ()
+[//]: # (Madeleine Francis Hicks)
 
-Chloe Jeong
+[//]: # ()
+[//]: # (Ethan Graham)
 
-Daniel Kidd
+[//]: # ()
+[//]: # (Chloe Jeong)
 
-Emily Luebbe
+[//]: # ()
+[//]: # (Daniel Kidd)
 
-Amanda Weatherwax, **Teacher Advisor**
+[//]: # ()
+[//]: # (Emily Luebbe)
+
+[//]: # ()
+[//]: # (Amanda Weatherwax, **Teacher Advisor**)
