@@ -1,15 +1,13 @@
 ---
-title: "Talawanda 2024 Homecoming Parade"
-authors: ["PENDING REVIEW"]
-nickname: ""
-categories: ["Needs Review"]
-tags: []
-cover: "/media/talawanda-2024-homecoming-parade-image2.jpg"
+title: Talawanda 2024 Homecoming Parade
+authors:
+  - PENDING REVIEW
+categories:
+  - Needs Review
+cover: /media/talawanda-2024-homecoming-parade-image2.jpg
 draft: false
-review_required: true
-date: 2026-09-20
+date: 2024-09-19
 ---
-
 ## Talawanda 2024 Homecoming Parade
 
 Lauren Dysert
