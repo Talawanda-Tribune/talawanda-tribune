@@ -1,15 +1,12 @@
 ---
-title: "School Gotcha Down_  Don_t Worry Memes Are in Town"
-authors: ["Meme Team: Hickman", "Huddleston"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/school-gotcha-down-don-t-worry-memes-are-in-town-image7.gif"
+title: School Gotcha Down?  Don't Worry Memes Are in Town
+authors:
+  - "Meme Team: Hickman"
+  - Huddleston
+cover: /media/school-gotcha-down-don-t-worry-memes-are-in-town-image7.gif
 draft: false
-review_required: false
 date: 2016-09-09
 ---
-
 ![](/media/school-gotcha-down-don-t-worry-memes-are-in-town-image7.gif)
 
 First day of school, we know it won’t be the best day of your life. Worst, maybe.
