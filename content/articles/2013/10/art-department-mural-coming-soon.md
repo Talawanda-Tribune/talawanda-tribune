@@ -1,15 +1,11 @@
 ---
-title: "Art Department Mural_ Coming Soon"
-authors: ["Dominic Mottola"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: "Art Department Mural: Coming Soon"
+authors:
+  - Dominic Mottola
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2013-10-15
 ---
-
 The Talawanda Art Club, led by Jim and Elise McWilliams, is in the process of developing a mural which will be displayed in the art hallway.
 
 The mural will be painted on a 6 foot by 10 foot canvas, using acrylic paints. The canvas has been pre-gessoed and has grommets for hanging, McWilliams tell.
