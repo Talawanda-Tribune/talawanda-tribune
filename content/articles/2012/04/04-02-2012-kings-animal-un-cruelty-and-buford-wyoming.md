@@ -1,15 +1,11 @@
 ---
-title: "04_02_2012 – Kings, Animal (Un)Cruelty, and Buford, Wyoming"
-authors: ["Joseph L.A. Hall"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/04-02-2012-kings-animal-un-cruelty-and-buford-wyoming-image1.jpg"
+title: 04/02/2012 – Kings, Animal (Un)Cruelty, and Buford, Wyoming
+authors:
+  - Joseph L.A. Hall
+cover: /media/04-02-2012-kings-animal-un-cruelty-and-buford-wyoming-image1.jpg
 draft: false
-review_required: false
 date: 2012-04-02
 ---
-
 *Editor’s Note: The Blip includes short headlines with odd, feel-good, informational, or pointless material. Stories are presented in a fast, easy-to-read format with news that will make you laugh and be enlightened. The Blip is updated daily.*
 
 **Burger King finally updates**
@@ -22,11 +18,11 @@ Romain Jerry, 31, has come up with lazy pet owners’ answer to an unasked quest
 
 ![](/media/04-02-2012-kings-animal-un-cruelty-and-buford-wyoming-image1.jpg)
 
-Read more here: <http://www.dailymail.co.uk/sciencetech/article-1183016/Is-Dog-o-Matic-owners-best-friend.html>
+Read more here: [http://www.dailymail.co.uk/sciencetech/article-1183016/Is-Dog-o-Matic-owners-best-friend.html](http://www.dailymail.co.uk/sciencetech/article-1183016/Is-Dog-o-Matic-owners-best-friend.html)
 
 **Buy an entire town!**
 
-You read that right. The entire town of Buford, Wyoming is for sale for a starting bid of \$100,000. You can own the entire 82050 zip code! The catch?
+You read that right. The entire town of Buford, Wyoming is for sale for a starting bid of 100,000. You can own the entire 82050 zip code! The catch?
 
 The population of Buford: 1
 
