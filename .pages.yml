@@ -19,7 +19,7 @@ media:
           button: Import
 content:
   - name: author
-    label: Staff
+    label: Authors
     type: collection
     path: content/author-data
     filename: "{slug}.md"
