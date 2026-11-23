@@ -1,15 +1,11 @@
 ---
-title: "03_29_2012 – Weather, Unemployment, and Food"
-authors: ["Joseph L.A. Hall"]
-nickname: ""
-categories: []
-tags: []
-cover: "/media/noImage.png"
+title: 03/29/2012 – Weather, Unemployment, and Food
+authors:
+  - Joseph L.A. Hall
+cover: /media/noImage.png
 draft: false
-review_required: false
 date: 2012-03-30
 ---
-
 *Editor’s Note: The Blip includes short headlines with odd, feel-good, informational, or pointless material. Stories are presented in a fast, easy-to-read format with news that will make you laugh and be enlightened. The Blip is updated daily.*
 
 **Big weather disasters imminent, scientists say**
