@@ -1,0 +1,12 @@
+{{- $src := .Get "src" | default "" -}}
+{{- $src = strings.TrimPrefix "/" (strings.TrimSuffix "/" $src) -}}
+{{- if $src -}}
+  {{- $page := .Page -}}
+  <div class="photostory">
+    {{- range resources.Match (printf "%s/*" $src) -}}
+      {{- if or (strings.HasSuffix .Name ".jpg") (strings.HasSuffix .Name ".jpeg") (strings.HasSuffix .Name ".png") (strings.HasSuffix .Name ".webp") -}}
+        {{- $page.RenderString (printf "![](%s)" .RelPermalink) -}}
+      {{- end -}}
+    {{- end }}
+  </div>
+{{- end -}}
