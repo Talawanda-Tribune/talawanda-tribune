@@ -1,3 +1,6 @@
+.articleListing {
+    margin: 2ch
+}
 .articlesList-standard,
 .articlesList-remaining {
     display: grid;
@@ -17,8 +20,7 @@
 }
 
 .articleListing-standard,
-.articleListing-remaining {
-    margin: 2ch;
+.articleListing-remaining {;
     text-align: center;
 }
 
@@ -29,7 +31,7 @@
 
 .articleListing-featured > a {
     display: grid;
-    grid-template-columns: minmax(1.5fr, 500px) minmax(0, 2fr);
+    grid-template-columns: 35% 65%;
     grid-template-areas:
         "image text";
     gap: 4ch;
