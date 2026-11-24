@@ -5,7 +5,7 @@
 </div>
 
 {{ $authors := slice }}
-{{ range where site.AllPages "Section" "author-data" }}
+{{ range where site.RegularPages "Section" "author-data" }}
 {{ if and .Params.active .Params.name }}
 {{ $name := .Params.name }}
 {{ $nameParts := split $name " " }}
