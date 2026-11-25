@@ -1,15 +1,13 @@
 ---
-title: "2026 Halloween Costume Predictions"
-authors: ["Emily Luebbe"]
-nickname: ""
-categories: ["Halloween"]
-tags: []
-cover: "/media/2026-halloween-costume-predictions-image4.jpg"
-draft: true
-review_required: true
+title: 2026 Halloween Costume Predictions
+authors:
+  - Emily Luebbe
+categories:
+  - Halloween
+cover: /media/2026-halloween-costume-predictions-image4.jpg
+draft: false
 date: 2026-10-09
 ---
-
 **2026 Halloween Costume Predictions**
 
 Emily Luebbe · October 4th, 2026
@@ -55,3 +53,4 @@ With her newest album, *you seem pretty sad for a girl so in love*, the Olivia R
 Probably most peoples’ favorite movie of 2026, Obsession broke many records and was very popular. The characters are pretty easy to represent in a costume, so there is no doubt teens all over the country will be recreating the look.
 
 ![](/media/2026-halloween-costume-predictions-image2.jpg)
+
