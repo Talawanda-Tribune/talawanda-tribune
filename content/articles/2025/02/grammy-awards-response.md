@@ -4,9 +4,8 @@ authors: ["Lauren Dysert"]
 nickname: ""
 categories: ["Music", "Entertainment"]
 tags: ["Grammy Awards", "Music"]
-cover: "/media/noImage.png"
+cover: "/media/67th-grammy-awards-prediction.png"
 draft: false
-review_required: true
 date: 2025-02-06
 ---
 

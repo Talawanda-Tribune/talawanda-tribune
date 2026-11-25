@@ -4,7 +4,7 @@ authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/tribune-publishes-changing-perspectives-2923.png"
 draft: false
 review_required: false
 date: 2023-05-11

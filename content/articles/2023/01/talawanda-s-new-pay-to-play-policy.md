@@ -4,7 +4,7 @@ authors: ["Julie Page"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/talawanda-new-pay-to-play-policy.jpg"
 draft: false
 review_required: false
 date: 2023-01-20

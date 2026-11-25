@@ -4,7 +4,7 @@ authors: ["waxy"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/ths-drama-best-christmas-pageant-ever.jpg"
 draft: false
 review_required: false
 date: 2022-11-12

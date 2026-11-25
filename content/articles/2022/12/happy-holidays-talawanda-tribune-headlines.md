@@ -4,7 +4,7 @@ authors: ["Jingle Bell Rockers"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/happy-holidays-tribune-headlines.png"
 draft: false
 review_required: false
 date: 2022-12-13

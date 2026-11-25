@@ -1,13 +1,14 @@
 ---
-title: The 2025 Oscars
+title: The 97th Annual Academy Awards 
 authors:
   - Thomas Harper
 categories:
   - Entertainment
 tags:
   - Oscars
+  - Academy Awards
   - Movies
-cover: /media/noImage.png
+cover: /media/97th-academy-awards.png
 draft: false
 date: 2025-03-03
 ---

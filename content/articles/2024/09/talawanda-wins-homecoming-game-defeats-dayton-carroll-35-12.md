@@ -4,7 +4,7 @@ authors: ["Thomas Harper"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/ths-beats-dayton-carroll-hoco-game.png"
 draft: false
 review_required: false
 date: 2024-09-20

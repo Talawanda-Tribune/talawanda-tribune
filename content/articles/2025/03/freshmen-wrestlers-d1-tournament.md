@@ -4,7 +4,7 @@ authors: ["waxy"]
 nickname: ""
 categories: ["Sports"]
 tags: ["Wrestline", "Talawanda Brave"]
-cover: "/media/freshmen-wrestlers-d1-tournament-image1.jpg"
+cover: "/media/freshmen-wrestlers-d1-tournament.jpg"
 draft: false
 date: 2025-03-03
 ---
@@ -19,6 +19,6 @@ This will be the third year for an OHSAA-sanctioned girls’ wreslting tournamen
 
 Harrison competes in the Division I Southwest region with Talawanda and took first place as a team at Districts.
 
-![](/media/freshmen-wrestlers-d1-tournament-image1.jpg)
+![](/media/freshmen-wrestlers-d1-tournament.jpg)
 
 Photo courtesy of @Talawanda Athletic Dept.

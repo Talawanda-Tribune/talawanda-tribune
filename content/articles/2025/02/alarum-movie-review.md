@@ -4,9 +4,8 @@ authors: ["Cameron Gieske"]
 nickname: "Cameron “Rotten Tomatoes” Gieske"
 categories: [""]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/alarum-movie-review.jpg"
 draft: false
-review_required: true
 date: 2025-02-18
 ---
 

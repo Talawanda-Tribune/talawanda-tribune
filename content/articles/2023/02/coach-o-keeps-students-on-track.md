@@ -4,7 +4,7 @@ authors: ["Sadie Abbitt"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/coach-o-keeps-students-on-track.jpg"
 draft: false
 review_required: false
 date: 2023-02-14

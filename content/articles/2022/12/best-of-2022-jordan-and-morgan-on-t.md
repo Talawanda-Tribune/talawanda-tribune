@@ -4,7 +4,7 @@ authors: ["Morgan Sly", "Jordan Gresham"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/best-of-2922-taylor-swifts-idnights.png"
 draft: false
 review_required: false
 date: 2022-12-26

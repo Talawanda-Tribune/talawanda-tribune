@@ -4,7 +4,7 @@ authors: ["waxy"]
 nickname: ""
 categories: ["School"]
 tags: ["ACT", "Testing"]
-cover: "/media/noImage.png"
+cover: "/media/juniors-take-the-act-again.jpg"
 draft: false
 date: 2025-03-05
 ---

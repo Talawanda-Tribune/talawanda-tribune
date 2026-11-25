@@ -4,7 +4,7 @@ authors: ["Stenghis Khan"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/floridians-cut-loose-literally.png"
 draft: false
 review_required: false
 date: 2023-04-11

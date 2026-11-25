@@ -4,7 +4,7 @@ authors: ["L. Franks"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/busing-shrinks-school-unshuffled.jpg"
 draft: false
 review_required: false
 date: 2023-03-21

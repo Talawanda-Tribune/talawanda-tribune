@@ -4,7 +4,7 @@ authors: ["Staff"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/shout-out-november-contest-winners.png"
 draft: false
 review_required: false
 date: 2022-11-17

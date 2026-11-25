@@ -4,7 +4,7 @@ authors: ["Sadie Abbitt"]
 nickname: ""
 categories: ["Sports", "Talawanda Braves"]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/spring-sports-preview.jpg"
 draft: false
 date: 2025-03-09
 ---

@@ -4,7 +4,7 @@ authors: ["Garrison Franks"]
 nickname: ""
 categories: ["School"]
 tags: ["CCP", "Course Offerings"]
-cover: "/media/noImage.png"
+cover: "/media/in-house-ccp-what-to-know-next-year.jpg"
 draft: false
 date: 2025-02-24
 ---

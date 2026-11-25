@@ -4,7 +4,7 @@ authors: ["JB Danoff"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/cotton-candy-grapes-forbidden-fruit.png"
 draft: false
 review_required: false
 date: 2023-11-10

@@ -4,7 +4,7 @@ authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/interview-with-chatgpt.png"
 draft: false
 review_required: false
 date: 2023-03-21

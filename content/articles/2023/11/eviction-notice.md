@@ -4,7 +4,7 @@ authors: ["Kenneth Revelee"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/eviction-notice.png"
 draft: false
 review_required: false
 date: 2023-11-10

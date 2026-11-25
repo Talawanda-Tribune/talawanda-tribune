@@ -4,7 +4,7 @@ authors: ["Liv McGownd"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/socks-underrated-christmas-gift.png"
 draft: false
 review_required: false
 date: 2022-12-06

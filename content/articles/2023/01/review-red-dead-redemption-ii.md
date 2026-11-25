@@ -4,7 +4,7 @@ authors: ["Will Salzarulo"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/review-rdr2.jpg"
 draft: false
 review_required: false
 date: 2023-01-17

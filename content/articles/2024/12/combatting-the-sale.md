@@ -4,7 +4,7 @@ authors: ["Garrison Franks"]
 nickname: ""
 categories: ["Local", "School"]
 tags: ["Mr. Davie"]
-cover: "/media/noImage.png"
+cover: "/media/combatting-the-sale.png"
 draft: false
 date: 2024-12-22
 ---

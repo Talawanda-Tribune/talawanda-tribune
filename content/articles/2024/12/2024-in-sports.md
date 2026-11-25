@@ -4,7 +4,7 @@ authors: ["Sadie Abbitt"]
 nickname: ""
 categories: ["Sports"]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/2024-in-sports.png"
 draft: false
 date: 2024-12-22
 ---

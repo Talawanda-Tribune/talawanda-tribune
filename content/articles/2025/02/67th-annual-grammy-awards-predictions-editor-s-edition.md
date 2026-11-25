@@ -6,7 +6,7 @@ authors:
 nickname: ""
 categories: ["Needs Review"]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/67th-grammy-awards-prediction.png"
 draft: false
 date: 2025-02-01
 ---

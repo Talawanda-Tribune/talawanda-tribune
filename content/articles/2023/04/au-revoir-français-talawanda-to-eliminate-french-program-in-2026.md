@@ -4,7 +4,7 @@ authors: ["Eliza Sullivan"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/au-revoir-francais.jpg"
 draft: false
 review_required: false
 date: 2023-04-05

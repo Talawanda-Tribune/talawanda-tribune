@@ -4,7 +4,7 @@ authors: ["waxy"]
 nickname: ""
 categories: ["Needs Review"]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/ths-little-shop-of-horrors.jpg"
 draft: false
 date: 2025-03-14
 ---

@@ -4,12 +4,12 @@ authors: ["Daniel Kidd"]
 nickname: ""
 categories: ["Sports"]
 tags: ["Talawanda Brave"]
-cover: "/media/fall-sports-roundup-image1.png"
+cover: "/media/fall-sports-roundup-image2.jpg"
 draft: false
 date: 2024-11-21
 ---
 
-Nov. 21, 2024![](/media/fall-sports-roundup-image2.jpg)
+![](/media/fall-sports-roundup-image2.jpg)
 
 The fall sports season at Talawanda is coming to a close, and this season has been incredible. Our teams have won four separate SWOC Championships in three sports.
 

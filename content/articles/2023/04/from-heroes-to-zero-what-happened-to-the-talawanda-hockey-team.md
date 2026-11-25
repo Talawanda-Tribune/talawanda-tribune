@@ -4,7 +4,7 @@ authors: ["Julie Page"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/heroes-to-zeroes-ths-hockey-team.jpg"
 draft: false
 review_required: false
 date: 2023-04-10

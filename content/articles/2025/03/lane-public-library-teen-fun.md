@@ -3,8 +3,8 @@ title: "Lane Public Library: TEEN FUN"
 authors: ["Alayna Dallman"]
 nickname: ""
 categories: [""]
-tags: []
-cover: "/media/noImage.png"
+tags: 
+cover: "/media/lane-library-teen-fun.png"
 draft: false
 date: 2025-03-11
 ---

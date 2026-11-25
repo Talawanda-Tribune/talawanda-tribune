@@ -4,7 +4,7 @@ authors: ["JSEJGJJF"]
 nickname: ""
 categories: ["Open Letters"]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/open-letter-teens-who-wear-pajamas-in-public.jpg"
 draft: false
 date: 2025-03-07
 ---

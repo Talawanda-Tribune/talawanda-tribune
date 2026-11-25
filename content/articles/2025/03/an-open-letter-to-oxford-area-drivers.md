@@ -4,7 +4,7 @@ authors: ["Lyla McDaniel"]
 nickname: ""
 categories: ["Open Letters"]
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/open-letter-oxford-pedestrians-drivers.jpg"
 draft: false
 date: 2025-03-07
 ---

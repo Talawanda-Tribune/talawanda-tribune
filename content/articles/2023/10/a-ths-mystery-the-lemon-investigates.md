@@ -4,7 +4,7 @@ authors: ["Muhammed"]
 nickname: ""
 categories: []
 tags: []
-cover: "/media/noImage.png"
+cover: "/media/ths-mystery-lemon-investigates.jpg"
 draft: false
 review_required: false
 date: 2023-10-31
