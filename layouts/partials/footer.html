@@ -1,7 +1,17 @@
 <footer>
     <div class="footer-wrap">
-        <p >&copy; 2012-{{ now.Format "2006" }} {{ .Site.Title }}</p>
-        <p>Last Updated
+        <div class="social-icons">
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="ig-circle-btn">
+                <img src="{{ "/media/instagram_white_28dp.png" | relURL }}" alt="Instagram" class="ig-circle-logo">
+            </a>
+            <a href="https://x.com/" target="_blank" rel="noopener noreferrer" aria-label="Twitter/X" class="tw-circle-btn">
+                <img src="{{ "/media/twitter_white_28dp.png" | relURL }}" alt="Twitter" class="tw-circle-logo">
+            </a>
+
+        </div>
+
+        <p class="copyright">&copy; 2012-{{ now.Format "2006" }} {{ .Site.Title }}</p>
+        <p class="page-updateDate">Last Updated
             {{ with .Lastmod }}
                 {{ .Format "01.02.2006" }}
             {{ else }}
